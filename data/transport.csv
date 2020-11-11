@@ -1,0 +1,156 @@
+tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,LH862,Lufthansa,Frankfurt,Oslo,2020-11-09 13:05:00,2020-11-09 14:55:00,fhi:web
+Fly,W61646,WizzAir,Kaunas,Ålesund,2020-11-06 20:15:00,2020-11-06 21:35:00,fhi:web
+Fly,W61783,WizzAir,Gdansk,Oslo,2020-11-06 06:35:00,2020-11-06 08:05:00,fhi:web
+Fly,W61215,WizzAir,Katowice,Torp,2020-11-06 06:15:00,2020-11-06 08:20:00,fhi:web
+Tog,474,SJ,Bodø,Mosjøen,2020-11-05 17:39:00,2020-11-05 21:33:00,fhi:web
+Fly,SK4425,SAS,Tromsø,Oslo,2020-11-05 17:05:00,2020-11-05 18:55:00,fhi:web
+Fly,DY169,Norwegian,Bergen,Stavanger,2020-11-05 16:36:00,2020-11-05 17:03:00,fhi:web
+Tog,473,SJ,Mosjøen,Bodø,2020-11-05 06:55:00,2020-11-05 10:55:00,fhi:web
+Skip,Husøy,Boreal,Træna,Stokkvågen,2020-11-05 06:45:00,2020-11-05 08:45:00,fhi:web
+Fly,WF778,Widerøe,Bodø,Mo i Rana,2020-11-04 22:00:00,2020-11-04 22:25:00,fhi:web
+Fly,DY356,Norwegian,Oslo,Bodø,2020-11-04 19:55:00,2020-11-04 21:05:00,fhi:web
+Tog,R41,Vy,Oslo,Bergen,2020-11-04 15:45:00,2020-11-04 00:00:00,fhi:web
+Fly,W65033,WizzAir,Krakow,Oslo,2020-11-04 12:30:00,2020-11-04 14:45:00,fhi:web
+Fly,SK262,SAS,Bergen,Oslo,2020-11-04 12:05:00,2020-11-04 12:51:00,fhi:web
+Skip,Husøy,Boreal,Stokkvågen,Træna,2020-11-04 09:05:00,2020-11-04 11:05:00,fhi:web
+Fly,SK499,SAS,Stockholm,Oslo,2020-11-03 16:45:00,2020-11-03 17:35:00,fhi:web
+Fly,WF773,Widerøe,Mo i Rana,Bodø,2020-11-03 16:10:00,2020-11-03 16:35:00,fhi:web
+Fly,KL1147,KLM,Amsterdam,Oslo,2020-11-03 14:35:00,2020-11-03 16:05:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2020-11-03 13:23:00,2020-11-03 11:49:00,fhi:web
+Buss,870,VY Travel,Stockholm,Oslo,2020-11-03 12:45:00,2020-11-03 20:25:00,fhi:web
+Tog,,Vy Travel,Stockholm,Oslo,2020-11-03 12:45:00,2020-11-03 20:25:00,fhi:web
+Skip,Superspeed 2,Colorline,Hirtshals,Larvik,2020-11-03 12:45:00,2020-11-03 16:30:00,fhi:web
+Fly,SK347,SAS,Trondheim,Oslo,2020-11-03 09:30:00,2020-11-03 10:15:00,fhi:web
+Tog,"41, tog 605",VY,Oslo,Bergen,2020-11-02 23:25:00,2020-11-03 06:48:00,fhi:web
+Fly,DY773,Norwegian,Trondheim,Oslo,2020-11-02 19:09:00,2020-11-02 19:45:00,fhi:web
+Fly,LO481,Polish Airlines,Warszawa,Oslo,2020-11-02 17:45:00,2020-11-02 09:55:00,fhi:web
+Fly,SK806,SAS,London,Oslo,2020-11-02 15:35:00,2020-11-02 18:40:00,fhi:web
+Fly,DY1041,Norwegian,Krakow,Oslo,2020-11-02 14:50:00,2020-11-02 16:35:00,fhi:web
+Fly,SK0269,SAS,Oslo,Bergen,2020-11-02 14:48:00,2020-11-02 15:21:00,fhi:web
+Fly,SK354,SAS,Oslo,Trondheim,2020-11-02 14:35:00,2020-11-02 15:15:00,fhi:web
+Fly,DY754,Norwegian,Oslo,Trondheim,2020-11-02 13:21:00,2020-11-02 14:00:00,fhi:web
+Tog,"41, Tog602",VY,Bergen,Oslo,2020-11-02 11:57:00,2020-11-02 19:05:00,fhi:web
+Buss,600,Vy Travel AB,Malmö,Oslo,2020-11-02 11:00:00,2020-11-02 19:10:00,fhi:web
+Fly,SK1314,SAS,Oslo,Ålesund,2020-11-02 08:15:00,2020-11-02 09:05:00,fhi:web
+Fly,QR175,Qatar Airways,Doha,Oslo,2020-11-02 08:00:00,2020-11-02 12:50:00,fhi:web
+Fly,JU450,Serbia Air,Beograd,Oslo,2020-11-02 06:15:00,2020-11-02 08:45:00,fhi:web
+Fly,SK0452,SAS,København,Oslo,2020-11-02 06:00:00,2020-11-02 07:00:00,fhi:web
+Tog,L12,Vy,Lillestrøm,Kongsberg,2020-11-01 22:56:00,2020-11-02 00:25:00,fhi:web
+Fly,WF549,Widerøes,Bergen,Stavanger,2020-11-01 22:45:00,2020-11-01 23:20:00,fhi:web
+Tog,L12,VY,Eidsvoll,Kongsberg,2020-11-01 22:30:00,2020-11-02 00:25:00,fhi:web
+Fly,SK382,SAS,Oslo,Trondheim,2020-11-01 21:45:00,2020-11-01 22:30:00,fhi:web
+Fly,WF629,Widerøes,Tromsø,Bergen,2020-11-01 20:20:00,2020-11-01 22:20:00,fhi:web
+Fly,SK1560,SAS,Paris,København,2020-11-01 20:10:00,2020-11-01 21:50:00,fhi:web
+Fly,DY773,Norwegian,Trondheim,Oslo,2020-11-01 19:09:00,2020-11-01 19:45:00,fhi:web
+Fly,SK4572,SAS,Bodø,Tromsø,2020-11-01 18:30:00,2020-11-01 19:11:00,fhi:web
+Fly,LH2454,Lufthansa,Frankfurt,Oslo,2020-11-01 16:40:00,2020-11-01 18:55:00,fhi:web
+Fly,DY933,Norwegian,København,Oslo,2020-11-01 15:30:00,2020-11-01 16:20:00,fhi:web
+Fly,KL1147,KLM,Amsterdam,Oslo,2020-11-01 14:38:00,2020-11-01 16:01:00,fhi:web
+Fly,SK356,SAS,Oslo,Trondheim,2020-11-01 13:20:00,2020-11-01 14:30:00,fhi:web
+Fly,W62079,Wizz Air,Lublin,Torp,2020-11-01 11:30:00,2020-11-01 13:40:00,fhi:web
+Fly,SK342,SAS,Oslo,Trondheim,2020-11-01 10:45:00,2020-11-01 11:30:00,fhi:web
+Fly,DY606,Norwegian,Oslo,Bergen,2020-11-01 09:29:00,2020-11-01 10:05:00,fhi:web
+Tog,41,SJ,Oslo,Trondheim,2020-11-01 08:02:00,2020-11-01 14:31:00,fhi:web
+Tog,R11,VY,Eidsvoll,Skien,2020-10-31 19:00:00,2020-10-31 21:53:00,fhi:web
+Fly,DY1977,Norwegian,Beograd,Oslo,2020-10-31 15:20:00,2020-10-31 18:05:00,fhi:web
+Fly,W61515,WizzAir,Warszawa,Torp,2020-10-31 13:10:00,2020-10-31 15:05:00,fhi:web
+Fly,DY1263,Norwegian,Antalya,Oslo,2020-10-31 12:00:00,2020-10-31 19:05:00,fhi:web
+Fly,SK338,SAS,Oslo,Trondheim,2020-10-31 10:50:00,2020-10-31 11:35:00,fhi:web
+Fly,W61747,Wizz Air,Gdansk,Stavanger,2020-10-31 06:05:00,2020-10-31 07:55:00,fhi:web
+Fly,LH864,Lufthansa,Frankfurt,Oslo,2020-10-30 20:55:00,2020-10-30 22:40:00,fhi:web
+Fly,SK291,SAS,Oslo,Bergen,2020-10-30 20:35:00,2020-10-30 21:20:00,fhi:web
+Fly,SK462,SAS,København,Oslo,2020-10-30 18:15:00,2020-10-30 19:20:00,fhi:web
+Fly,JU454,AirSerbia,Belgrad,Oslo,2020-10-30 17:05:00,2020-10-30 19:55:00,fhi:web
+Tog,R20,VY,Oslo S,Halden,2020-10-30 17:02:00,2020-10-30 18:48:00,fhi:web
+Fly,SK364,SAS,Oslo,Trondheim,2020-10-30 17:00:00,2020-10-30 17:45:00,fhi:web
+Fly,DY190,Norwegian,Oslo,Haugesund,2020-10-30 17:00:00,2020-10-30 17:45:00,fhi:web
+Fly,SK362,SAS,Oslo,Trondheim,2020-10-30 15:40:00,2020-10-30 16:30:00,fhi:web
+Fly,KL1203,KLM,Amsterdam,Stavanger,2020-10-30 15:15:00,2020-10-30 16:25:00,fhi:web
+Fly,SK4299,SAS,Kiev,Oslo,2020-10-30 14:00:00,2020-10-30 15:50:00,fhi:web
+Fly,WF455,Widerøe,Ålesund,Bergen,2020-10-30 13:20:00,2020-10-30 13:57:00,fhi:web
+Fly,LH862,Lufthansa,Frankfurt,Oslo,2020-10-30 13:05:00,2020-10-30 14:55:00,fhi:web
+Fly,DY1053,Norwegian,Gdansk,Oslo,2020-10-30 12:15:00,2020-10-30 13:25:00,fhi:web
+Buss,NW400,Kystbussen,Bergen,Stavanger,2020-10-30 11:25:00,2020-10-30 16:50:00,fhi:web
+Fly,W61979,Wizz Air,Poznan,Torp,2020-10-30 11:00:00,2020-10-30 12:45:00,fhi:web
+Fly,SK252,SAS,Bergen,Oslo,2020-10-30 09:20:00,2020-10-30 10:01:00,fhi:web
+Buss,60007,Flixbuss,Stockholm,Oslo,2020-10-30 08:30:00,2020-10-30 15:50:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2020-10-30 08:05:00,2020-10-30 12:20:00,fhi:web
+Fly,W61745,WizzAir,Gdansk,Bergen,2020-10-30 07:40:00,2020-10-30 09:40:00,fhi:web
+Fly,W61783,Wizz Air,Gdansk,Oslo,2020-10-30 06:35:00,2020-10-30 08:05:00,fhi:web
+Fly,KL1205,KLM,Amsterdam,Stavanger,2020-10-29 21:20:00,2020-10-29 22:30:00,fhi:web
+Tog,R30,VY/Gjøvikbanen,Oslo,Gjøvik,2020-10-29 19:02:00,2020-10-29 20:59:00,fhi:web
+Fly,WF753,Widerøes,Trondheim,Mosjøen,2020-10-29 18:45:00,2020-10-29 20:25:00,fhi:web
+Fly,DY631,Norwegian,Bergen,Oslo,2020-10-29 16:29:00,2020-10-29 17:05:00,fhi:web
+Fly,SK4482,SAS,Stavanger,Trondheim,2020-10-29 16:00:00,2020-10-29 17:10:00,fhi:web
+Fly,SK355,SAS,Trondheim,Oslo,2020-10-29 12:25:00,2020-10-29 13:10:00,fhi:web
+Fly,SK4164,SAS,Bergen,Trondheim,2020-10-29 12:15:00,2020-10-29 13:05:00,fhi:web
+Tog,"41, Tog 605",VY,Oslo,Bergen,2020-10-28 23:25:00,2020-10-29 06:48:00,fhi:web
+Fly,DY548,Norwegian,Oslo,Stavanger,2020-10-28 20:00:00,2020-10-28 20:50:00,fhi:web
+Fly,SK4047,SAS,Oslo,Stavanger,2020-10-28 19:45:00,2020-10-28 20:30:00,fhi:web
+Fly,LH2454,Lufthansa,München,Oslo,2020-10-28 15:40:00,2020-10-28 17:55:00,fhi:web
+Buss,Express pluss,Vy,Sandefjord,Arendal,2020-10-28 15:22:00,2020-10-28 17:11:00,fhi:web
+Fly,AF1774,Air France,Paris,Oslo,2020-10-28 14:10:00,2020-10-28 16:30:00,fhi:web
+Fly,LH862,Lufthansa,Frankfurt,Oslo,2020-10-28 13:05:00,2020-10-28 15:05:00,fhi:web
+Fly,DY1041,Norwegian,Krakow,Oslo,2020-10-28 13:00:00,2020-10-28 14:45:00,fhi:web
+Fly,W61745,Wizz Air,Gdansk,Bergen,2020-10-28 12:25:00,2020-10-28 14:25:00,fhi:web
+Fly,W61783,WizzAir,Gdansk,Oslo,2020-10-28 06:35:00,2020-10-28 08:05:00,fhi:web
+Fly,SK4433,SAS,Tromsø,Oslo,2020-10-27 20:00:00,2020-10-27 21:55:00,fhi:web
+Fly,SK0499,SAS,Stockholm,Oslo,2020-10-27 16:45:00,2020-10-27 17:35:00,fhi:web
+Fly,KL1203,KLM,Amsterdam,Stavanger,2020-10-27 15:05:00,2020-10-27 16:35:00,fhi:web
+Fly,W61515,WizzAir,Warszawa,Torp,2020-10-27 13:10:00,2020-10-27 15:05:00,fhi:web
+Fly,SK4022,SAS,Stavanger,Oslo,2020-10-27 13:10:00,2020-10-27 14:00:00,fhi:web
+Fly,SK0263,SAS,Oslo,Bergen,2020-10-27 12:55:00,2020-10-27 13:31:00,fhi:web
+Fly,KL1193,KLM,Amsterdam,Bergen,2020-10-26 21:20:00,2020-10-26 22:40:00,fhi:web
+Fly,SK0379,SAS,Trondheim,Oslo,2020-10-26 19:30:00,2020-10-26 20:15:00,fhi:web
+Tog,SJ,Vy,Grong,Trondheim,2020-10-26 19:13:00,2020-10-26 20:13:00,fhi:web
+Fly,SK4043,SAS,Oslo,Stavanger,2020-10-26 17:15:00,2020-10-26 18:00:00,fhi:web
+Fly,WF418,Widerøe,Torp,Bergen,2020-10-26 15:45:00,2020-10-26 16:30:00,fhi:web
+Fly,LH2454,Lufthansa,München,Oslo,2020-10-26 15:40:00,2020-10-26 17:55:00,fhi:web
+Fly,KL1175,KLM,Amsterdam,Trondheim,2020-10-26 14:35:00,2020-10-26 16:30:00,fhi:web
+Tog,Bane NOR,SJ,Oslo,Trondheim,2020-10-26 14:02:00,2020-10-26 20:46:00,fhi:web
+Tog,472,SJ,Bodø,Trondheim,2020-10-26 12:34:00,2020-10-26 22:13:00,fhi:web
+Fly,WF411,Widerøe,Bergen,Torp,2020-10-26 11:50:00,2020-10-26 12:31:00,fhi:web
+Fly,SK4007,SAS,Oslo,Stavanger,2020-10-26 07:00:00,2020-10-26 08:00:00,fhi:web
+Fly,WF595,WizzAir,Bergen,Kristiansand,2020-10-25 22:45:00,2020-10-25 23:26:00,fhi:web
+Fly,KL1205,KLM,Amsterdam,Stavanger,2020-10-25 21:20:00,2020-10-25 22:30:00,fhi:web
+Fly,DY170,Norwegian,Stavanger,Bergen,2020-10-25 20:25:00,2020-10-25 21:05:00,fhi:web
+Fly,SK2872,SAS,København,Bergen,2020-10-25 17:10:00,2020-10-25 18:10:00,fhi:web
+Fly,WF869,Widerøe,Tromsø,Andenes,2020-10-25 17:00:00,2020-10-25 17:30:00,fhi:web
+Fly,DY137,Norwegian,Stavanger,Bergen,2020-10-25 16:50:00,2020-10-25 17:30:00,fhi:web
+Fly,DY817,Norwegian,Stockholm,Oslo,2020-10-25 16:20:00,2020-10-25 17:00:00,fhi:web
+Fly,DY763,Norwegian,Trondheim,Oslo,2020-10-25 16:10:00,2020-10-25 16:55:00,fhi:web
+Fly,WF925,Widerøe,Alta,Tromsø,2020-10-25 15:55:00,2020-10-25 16:35:00,fhi:web
+Tog,,VY/Entur,Oslo,Bergen,2020-10-25 15:43:00,,fhi:web
+Fly,DY933,Norwegian,København,Oslo,2020-10-25 15:20:00,2020-10-25 16:30:00,fhi:web
+Fly,FR4557,RyanAir,Milano,Oslo,2020-10-25 15:15:00,2020-10-25 17:45:00,fhi:web
+Fly,DY625,Norwegian,Bergen,Oslo,2020-10-25 15:09:00,2020-10-25 15:45:00,fhi:web
+Fly,KL1147,KLM,Amsterdam,Oslo,2020-10-25 14:35:00,2020-10-25 16:05:00,fhi:web
+Fly,WF975,Widerøe,Kirkenes,Alta,2020-10-25 14:35:00,2020-10-25 15:20:00,fhi:web
+Fly,DY618,Norwegian,Oslo,Bergen,2020-10-25 13:29:00,2020-10-25 14:05:00,fhi:web
+Fly,W65043,WizzAir,Krakow,Oslo,2020-10-25 12:45:00,2020-10-25 15:05:00,fhi:web
+Fly,WF454,Widerøe,Bergen,Ålesund,2020-10-25 12:10:00,2020-10-25 12:47:00,fhi:web
+Fly,DY617,Norwegian,Bergen,Oslo,2020-10-25 12:09:00,2020-10-25 12:45:00,fhi:web
+Fly,DY1041,Norwegian,Krakow,Torp,2020-10-25 11:55:00,2020-10-25 13:40:00,fhi:web
+Fly,KL1143,KLM,Amsterdam,Oslo,2020-10-25 10:05:00,2020-10-25 11:55:00,fhi:web
+Fly,W61879,WizzAir,Wroclaw,Oslo,2020-10-24 18:00:00,2020-10-24 19:50:00,fhi:web
+Fly,DY1991,Norwegian,Split,Oslo,2020-10-24 17:20:00,2020-10-24 20:10:00,fhi:web
+Fly,DY1805,Norwegian,Malaga,Oslo,2020-10-24 17:15:00,2020-10-24 21:15:00,fhi:web
+Fly,W65033,WizzAir,Krakow,Oslo,2020-10-24 12:35:00,2020-10-24 14:50:00,fhi:web
+Fly,W62873,WizzAir,Wien,Oslo,2020-10-24 12:00:00,2020-10-24 14:05:00,fhi:web
+Fly,KL1143,KLM,Amsterdam,Oslo,2020-10-24 09:20:00,2020-10-24 11:05:00,fhi:web
+Fly,W65041,WizzAir,Krakow,Bergen,2020-10-24 06:20:00,2020-10-24 08:50:00,fhi:web
+Skip,MS Fjorddronningen,Troms Fylkestrafikk,Tromsø,Harstad,2020-10-23 20:30:00,2020-10-23 23:05:00,fhi:web
+Fly,SK0379,SAS,Trondheim,Oslo,2020-10-23 19:55:00,2020-10-23 20:40:00,fhi:web
+Fly,DY278,Norwegian,Oslo,Kristiansand,2020-10-23 19:20:00,2020-10-23 20:10:00,fhi:web
+Fly,DY768,Norwegian,Oslo,Trondheim,2020-10-23 19:00:00,2020-10-23 19:55:00,fhi:web
+Fly,SK284,SAS,Bergen,Oslo,2020-10-23 18:20:00,2020-10-23 19:01:00,fhi:webg
+Fly,DY169,Norwegian,Bergen,Stavanger,2020-10-23 16:30:00,2020-10-23 17:10:00,fhi:web
+Fly,DY540,Norwegian,Oslo,Bergen,2020-10-23 16:30:00,2020-10-23 17:00:00,fhi:web
+Fly,SK0867,SAS,Stockholm,Oslo,2020-10-23 14:30:00,2020-10-23 15:25:00,fhi:web
+Fly,KL1175,KLM,Amsterdam,Trondheim,2020-10-23 14:20:00,2020-10-23 16:30:00,fhi:web
+Fly,DY1041,Norwegian,Krakow,Torp,2020-10-23 12:50:00,2020-10-23 14:55:00,fhi:web
+Fly,FR8508,Ryanair,Krakow,Torp,2020-10-23 12:20:00,2020-10-23 14:40:00,fhi:web
+Fly,WF454,Widerøe,Bergen,Ålesund,2020-10-23 12:10:00,2020-10-23 12:47:00,fhi:web
+Fly,SK4014,SAS,Stavanger,Oslo,2020-10-23 09:35:00,2020-10-23 10:16:00,fhi:web
+Fly,W61215,WizzAir,Katowice,Oslo,2020-10-23 06:15:00,2020-10-23 08:20:00,fhi:web
