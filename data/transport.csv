@@ -1,5 +1,15 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,SK1320,SAS,Oslo,Ålesund,2020-11-13 13:00:00,2020-11-13 13:55:00,fhi:web
+Fly,SK2862,SAS,København,Bergen,2020-11-13 08:10:00,2020-11-13 09:35:00,fhi:web
+Fly,WF562,Widerøe,Bergen,Kristiansund,2020-11-13 07:40:00,2020-11-13 08:35:00,fhi:web
+Fly,SK2301,SAS,Oslo,Kristiansund,2020-11-13 07:30:00,2020-11-13 08:30:00,fhi:web
+Fly,SK1758,SAS,Gdansk,København,2020-11-13 06:00:00,2020-11-13 07:05:00,fhi:web
+Fly,FR4557,RyanAir,Milano,Oslo,2020-11-11 17:00:00,2020-11-11 19:30:00,fhi:web
+Fly,WF153,Widerøe,Oslo,Sandane,2020-11-11 16:00:00,2020-11-11 17:05:00,fhi:web
+Fly,BT151,Air Baltic,Riga,Oslo,2020-11-11 07:15:00,2020-11-11 08:00:00,fhi:web
+Fly,DY611,Norwegian,Bergen,Oslo,2020-11-10 09:29:00,2020-11-10 10:05:00,fhi:web
 Fly,DY416,Norwegian,Oslo,Ålesund,2020-11-09 19:30:00,2020-11-09 20:10:00,fhi:web
+Fly,SK462,SAS,København,Oslo,2020-11-09 18:15:00,2020-11-09 19:20:00,fhi:web
 Buss,NW400-Kystbussen,NOR-WAY Bussekspress,Stavanger,Bergen,2020-11-09 16:45:00,2020-11-09 22:10:00,fhi:web
 Fly,DY817,Norwegian,Stockholm,Oslo,2020-11-09 16:20:00,2020-11-09 17:00:00,fhi:web
 Fly,SK4546,SAS,Oslo,Alta,2020-11-09 15:50:00,2020-11-09 17:40:00,fhi:web
@@ -9,12 +19,16 @@ Fly,SK4023,SAS,Oslo,Stavanger,2020-11-09 11:45:00,2020-11-09 12:30:00,fhi:web
 Fly,DY606,Norwegian,Oslo,Bergen,2020-11-09 09:29:00,2020-11-09 10:05:00,fhi:web
 Fly,JU450,Air Serbia,Beograd,Oslo,2020-11-09 06:05:00,2020-11-09 08:45:00,fhi:web
 Fly,SK4437,SAS,Tromsø,Oslo,2020-11-08 21:20:00,2020-11-08 23:15:00,fhi:web
+Fly,DY768,Norwegian,Oslo,Trondheim,2020-11-08 18:19:00,2020-11-08 18:55:00,fhi:web
 Fly,W65041,WizzAir,Krakow,Bergen,2020-11-08 18:10:00,2020-11-08 20:40:00,fhi:web
 Fly,W61718,WizzAir,Bergen,Oslo,2020-11-08 17:20:00,2020-11-08 18:15:00,fhi:web
 Fly,WF421,Widerøes,Bergen,Oslo,2020-11-08 17:05:00,2020-11-08 17:55:00,fhi:web
 Fly,FR4557,RyanAir,Milano,Torp,2020-11-08 15:15:00,2020-11-08 17:45:00,fhi:web
 Fly,WF625,Widerøes,Tromsø,Bergen,2020-11-08 14:15:00,2020-11-08 16:20:00,fhi:web
 Fly,DY1041,Norwegian,Krakow,Oslo,2020-11-08 11:55:00,2020-11-08 13:40:00,fhi:web
+Fly,FR1394,RyanAir,London,Oslo,2020-11-08 11:40:00,2020-11-08 14:35:00,fhi:web
+Fly,W62155,WizzAir,Szczecin,Stavanger,2020-11-08 10:35:00,2020-11-08 12:05:00,fhi:web
+Fly,QR175,Qatar Airways,Doha,Oslo,2020-11-08 08:00:00,2020-11-08 12:50:00,fhi:web
 Fly,DY548,Norwegian,Oslo,Stavanger,2020-11-07 20:08:00,2020-11-07 20:41:00,fhi:web
 Fly,KL1189,KLM,Amsterdam,Bergen,2020-11-07 15:40:00,2020-11-07 17:05:00,fhi:web
 Buss,657,VY Bus4You,Malmö,Oslo,2020-11-07 14:15:00,2020-11-07 21:40:00,fhi:web
