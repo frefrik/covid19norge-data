@@ -7,6 +7,7 @@ Fly,SK1872,SAS,København,Stavanger,2020-11-23 14:05:00,2020-11-23 15:20:00,fhi:
 Fly,LH864,Lufthansa,Frankfurt,Oslo,2020-11-22 20:55:00,2020-11-22 22:55:00,fhi:web
 Fly,SK1323,SAS,Ålesund,Oslo,2020-11-22 16:35:00,2020-11-22 17:30:00,fhi:web
 Fly,DY625,Norwegian,Bergen,Oslo,2020-11-22 15:09:00,2020-11-22 15:45:00,fhi:web
+Skip,Color Magic,ColorLine,Oslo,Kiel,2020-11-22 14:00:00,2020-11-24 11:00:00,fhi:web
 Fly,KL1151,KLM,Amsterdam,Oslo,2020-11-21 20:35:00,2020-11-21 22:20:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2020-11-21 08:00:00,2020-11-21 13:00:00,fhi:web
 Tog,405,SJ,Oslo S,Trondheim S,2020-11-20 23:06:00,2020-11-20 06:30:00,fhi:web
