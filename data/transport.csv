@@ -4,6 +4,9 @@ Fly,KL1203,KLM,Amsterdam,Stavanger,2020-11-24 15:15:00,2020-11-24 16:25:00,fhi:w
 Fly,W61783,WizzAir,Gdansk,Oslo,2020-11-23 17:05:00,2020-11-23 18:35:00,fhi:web
 Fly,SK4184,SAS,Stavanger,Bergen,2020-11-23 16:55:00,2020-11-23 19:00:00,fhi:web
 Fly,SK1872,SAS,København,Stavanger,2020-11-23 14:05:00,2020-11-23 15:20:00,fhi:web
+Fly,SK4023,SAS,Oslo,Stavanger,2020-11-23 11:45:00,2020-11-23 12:40:00,fhi:web
+Fly,TK1751,Turkish Airline,Istanbul,Oslo,2020-11-23 08:45:00,2020-11-23 10:35:00,fhi:web
+Fly,JU450,AirSerbia,Beograd,Oslo,2020-11-23 06:05:00,2020-11-23 08:55:00,fhi:web
 Fly,LH864,Lufthansa,Frankfurt,Oslo,2020-11-22 20:55:00,2020-11-22 22:55:00,fhi:web
 Fly,SK1323,SAS,Ålesund,Oslo,2020-11-22 16:35:00,2020-11-22 17:30:00,fhi:web
 Fly,DY625,Norwegian,Bergen,Oslo,2020-11-22 15:09:00,2020-11-22 15:45:00,fhi:web
