@@ -281,3 +281,4 @@ date,new,total,source
 2020-11-26,33,34747,fhi:git
 2020-11-27,446,35193,msis:api
 2020-11-28,153,35346,msis:api
+2020-11-29,0,35346,local:cron
