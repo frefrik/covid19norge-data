@@ -282,3 +282,4 @@ date,new,total,source
 2020-11-27,446,35193,msis:api
 2020-11-28,353,35546,msis:api
 2020-11-29,138,35684,msis:api
+2020-11-30,0,35684,local:cron
