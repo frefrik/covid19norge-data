@@ -1,4 +1,5 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,SK1326,SAS,Oslo,Ålesund,2020-11-26 17:10:00,2020-11-26 18:10:00,fhi:web
 Fly,KL1203,KLM,Amsterdam,Stavanger,2020-11-26 15:05:00,2020-11-26 16:35:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2020-11-25 08:00:00,2020-11-25 13:00:00,fhi:web
 Fly,DY311,Norwegian,Kirkenes,Oslo,2020-11-24 21:00:00,2020-11-24 22:50:00,fhi:web
