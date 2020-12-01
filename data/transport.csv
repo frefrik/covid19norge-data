@@ -1,5 +1,12 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,SK1326,SAS,Oslo,Ålesund,2020-11-29 17:05:00,2020-11-29 18:05:00,fhi:web
+Fly,SK458,SAS,København,Oslo,2020-11-29 14:20:00,2020-11-29 15:35:00,fhi:web
+Fly,KL1203,KLM,Amsterdam,Stavanger,2020-11-28 15:05:00,2020-11-28 16:35:00,fhi:web
+Fly,SK223,SAS,Oslo,Kristiansand,2020-11-27 19:50:00,2020-11-27 20:40:00,fhi:web
 Fly,SK370,SAS,Oslo,Trondheim,2020-11-27 19:35:00,2020-11-27 20:30:00,fhi:web
+Fly,SK462,SAS,København,Oslo,2020-11-27 18:15:00,2020-11-27 19:30:00,fhi:web
+Fly,DY635,Norwegian,Bergen,Oslo,2020-11-27 17:49:00,2020-11-27 18:25:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2020-11-27 14:35:00,2020-11-27 16:30:00,fhi:web
 Fly,SK1326,SAS,Oslo,Ålesund,2020-11-26 17:10:00,2020-11-26 18:10:00,fhi:web
 Fly,KL1203,KLM,Amsterdam,Stavanger,2020-11-26 15:05:00,2020-11-26 16:35:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2020-11-25 08:00:00,2020-11-25 13:00:00,fhi:web
