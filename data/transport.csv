@@ -1,24 +1,36 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,SK1326,SAS,Oslo,Ålesund,2020-11-30 17:10:00,2020-11-30 18:10:00,fhi:web
+Fly,SK4473,SAS,Kirkenes,Oslo,2020-11-30 11:30:00,2020-11-30 13:45:00,fhi:web
 Fly,SK1326,SAS,Oslo,Ålesund,2020-11-29 17:05:00,2020-11-29 18:05:00,fhi:web
+Buss,NW192,Konkurrenten,Kristiansand,Oslo,2020-11-29 15:00:00,2020-11-29 19:35:00,fhi:web
+Fly,KL1175,KLM,Amsterdam,Trondheim,2020-11-29 14:25:00,2020-11-29 16:40:00,fhi:web
 Fly,SK458,SAS,København,Oslo,2020-11-29 14:20:00,2020-11-29 15:35:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2020-11-29 08:05:00,2020-11-29 12:20:00,fhi:web
 Fly,KL1203,KLM,Amsterdam,Stavanger,2020-11-28 15:05:00,2020-11-28 16:35:00,fhi:web
 Fly,SK223,SAS,Oslo,Kristiansand,2020-11-27 19:50:00,2020-11-27 20:40:00,fhi:web
 Fly,SK370,SAS,Oslo,Trondheim,2020-11-27 19:35:00,2020-11-27 20:30:00,fhi:web
 Fly,SK462,SAS,København,Oslo,2020-11-27 18:15:00,2020-11-27 19:30:00,fhi:web
 Fly,DY635,Norwegian,Bergen,Oslo,2020-11-27 17:49:00,2020-11-27 18:25:00,fhi:web
+Buss,NW192,Konkurrenten,Oslo,Kristiansand,2020-11-27 17:10:00,2020-11-27 21:40:00,fhi:web
+Tog,L1,VY,Lillestrøm,Spikkestad,2020-11-27 17:06:00,2020-11-27 18:03:00,fhi:web
+Tog,L14,VY,Kongsvinger,Spikkestad,2020-11-27 14:39:00,2020-11-27 17:04:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2020-11-27 14:35:00,2020-11-27 16:30:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2020-11-27 08:05:00,2020-11-27 12:20:00,fhi:web
 Fly,SK1326,SAS,Oslo,Ålesund,2020-11-26 17:10:00,2020-11-26 18:10:00,fhi:web
 Fly,KL1203,KLM,Amsterdam,Stavanger,2020-11-26 15:05:00,2020-11-26 16:35:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2020-11-25 08:00:00,2020-11-25 13:00:00,fhi:web
 Tog,406,SJ,Trondheim,Oslo,2020-11-24 23:17:00,2020-11-25 06:50:00,fhi:web
 Fly,DY311,Norwegian,Kirkenes,Oslo,2020-11-24 21:00:00,2020-11-24 22:50:00,fhi:web
+Fly,SK462,SAS,København,Oslo,2020-11-24 18:15:00,2020-11-24 19:30:00,fhi:web
 Fly,KL1203,KLM,Amsterdam,Stavanger,2020-11-24 15:15:00,2020-11-24 16:25:00,fhi:web
 Fly,FR8510,RyanAir,Gdansk,Oslo,2020-11-24 12:35:00,2020-11-24 14:10:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2020-11-24 08:05:00,2020-11-24 12:20:00,fhi:web
 Fly,W61783,WizzAir,Gdansk,Oslo,2020-11-23 17:05:00,2020-11-23 18:35:00,fhi:web
 Fly,SK4184,SAS,Stavanger,Bergen,2020-11-23 16:55:00,2020-11-23 19:00:00,fhi:web
+Buss,VY190,VY,Kristiansand,Oslo,2020-11-23 16:00:00,2020-11-23 20:18:00,fhi:web
 Fly,SK1872,SAS,København,Stavanger,2020-11-23 14:05:00,2020-11-23 15:20:00,fhi:web
 Fly,SK4023,SAS,Oslo,Stavanger,2020-11-23 11:45:00,2020-11-23 12:40:00,fhi:web
+Buss,VY190,VY,Oslo,Kristiansand,2020-11-23 10:00:00,2020-11-23 14:18:00,fhi:web
 Fly,TK1751,Turkish Airline,Istanbul,Oslo,2020-11-23 08:45:00,2020-11-23 10:35:00,fhi:web
 Fly,DY422,Norwegian,Oslo,Molde,2020-11-23 08:10:00,2020-11-23 08:50:00,fhi:web
 Fly,JU450,AirSerbia,Beograd,Oslo,2020-11-23 06:05:00,2020-11-23 08:55:00,fhi:web
