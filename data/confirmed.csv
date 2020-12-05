@@ -288,4 +288,3 @@ date,new,total,source
 2020-12-03,60,37371,fhi:git
 2020-12-04,430,37801,msis:api
 2020-12-05,160,37961,msis:api
-2020-12-06,0,37961,local:cron
