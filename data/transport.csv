@@ -1,10 +1,19 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,DY608,Norwegian,Oslo,Bergen,2020-12-06 10:15:00,2020-12-06 11:10:00,fhi:web
+Fly,AY915,Finnair,Helsinki,Oslo,2020-12-05 16:05:00,2020-12-05 16:35:00,fhi:web
+Fly,DY378,Norwegian,Oslo,Tromsø,2020-12-04 18:14:00,2020-12-04 20:20:00,fhi:web
+Fly,DY620,Norwegian,Oslo,Bergen,2020-12-04 16:29:00,2020-12-04 17:05:00,fhi:web
+Fly,FR8508,Ryanair,Krakow,Oslo,2020-12-04 12:20:00,2020-12-04 14:30:00,fhi:web
 Fly,SK2305,SAS,Oslo,Kristiansund,2020-12-03 18:30:00,2020-12-03 19:25:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2020-12-03 14:35:00,2020-12-03 16:30:00,fhi:web
+Fly,DY401,Norwegian,Ålesund,Oslo,2020-12-03 12:25:00,2020-12-03 13:05:00,fhi:web
 Fly,SK283,SAS,Oslo,Bergen,2020-12-02 18:40:00,2020-02-12 19:35:00,fhi:web
 Fly,SK499,SAS,Arlanda,Oslo,2020-12-02 16:45:00,2020-02-12 17:35:00,fhi:web
+Tog,R20,VY,Oslo,Halden,2020-12-02 14:01:00,2020-12-02 15:45:00,fhi:web
 Fly,SK4023,SAS,Oslo,Stavanger,2020-12-02 11:45:00,2020-12-02 12:40:00,fhi:web
 Fly,SK397,SAS,Oslo,Bardufoss,2020-12-01 21:07:00,2020-12-01 22:42:00,fhi:web
+Fly,KL1147,KLM,Amsterdam,Oslo,2020-12-01 14:35:00,2020-12-01 16:05:00,fhi:web
+Fly,W61707,WizzAir,Oslo,Trondheim,2020-12-01 13:10:00,2020-12-01 13:55:00,fhi:web
 Fly,KL 1151,KLM,Amseterdam,Oslo,2020-11-30 20:51:00,2020-11-30 22:12:00,fhi:web
 Fly,KL1151,KLM,Amsterdam,Oslo,2020-11-30 20:50:00,2020-11-30 22:13:00,fhi:web
 Fly,SK1326,SAS,Oslo,Ålesund,2020-11-30 17:10:00,2020-11-30 18:10:00,fhi:web
