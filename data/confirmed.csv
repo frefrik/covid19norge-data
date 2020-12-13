@@ -296,3 +296,4 @@ date,new,total,source
 2020-12-11,417,40439,msis:api
 2020-12-12,364,40803,msis:api
 2020-12-13,124,40927,msis:api
+2020-12-14,0,40927,local:cron
