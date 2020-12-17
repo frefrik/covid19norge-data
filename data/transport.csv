@@ -1,15 +1,50 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Buss,VY190,VY Express Plus,Oslo,Kristiansand,2020-12-13 17:00:00,2020-12-13 21:18:00,fhi:web
+Fly,FR1394,Ryan Air,London,Oslo,2020-12-13 11:40:00,2020-12-13 14:40:00,fhi:web
+Fly,SK4043,SAS,Oslo,Stavanger,2020-12-12 17:10:00,2020-12-12 18:05:00,fhi:web
+Fly,SK1460,SAS,København,Oslo,2020-12-12 15:40:00,2020-12-12 16:55:00,fhi:web
+Fly,SK806,SAS,London,Oslo,2020-12-12 15:35:00,2020-12-12 18:50:00,fhi:web
+Fly,DY941,Norwegian,København,Oslo,2020-12-12 11:15:00,2020-12-12 12:30:00,fhi:web
+Fly,LO481,Polish Airlines,Warszawa,Oslo,2020-12-12 07:45:00,2020-12-12 09:55:00,fhi:web
+Fly,DY773,Norwegian,Trondheim,Oslo,2020-12-11 20:20:00,2020-12-11 21:20:00,fhi:web
+Fly,SK804,SAS,London,Oslo,2020-12-11 10:20:00,2020-12-11 13:30:00,fhi:web
+Fly,SK1462,SAS,København,Oslo,2020-12-11 08:10:00,2020-12-11 09:25:00,fhi:web
+Fly,SK485,SAS,Stockholm,Oslo,2020-12-11 07:00:00,2020-12-11 08:05:00,fhi:web
+Fly,SK283,SAS,Oslo,Bergen,2020-12-10 18:40:00,2020-12-10 19:35:00,fhi:web
+Skip,800,Fosennamsos Sjø,Trondheim,Kristiansund,2020-12-10 16:25:00,2020-12-10 20:00:00,fhi:web
+Buss,821,Flybuss,Evenes,Sortland,2020-12-10 15:55:00,2020-12-10 17:55:00,fhi:web
+Fly,SK806,SAS,Lonndon,Oslo,2020-12-10 15:35:00,2020-12-10 18:50:00,fhi:web
+Fly,KL1189,KLM,Amsterdam,Bergen,2020-12-10 14:55:00,2020-12-10 16:40:00,fhi:web
+Fly,DY360,Norwegian,Oslo,Harstad,2020-12-10 14:00:00,2020-12-10 15:40:00,fhi:web
+Fly,W61707,Wizz Air,Oslo,Trondheim,2020-12-10 07:00:00,2020-12-10 07:55:00,fhi:web
+Fly,SK452,SAS,København,Oslo,2020-12-10 06:00:00,2020-12-10 07:00:00,fhi:web
+Fly,KL1151,KLM,Amsterdam,Oslo,2020-12-09 20:35:00,2020-12-09 22:20:00,fhi:web
+Fly,KL1205,KLM,Amsterdam,Stavanger,2020-12-09 16:50:00,2020-12-09 18:20:00,fhi:web
+Fly,SK806,SAS,London,Oslo,2020-12-09 15:35:00,2020-12-09 18:50:00,fhi:web
 Tog,L12,VY,Eidsvoll,Kongsberg,2020-12-09 14:30:00,2020-12-09 16:26:00,fhi:web
 Fly,SK4483,SAS,Trondheim,Stavanger,2020-12-09 14:00:00,2020-12-09 15:15:00,fhi:web
 Tog,42,SJ,Trondheim,Oslo,2020-12-09 08:18:00,2020-12-09 15:03:00,fhi:web
+Fly,DY543,Norwegian,Stavanger,Oslo,2020-12-08 17:40:00,2020-12-08 18:30:00,fhi:web
+Tog,46,SJ,Trondheim,Oslo,2020-12-08 15:24:00,2020-12-08 22:04:00,fhi:web
+Fly,KL1143,KLM,Amsterdam,Oslo,2020-12-08 10:05:00,2020-12-08 11:55:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2020-12-08 08:05:00,2020-12-08 12:20:00,fhi:web
+Fly,KL1147,KLM,Amsterdam,Oslo,2020-12-07 14:25:00,2020-12-07 16:15:00,fhi:web
 Buss,VY190,VY,Oslo,Kristiansand,2020-12-07 14:00:00,2020-12-07 18:18:00,fhi:web
+Fly,DY403,Norwegian,Ålesund,Oslo,2020-12-07 12:15:00,2020-12-07 13:15:00,fhi:web
+Buss,FB65,VY flybuss,Moa,Ålesund Lufthavn,2020-12-07 10:45:00,2020-12-07 11:30:00,fhi:web
 Fly,KL1143,KLM,Amsterdam,Oslo,2020-12-07 10:05:00,2020-12-07 11:55:00,fhi:web
 Fly,SK4082,SAS,Oslo,Evenes,2020-12-07 08:40:00,2020-12-07 10:15:00,fhi:web
+Fly,SK345,SAS,Trondheim,Oslo,2020-12-07 08:30:00,2020-12-07 09:25:00,fhi:web
+Buss,101,Fram Ekspress,Volda,Ålesund,2020-12-07 07:35:00,2020-12-07 09:30:00,fhi:web
 Fly,KL1193,KLM,Amsterdam,Bergen,2020-12-06 21:10:00,2020-12-06 22:50:00,fhi:web
 Fly,LH864,Lufthansa,Frankfurt,Oslo,2020-12-06 20:55:00,2020-12-06 22:55:00,fhi:web
+Fly,SK277,SAS,Oslo,Bergen,2020-12-06 16:49:00,2020-12-06 17:25:00,fhi:web
+Fly,SK867,SAS,Stockholm,Oslo,2020-12-06 14:05:00,2020-12-06 14:55:00,fhi:web
 Fly,DY608,Norwegian,Oslo,Bergen,2020-12-06 10:15:00,2020-12-06 11:10:00,fhi:web
 Fly,AY915,Finnair,Helsinki,Oslo,2020-12-05 16:05:00,2020-12-05 16:35:00,fhi:web
 Fly,SK1460,SAS,København,Oslo,2020-12-05 15:40:00,2020-12-05 16:55:00,fhi:web
+Buss,101,Fram Ekspress,Ålesund,Volda,2020-12-04 20:25:00,2020-12-04 21:50:00,fhi:web
+Buss,FB65,VY flybuss,Ålesund Lufthavn,Moa,2020-12-04 19:10:00,2020-12-04 19:55:00,fhi:web
 Fly,DY378,Norwegian,Oslo,Tromsø,2020-12-04 18:14:00,2020-12-04 20:20:00,fhi:web
 Fly,JU454,Air Serbia,Beograd,Oslo,2020-12-04 17:05:00,2020-12-04 19:55:00,fhi:web
 Fly,DY620,Norwegian,Oslo,Bergen,2020-12-04 16:29:00,2020-12-04 17:05:00,fhi:web
