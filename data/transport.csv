@@ -1,12 +1,19 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,SK2872,SAS,København,Bergen,2020-12-15 16:50:00,2020-12-15 18:15:00,fhi:web
+Fly,DY769,Norwegian,Trondheim,Oslo,2020-12-14 17:40:00,2020-12-14 18:35:00,fhi:web
+Fly,LH862,Lufthansa,Frankfurt,Oslo,2020-12-14 13:05:00,2020-12-14 15:05:00,fhi:web
+Fly,DY768,Norwegian,Oslo,Trondheim,2020-12-13 19:09:00,2020-12-13 19:45:00,fhi:web
+Tog,329,VY,Drammen,Dombås,2020-12-13 17:57:00,2020-12-13 22:48:00,fhi:web
 Buss,VY190,VY Express Plus,Oslo,Kristiansand,2020-12-13 17:00:00,2020-12-13 21:18:00,fhi:web
 Fly,FR1394,Ryan Air,London,Oslo,2020-12-13 11:40:00,2020-12-13 14:40:00,fhi:web
 Fly,SK4043,SAS,Oslo,Stavanger,2020-12-12 17:10:00,2020-12-12 18:05:00,fhi:web
 Fly,SK1460,SAS,København,Oslo,2020-12-12 15:40:00,2020-12-12 16:55:00,fhi:web
 Fly,SK806,SAS,London,Oslo,2020-12-12 15:35:00,2020-12-12 18:50:00,fhi:web
+Fly,WF675,Widerøe,Trondheim,Bergen,2020-12-12 12:50:00,2020-12-12 14:00:00,fhi:web
 Fly,DY941,Norwegian,København,Oslo,2020-12-12 11:15:00,2020-12-12 12:30:00,fhi:web
 Fly,LO481,Polish Airlines,Warszawa,Oslo,2020-12-12 07:45:00,2020-12-12 09:55:00,fhi:web
 Fly,DY773,Norwegian,Trondheim,Oslo,2020-12-11 20:20:00,2020-12-11 21:20:00,fhi:web
+Fly,WF676,Widerøe,Bergen,Trondheim,2020-12-11 14:30:00,2020-12-11 15:40:00,fhi:web
 Fly,SK804,SAS,London,Oslo,2020-12-11 10:20:00,2020-12-11 13:30:00,fhi:web
 Fly,SK1462,SAS,København,Oslo,2020-12-11 08:10:00,2020-12-11 09:25:00,fhi:web
 Fly,SK485,SAS,Stockholm,Oslo,2020-12-11 07:00:00,2020-12-11 08:05:00,fhi:web
