@@ -1,12 +1,18 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,SK462,SAS,København,Oslo,2020-12-18 18:15:00,2020-12-18 19:30:00,fhi:web
+Fly,LH862,Lufthansa,Frankfurt,Oslo,2020-12-18 13:05:00,2020-12-18 15:05:00,fhi:web
 Fly,SK2882,SAS,København,Trondheim,2020-12-18 10:26:00,2020-12-18 11:47:00,fhi:web
 Skip,SuperSpeed,Color Line,Hirtshals,Larvik,2020-12-17 22:15:00,2020-12-18 02:00:00,fhi:web
 Fly,SK432,SAS,København,Oslo,2020-12-17 18:30:00,2020-12-17 19:21:00,fhi:web
+Fly,KL1175,KLM,Amsterdam,Trondheim,2020-12-17 14:36:00,2020-12-17 16:40:00,fhi:web
 Fly,SK2882,SAS,København,Trondheim,2020-12-17 10:18:00,2020-12-17 11:32:00,fhi:web
+Fly,KL1151,KLM,Amsterdam,Oslo,2020-12-16 20:35:00,2020-12-16 22:20:00,fhi:web
+Fly,WF604,Widerøe,Trondheim,Oslo,2020-12-16 17:55:00,2020-12-16 19:20:00,fhi:web
 Fly,DY620,Norwegian,Oslo,Bergen,2020-12-16 16:20:00,2020-12-16 17:15:00,fhi:web
 Fly,SK271,SAS,Oslo,Bergen,2020-12-16 16:11:00,2020-12-16 16:52:00,fhi:web
 Fly,SK221,SAS,Oslo,Kristiansand,2020-12-15 17:16:00,2020-12-15 17:52:00,fhi:web
 Fly,SK2872,SAS,København,Bergen,2020-12-15 16:50:00,2020-12-15 18:15:00,fhi:web
+Fly,WF605,Widerøe,Trondheim,Kristiansand,2020-12-15 16:05:00,2020-12-15 17:30:00,fhi:web
 Fly,SK4483,SAS,Trondheim,Stavanger,2020-12-15 13:58:00,2020-12-15 14:58:00,fhi:web
 Fly,SK366,SAS,Oslo,Trondheim,2020-12-14 19:16:00,2020-12-14 19:52:00,fhi:web
 Fly,DY769,Norwegian,Trondheim,Oslo,2020-12-14 17:40:00,2020-12-14 18:35:00,fhi:web
@@ -19,6 +25,7 @@ Buss,VY190,VY Express Plus,Oslo,Kristiansand,2020-12-13 17:00:00,2020-12-13 21:1
 Buss,NW400,Tide buss,Haugesund,Stavanger,2020-12-13 15:40:00,2020-12-13 17:50:00,fhi:web
 Fly,FR1394,Ryan Air,London,Oslo,2020-12-13 11:40:00,2020-12-13 14:40:00,fhi:web
 Fly,EK159,Emirates Flight,Dubai,Oslo,2020-12-13 08:32:00,2020-12-13 12:14:00,fhi:web
+Fly,QR175,Qatar Airways,Qatar,Oslo,2020-12-13 08:00:00,2020-12-13 13:00:00,fhi:web
 Fly,SK4043,SAS,Oslo,Stavanger,2020-12-12 17:10:00,2020-12-12 18:05:00,fhi:web
 Fly,SK1460,SAS,København,Oslo,2020-12-12 15:40:00,2020-12-12 16:55:00,fhi:web
 Fly,SK806,SAS,London,Oslo,2020-12-12 15:35:00,2020-12-12 18:50:00,fhi:web
