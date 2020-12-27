@@ -310,3 +310,4 @@ date,new,total,source
 2020-12-25,317,46249,msis:api
 2020-12-26,430,46679,msis:api
 2020-12-27,209,46888,msis:api
+2020-12-28,0,46888,local:cron
