@@ -1,4 +1,6 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Tog,21,SJ Nord,Trondheim,Oslo,2020-12-30 13:31:00,2020-12-30 20:04:00,fhi:web
+Tog,50,GoAhead,Stavanger,Oslo S,2020-12-30 10:16:00,2020-12-30 18:25:00,fhi:web
 Fly,SK499,SAS,Stockholm,Oslo,2020-12-29 16:45:00,2020-12-29 17:35:00,fhi:web
 Fly,SK4756,SAS,Frankfurt,Oslo,2020-12-29 12:24:00,2020-12-29 14:01:00,fhi:web
 Fly,DY548,Norwegian,Oslo,Stavanger,2020-12-28 19:00:00,2020-12-28 19:55:00,fhi:web
@@ -8,6 +10,7 @@ Fly,SK883,SAS,Stockholm,Oslo,2020-12-27 19:44:00,2020-12-27 20:27:00,fhi:web
 Fly,DY645,Norwegian,Bergen,Oslo,2020-12-27 19:10:00,2020-12-27 20:19:00,fhi:web
 Fly,DY8401,Norwegian,Bergen,Oslo,2020-12-27 18:30:00,2020-12-27 19:58:00,fhi:web
 Fly,SK281,SAS,Oslo,Bergen,2020-12-27 18:25:00,2020-12-27 19:03:00,fhi:web
+Tog,50,GoAhead,Oslo S,Stavanger,2020-12-27 15:25:00,2020-12-27 23:13:00,fhi:web
 Fly,SK4473,SAS,Kikenes,Oslo,2020-12-27 11:33:00,2020-12-27 13:40:00,fhi:web
 Fly,SK849,SAS,Stockholm,Oslo,2020-12-27 11:10:00,2020-12-27 11:56:00,fhi:web
 Fly,SK351,SAS,Trondheim,Oslo,2020-12-27 10:25:00,2020-12-27 11:20:00,fhi:web
