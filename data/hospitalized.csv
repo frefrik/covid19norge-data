@@ -1,5 +1,4 @@
 date,admissions,respiratory,source
-2020-01-11,98,-7,helsedir:api
 2020-03-08,0,0,helsedir:api
 2020-03-09,2,0,helsedir:api
 2020-03-10,8,0,helsedir:api
@@ -269,3 +268,4 @@ date,admissions,respiratory,source
 2021-01-10,143,20,helsedir:api
 2021-01-11,147,20,helsedir:api
 2021-01-12,149,22,helsedir:api
+2021-01-13,156,24,helsedir:api
