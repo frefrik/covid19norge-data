@@ -122,3 +122,21 @@ Fly,SK1320,SAS,Oslo,Ålesund,2020-11-13 13:00:00,2020-11-13 13:55:00,fhi:web
 Fly,WF568,Widerøe,Bergen,Kristiansund,2020-11-13 11:00:00,2020-11-13 11:55:00,fhi:web
 ...
 ```
+
+---
+### vaccine_doses.csv
+Number of people vaccinated with the 1st dose of the coronary vaccine.
+
+**Data source:**
+* https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/
+
+```
+date,new_doses_administered,total_doses_administered,source
+2020-12-27,5,5,fhi:web
+2020-12-28,591,596,fhi:web
+2020-12-29,1066,1662,fhi:web
+2020-12-30,420,2082,fhi:web
+2020-12-31,72,2154,fhi:web
+2021-01-01,5,2159,fhi:web
+...
+```
