@@ -1,6 +1,4 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
-Fly,WF773,Widerøe,Mo i Rana,Bodø,2021-12-27 16:05:00,2021-12-27 16:35:00,fhi:web
-Fly,WF773,Widerøe,Mo i Rana,Bodø,2021-12-27 16:05:00,2020-12-27 16:35:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-01-07 14:35:00,2021-01-07 16:30:00,fhi:web
 Fly,LH864,Lufthansa,Frankfurt,Oslo,2021-01-06 20:55:00,2021-01-06 22:55:00,fhi:web
 Fly,W61515,Wizzair,Warszawa,Oslo,2021-01-06 11:30:00,2021-06-01 13:25:00,fhi:web
@@ -112,6 +110,7 @@ Fly,DY645,Norwegian,Bergen,Oslo,2020-12-27 19:10:00,2020-12-27 20:19:00,fhi:web
 Fly,DY8401,Norwegian,Bergen,Oslo,2020-12-27 18:30:00,2020-12-27 19:58:00,fhi:web
 Fly,SK281,SAS,Oslo,Bergen,2020-12-27 18:25:00,2020-12-27 19:03:00,fhi:web
 Skip,MS Terningen,FosenNamsos Sjø,Trondheim,Kristiansund,2020-12-27 16:15:00,2020-12-27 20:00:00,fhi:web
+Fly,WF773,Widerøe,Mo i Rana,Bodø,2020-12-27 16:05:00,2020-12-27 16:35:00,fhi:web
 Tog,50,GoAhead,Oslo S,Stavanger,2020-12-27 15:25:00,2020-12-27 23:13:00,fhi:web
 Tog,50,Go-Ahead,Oslo S,Stavanger,2020-12-27 15:25:00,2020-12-27 23:13:00,fhi:web
 Fly,LO483,Polish Airlines,Warszawa,Oslo,2020-12-27 14:45:00,2020-12-27 18:55:00,fhi:web
