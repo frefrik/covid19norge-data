@@ -1,12 +1,16 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,LH 862,Lufthansa,Frankfurt,Oslo,2021-01-18 13:05:00,2021-01-18 15:05:00,fhi:web
 Fly,SK1458,SAS,København,Oslo,2021-01-16 12:00:00,2021-01-16 13:10:00,fhi:web
+Tog,41,VY,Oslo,Bergen,2021-01-16 08:25:00,2021-01-16 14:55:00,fhi:web
 Skip,Superspeed 2,Color Line,Hirtshals,Larvik,2021-01-16 08:00:00,2021-01-16 11:30:00,fhi:web
 Tog,405,SJ-Nord,Oslo,Trondheim,2021-01-15 22:50:00,2021-01-16 06:28:00,fhi:web
 Fly,JU454,AirSerbia,Beograd,Oslo,2021-01-15 17:05:00,2021-01-15 19:55:00,fhi:web
+Fly,SK4425,SAS,Tromsø,Oslo,2021-01-15 17:05:00,2021-01-15 19:05:00,fhi:web
 Fly,SK2872,SAS,København,Bergen,2021-01-15 17:00:00,2021-01-15 18:25:00,fhi:web
 Tog,471,SJ-Nord,Trondheim,Bodø,2021-01-15 07:49:00,2021-01-15 17:37:00,fhi:web
 Fly,SK362,SAS,Oslo,Trondheim,2021-01-14 15:45:00,2021-01-14 16:40:00,fhi:web
 Fly,KL1189,KLM,Amsterdam,Bergen,2021-01-14 14:55:00,2021-01-14 16:40:00,fhi:web
+Fly,KL1175,KLM,Amsterdam,Trondheim,2021-01-14 14:25:00,2021-01-14 16:40:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-01-14 08:00:00,2021-01-14 13:00:00,fhi:web
 Fly,KL1151,KLM,Amsterdam,Oslo,2021-01-13 20:35:00,2021-01-13 22:20:00,fhi:web
 Fly,WF175,Widerøe,Oslo via Ørsta/Volda,Bergen,2021-01-13 16:45:00,2021-01-13 19:00:00,fhi:web
