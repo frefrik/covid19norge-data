@@ -125,18 +125,28 @@ Fly,WF568,Widerøe,Bergen,Kristiansund,2020-11-13 11:00:00,2020-11-13 11:55:00,f
 
 ---
 ### vaccine_doses.csv
-Number of people vaccinated with the 1st dose of the coronary vaccine.
+Number of people who have been vaccinated for COVID-19.  
+ - ```new_dose_1```: Number of people who received their first dose of a COVID-19 vaccine
+ - ```new_dose_2```: Number of people who received their second dose of a COVID-19 vaccine
+ - ```total_dose_1```: Cumulative number of people who received their first dose of a COVID-19 vaccine
+ - ```total_dose_2```: Cumulative number of people who received their second dose of a COVID-19 vaccine
+ - ```new_doses```: Number of total vaccine doses administered (new_dose_1 + new_dose_2)
+ - ```total_doses```: Cumulative number of total vaccine doses administered (total_dose_1 + total_dose_2)
+
 
 **Data source:**
-* https://www.fhi.no/sv/vaksine/koronavaksinasjonsprogrammet/koronavaksinasjonsstatistikk/
+* https://github.com/folkehelseinstituttet/surveillance_data
 
 ```
-date,new_doses_administered,total_doses_administered,source
-2020-12-27,5,5,fhi:web
-2020-12-28,591,596,fhi:web
-2020-12-29,1066,1662,fhi:web
-2020-12-30,420,2082,fhi:web
-2020-12-31,72,2154,fhi:web
-2021-01-01,5,2159,fhi:web
+granularity_geo,location_name,date,new_dose_1,new_dose_2,total_dose_1,total_dose_2,total_pr100_dose_1,total_pr100_dose_2,new_doses,total_doses,source
+county,Oslo,2020-12-27,5,0,5,0,0.00072098677133472,0.0,5,5,fhi:git
+county,Oslo,2020-12-28,264,0,269,0,0.0387890882978079,0.0,264,269,fhi:git
+county,Oslo,2020-12-29,118,0,387,0,0.0558043761013073,0.0,118,387,fhi:git
+county,Oslo,2020-12-30,58,0,445,0,0.06416782264879001,0.0,58,445,fhi:git
+county,Oslo,2020-12-31,5,0,450,0,0.0648888094201248,0.0,5,450,fhi:git
+county,Oslo,2021-01-01,6,0,456,0,0.0657539935457264,0.0,6,456,fhi:git
+county,Oslo,2021-01-02,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
+county,Oslo,2021-01-03,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
+county,Oslo,2021-01-04,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
 ...
 ```
