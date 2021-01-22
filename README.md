@@ -12,7 +12,7 @@ This repository contains datasets of daily time-series data related to COVID-19 
 |[Hospitalized](#hospitalizedcsv)|Helsedirektoratet|2021-01-21 13:05:02+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/hospitalized.csv)|[<center>preview</center>](data/hospitalized.csv)|
 |[Tested](#testedcsv)|FHI|2021-01-21 13:00:02+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested.csv)|[<center>preview</center>](data/tested.csv)|
 |[Tested Lab](#tested_labcsv)|FHI|2021-01-21 13:30:02+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested_lab.csv)|[<center>preview</center>](data/tested_lab.csv)|
-|[Transport](#transportcsv)|FHI|2021-01-21 01:30:07+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/transport.csv)|[<center>preview</center>](data/transport.csv)|
+|[Transport](#transportcsv)|FHI|2021-01-22 04:30:06+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/transport.csv)|[<center>preview</center>](data/transport.csv)|
 |[Vaccine Doses](#vaccine_dosescsv)|FHI|2021-01-21 20:18:47+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/vaccine_doses.csv)|[<center>preview</center>](data/vaccine_doses.csv)|
 <!-- table ends -->
 ## Datafiles
