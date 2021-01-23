@@ -1,5 +1,10 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,SK380,SAS,Oslo,Trondheim,2021-01-21 20:30:00,2021-01-21 21:30:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-01-21 14:35:00,2021-01-21 16:30:00,fhi:web
+Fly,KL1189,KLM,Amsterdam,Bergen,2021-01-19 15:06:00,2021-01-19 16:30:00,fhi:web
 Fly,LH 862,Lufthansa,Frankfurt,Oslo,2021-01-18 13:05:00,2021-01-18 15:05:00,fhi:web
+Fly,WF587,Widerøes,Bergen,Kristiansand,2021-01-18 11:35:00,2021-01-18 12:25:00,fhi:web
+Fly,SK4137,SAS,Trondheim,Bergen,2021-01-18 06:30:00,2021-01-18 07:30:00,fhi:web
 Fly,KL1205,KLM,Amsterdam,Stavanger,2021-01-17 17:08:00,2021-01-17 18:16:00,fhi:web
 Fly,RK1394,RyanAir,London,Oslo,2021-01-17 11:40:00,2021-01-17 14:40:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-01-17 08:05:00,2021-01-17 12:20:00,fhi:web
@@ -11,6 +16,7 @@ Tog,405,SJ-Nord,Oslo,Trondheim,2021-01-15 22:50:00,2021-01-16 06:28:00,fhi:web
 Fly,JU454,AirSerbia,Beograd,Oslo,2021-01-15 17:05:00,2021-01-15 19:55:00,fhi:web
 Fly,SK4425,SAS,Tromsø,Oslo,2021-01-15 17:05:00,2021-01-15 19:05:00,fhi:web
 Fly,SK2872,SAS,København,Bergen,2021-01-15 17:00:00,2021-01-15 18:25:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-01-15 14:35:00,2021-01-15 16:30:00,fhi:web
 Tog,471,SJ-Nord,Trondheim,Bodø,2021-01-15 07:49:00,2021-01-15 17:37:00,fhi:web
 Fly,SK362,SAS,Oslo,Trondheim,2021-01-14 15:45:00,2021-01-14 16:40:00,fhi:web
 Fly,KL1189,KLM,Amsterdam,Bergen,2021-01-14 14:55:00,2021-01-14 16:40:00,fhi:web
