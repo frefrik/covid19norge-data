@@ -1,10 +1,17 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,SK319,SAS,Haugesund,Oslo,2021-01-25 18:36:00,2021-01-25 19:15:00,fhi:web
+Fly,SK4082,SAS,Oslo,Evenes,2021-01-25 08:40:00,2021-01-25 10:15:00,fhi:web
+Fly,SK308,SAS,Oslo,Haugesund,2021-01-25 08:37:00,2021-01-25 09:15:00,fhi:web
+Fly,SK4004,SAS,Stavanger,Oslo,2021-01-25 07:00:00,2021-01-25 08:00:00,fhi:web
+Fly,SK291,SAS,Oslo,Bergen,2021-01-24 21:06:00,2021-01-24 21:39:00,fhi:web
 Fly,DY648,Norwegian,Oslo,Bergen,2021-01-24 20:46:00,2021-01-24 21:24:00,fhi:web
 Fly,W61745,WizzAir,Gdansk,Bergen,2021-01-24 19:00:00,2021-01-24 21:00:00,fhi:web
+Fly,SK4095,SAS,Evenes,Oslo,2021-01-24 18:11:00,2021-01-24 19:38:00,fhi:web
 Fly,SK4525,SAS,Molde,Oslo,2021-01-24 17:10:00,2021-01-24 18:00:00,fhi:web
 Fly,AF1774,AirFrance,Paris,Oslo,2021-01-24 14:10:00,2021-01-24 16:30:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-01-24 08:21:00,2021-01-24 12:02:00,fhi:web
 Fly,KL1147,KLM,Amsterdam,Oslo,2021-01-23 14:32:00,2021-01-23 16:11:00,fhi:web
+Fly,QR175,Qatar Airways,Doha,Oslo,2021-01-23 08:00:00,2021-01-23 13:00:00,fhi:web
 Fly,W63215,WizzaAir,Bucharest,Torp,2021-01-23 06:56:00,2021-01-23 08:50:00,fhi:web
 Fly,JU454,Air Serbia,Beograd,Oslo,2021-01-22 17:05:00,2021-01-22 19:55:00,fhi:web
 Fly,SK221,SAS,Oslo,Kristiansand,2021-01-22 17:05:00,2021-01-22 17:55:00,fhi:web
@@ -15,6 +22,7 @@ Fly,DY422,Norwegian,Oslo,Molde,2021-01-22 08:00:00,2021-01-22 09:00:00,fhi:web
 Fly,SK380,SAS,Oslo,Trondheim,2021-01-21 20:30:00,2021-01-21 21:30:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-01-21 14:35:00,2021-01-21 16:30:00,fhi:web
 Fly,KL1189,KLM,Amsterdam,Bergen,2021-01-19 15:06:00,2021-01-19 16:30:00,fhi:web
+Fly,EK160,Emirates,Oslo,Dubai,2021-01-19 14:10:00,2021-01-19 23:55:00,fhi:web
 Fly,LH 862,Lufthansa,Frankfurt,Oslo,2021-01-18 13:05:00,2021-01-18 15:05:00,fhi:web
 Fly,WF587,Widerøes,Bergen,Kristiansand,2021-01-18 11:35:00,2021-01-18 12:25:00,fhi:web
 Fly,SK4137,SAS,Trondheim,Bergen,2021-01-18 06:30:00,2021-01-18 07:30:00,fhi:web
