@@ -1,4 +1,8 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-01-30 08:50:00,2021-01-30 10:35:00,fhi:web
+Fly,KL1143,KLM,Amsterdam,Oslo,2021-01-28 10:05:00,2021-01-28 11:50:00,fhi:web
+Fly,LO483,Polish Air,Warsawa,Oslo,2021-01-27 16:45:00,2021-01-27 18:55:00,fhi:web
+Fly,KL1189,KLM,Amsterdam,Bergen,2021-01-27 14:55:00,2021-01-27 16:30:00,fhi:web
 Fly,SK319,SAS,Haugesund,Oslo,2021-01-25 18:36:00,2021-01-25 19:15:00,fhi:web
 Fly,SK4082,SAS,Oslo,Evenes,2021-01-25 08:40:00,2021-01-25 10:15:00,fhi:web
 Fly,SK308,SAS,Oslo,Haugesund,2021-01-25 08:37:00,2021-01-25 09:15:00,fhi:web
@@ -21,6 +25,7 @@ Fly,EK159,Emirates,Dubai,Oslo,2021-01-22 08:05:00,2021-01-22 12:20:00,fhi:web
 Fly,DY422,Norwegian,Oslo,Molde,2021-01-22 08:00:00,2021-01-22 09:00:00,fhi:web
 Fly,SK380,SAS,Oslo,Trondheim,2021-01-21 20:30:00,2021-01-21 21:30:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-01-21 14:35:00,2021-01-21 16:30:00,fhi:web
+Fly,SK4094,SAS,Oslo,EVenes,2021-01-19 15:50:00,2021-01-19 17:30:00,fhi:web
 Fly,KL1189,KLM,Amsterdam,Bergen,2021-01-19 15:06:00,2021-01-19 16:30:00,fhi:web
 Fly,EK160,Emirates,Oslo,Dubai,2021-01-19 14:10:00,2021-01-19 23:55:00,fhi:web
 Fly,LH 862,Lufthansa,Frankfurt,Oslo,2021-01-18 13:05:00,2021-01-18 15:05:00,fhi:web
