@@ -14,6 +14,7 @@ This repository contains datasets of daily time-series data related to COVID-19 
 |[Tested Lab](#tested_labcsv)|FHI|2021-02-03 13:35:02+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested_lab.csv)|[<center>preview</center>](data/tested_lab.csv)|
 |[Transport](#transportcsv)|FHI|2021-02-03 13:50:06+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/transport.csv)|[<center>preview</center>](data/transport.csv)|
 |[Vaccine Doses](#vaccine_dosescsv)|FHI|2021-02-03 15:00:06+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/vaccine_doses.csv)|[<center>preview</center>](data/vaccine_doses.csv)|
+|[Smittestopp](#smittestoppcsv)|FHI|2021-02-03 21:40:00+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/smittestopp.csv)|[<center>preview</center>](data/smittestopp.csv)|
 <!-- table ends -->
 ## Datafiles
 ### confirmed.csv
@@ -147,5 +148,24 @@ county,Oslo,2021-01-01,6,0,456,0,0.0657539935457264,0.0,6,456,fhi:git
 county,Oslo,2021-01-02,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
 county,Oslo,2021-01-03,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
 county,Oslo,2021-01-04,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
+...
+```
+
+---
+### smittestopp.csv
+*Smittestopp is an app from the Norwegian Institute of Public Health ("Folkehelsesinstituttet (FHI)" in Norwegian). The app is intended to help prevent coronavirus from spreading among the population.*
+
+Number of downloads of Smittestopp and the number who have reported through the app that they are infected.
+
+**Data source:**
+* https://www.fhi.no/om/smittestopp/nokkeltall-fra-smittestopp/
+
+```
+date,new_downloads,total_downloads,new_reported,total_reported,source
+2020-12-21,117700,117700,23,23,fhi:web
+2020-12-22,41000,158700,18,41,fhi:web
+2020-12-23,15600,174300,12,53,fhi:web
+2020-12-24,9500,183800,19,72,fhi:web
+2020-12-25,10900,194700,10,82,fhi:web
 ...
 ```
