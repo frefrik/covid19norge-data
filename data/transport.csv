@@ -1,12 +1,15 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,EK159,Emirates,Dubai,Oslo,2021-02-02 08:23:00,2021-02-02 12:13:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-01-31 08:00:00,2021-01-31 13:00:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-01-30 08:50:00,2021-01-30 10:35:00,fhi:web
 Fly,W61765,WizzAir,Gdansk,Ålesund,2021-01-29 19:16:00,2021-01-29 21:06:00,fhi:web
 Fly,JU454,Air Serbia,Beograd,Oslo,2021-01-29 15:00:00,2021-01-29 19:55:00,fhi:web
 Skip,Superspeed 2,Color Line ,Hirtshals,Larvik,2021-01-29 12:45:00,2021-01-29 16:30:00,fhi:web
+Fly,WF978,Widerøe,Tromsø,Mehamn,2021-01-28 20:00:00,2021-01-28 23:40:00,fhi:web
 Fly,SK4572,SAS,Trondheim,Bodø,2021-01-28 17:05:00,2021-01-28 19:20:00,fhi:web
 Fly,SK4172,SAS,Bergen,Trondheim,2021-01-28 15:35:00,2021-01-28 16:40:00,fhi:web
 Fly,KL1143,KLM,Amsterdam,Oslo,2021-01-28 10:05:00,2021-01-28 11:50:00,fhi:web
+Fly,WF582,Widerøe,Kristiansand,Bergen,2021-01-28 06:15:00,2021-01-28 07:10:00,fhi:web
 Fly,LO483,Polish Air,Warsawa,Oslo,2021-01-27 16:45:00,2021-01-27 18:55:00,fhi:web
 Fly,LO483,Polish Air,Warszawa,Oslo,2021-01-27 16:45:00,2021-01-27 18:55:00,fhi:web
 Fly,KL1189,KLM,Amsterdam,Bergen,2021-01-27 14:55:00,2021-01-27 16:30:00,fhi:web
