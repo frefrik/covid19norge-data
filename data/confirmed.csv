@@ -354,3 +354,4 @@ date,new,total,source
 2021-02-07,141,65059,fhi:git
 2021-02-08,57,65116,fhi:git
 2021-02-09,134,65252,msis:api
+2021-02-10,0,65252,local:cron
