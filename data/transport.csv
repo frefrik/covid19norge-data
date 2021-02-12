@@ -2,6 +2,8 @@ tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Fly,WF739,Widerøe,Trondheim,Sandesjøen,2021-02-08 19:45:00,2021-02-08 20:35:00,fhi:web
 Fly,SK4184,SAS,Bergen,Trondheim,2021-02-08 18:00:00,2021-02-08 19:00:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-02-08 08:50:00,2021-02-08 10:35:00,fhi:web
+Fly,JU450,Air Serbia,Beograd,Oslo,2021-02-08 06:05:00,2021-02-08 08:55:00,fhi:web
+Tog,41.0,SJ,Oslo S,Trondheim S,2021-02-07 08:02:00,2021-02-07 14:34:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-02-05 14:35:00,2021-02-05 16:30:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-02-05 08:00:00,2021-02-05 13:00:00,fhi:web
 Fly,LH860,Lufthansa,Frankfurt,Oslo,2021-02-04 09:50:00,2021-02-04 11:50:00,fhi:web
