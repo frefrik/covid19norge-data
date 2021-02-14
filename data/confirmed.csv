@@ -359,3 +359,4 @@ date,new,total,source
 2021-02-12,425,66236,msis:api
 2021-02-13,156,66392,msis:api
 2021-02-14,61,66453,msis:api
+2021-02-15,0,66453,local:cron
