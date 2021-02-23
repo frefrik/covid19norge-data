@@ -1,4 +1,10 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,SK1460,SAS,København,Oslo,2021-02-20 15:40:00,2021-02-20 16:55:00,fhi:web
+Fly,W61747,WizzAir,Gdansk,Stavanger,2021-02-20 06:10:00,2021-02-20 08:00:00,fhi:web
+Fly,JU454,Air Serbia,Beograd,Oslo,2021-02-19 17:05:00,2021-02-19 19:55:00,fhi:web
+Fly,SK316,SAS,Oslo,Haugesund,2021-02-19 17:05:00,2021-02-19 18:00:00,fhi:web
+Fly,SK4299,SAS,Kyiv,Oslo,2021-02-19 14:00:00,2021-02-19 15:50:00,fhi:web
+Fly,QR175,Qatar Airways,Doha,Oslo,2021-02-19 08:00:00,2021-02-19 13:00:00,fhi:web
 Buss,49184.0,Lavprisekspressen,Oslo,Stavanger,2021-02-17 10:00:00,2021-02-17 18:50:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Ababa,Stockholm,2021-02-16 23:43:00,2021-02-17 07:45:00,fhi:web
 Fly,FR8510,RyanAir,Gdansk,Torp,2021-02-16 12:35:00,2021-02-16 14:00:00,fhi:web
