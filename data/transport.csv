@@ -1,5 +1,8 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,W61745,WIzzAir,Gdansk,Bergen,2021-02-21 19:10:00,2021-02-21 21:10:00,fhi:web
+Fly,W61515,WizzAir,Warszawa,Oslo,2021-02-21 12:30:00,2021-02-21 14:25:00,fhi:web
 Fly,SK1460,SAS,København,Oslo,2021-02-20 15:40:00,2021-02-20 16:55:00,fhi:web
+Fly,SK355,SAS,Trondheim,Oslo,2021-02-20 12:15:00,2021-02-20 13:10:00,fhi:web
 Fly,W61747,WizzAir,Gdansk,Stavanger,2021-02-20 06:10:00,2021-02-20 08:00:00,fhi:web
 Fly,JU454,Air Serbia,Beograd,Oslo,2021-02-19 17:05:00,2021-02-19 19:55:00,fhi:web
 Fly,SK316,SAS,Oslo,Haugesund,2021-02-19 17:05:00,2021-02-19 18:00:00,fhi:web
