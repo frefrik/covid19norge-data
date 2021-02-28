@@ -373,3 +373,4 @@ date,new,total,source
 2021-02-26,524,70564,msis:api
 2021-02-27,262,70826,msis:api
 2021-02-28,61,70887,msis:api
+2021-03-01,0,70887,local:cron
