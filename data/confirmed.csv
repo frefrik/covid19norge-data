@@ -380,3 +380,4 @@ date,new,total,source
 2021-03-05,690,74183,msis:api
 2021-03-06,363,74546,msis:api
 2021-03-07,281,74827,msis:api
+2021-03-08,0,74827,local:cron
