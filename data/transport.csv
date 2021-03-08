@@ -1,7 +1,17 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,SK4031,SAS,Oslo,Stavanger,2021-03-05 15:00:00,2021-03-05 15:55:00,fhi:web
+Fly,SK4299,SAS,Kiev,Oslo,2021-03-05 14:00:00,2021-03-05 15:50:00,fhi:web
+Fly,SK4572,SAS,Bodø,Tromsø,2021-03-03 18:30:00,2021-03-03 19:20:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-03-03 08:50:00,2021-03-03 10:35:00,fhi:web
+Fly,SK291,SAS,Oslo,Bergen,2021-03-02 20:35:00,2021-03-02 21:25:00,fhi:web
+Fly,WF627,Widerøe,Tromsø,Bergen,2021-03-02 17:10:00,2021-03-02 19:15:00,fhi:web
+Fly,WF925,Widerøe,Alta,Tromsø,2021-03-02 15:55:00,2021-03-02 16:35:00,fhi:web
+Fly,WF924,Widerøe,Tromsø,Alta,2021-03-02 15:00:00,2021-03-02 15:40:00,fhi:web
 Fly,WF623,Widerøe,Tromsø,Bergen,2021-03-02 10:20:00,2021-03-02 12:35:00,fhi:web
 Fly,WF881,Widerøe,Harstad,Tromsø,2021-03-02 09:20:00,2021-03-02 09:55:00,fhi:web
+Fly,WF767,Widerøe,Trondheim,Mo i Rana,2021-03-02 08:15:00,2021-03-02 11:25:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2021-03-02 08:05:00,2021-03-02 12:20:00,fhi:web
+Fly,WF706,Widerøe,Brønnøysund,Trondheim,2021-03-02 06:55:00,2021-03-02 07:40:00,fhi:web
 Fly,JU450,Air Serbia,Beograd,Oslo,2021-03-01 06:05:00,2021-03-01 08:55:00,fhi:web
 Fly,SK1474,SAS,København,Oslo,2021-02-28 22:45:00,2021-02-28 23:55:00,fhi:web
 Fly,SK4051,SAS,Oslo,Stavanger,2021-02-28 21:55:00,2021-02-28 22:50:00,fhi:web
@@ -21,6 +31,7 @@ Fly,SK4416,SAS,Oslo,Tromsø,2021-02-25 12:00:00,2021-02-25 13:55:00,fhi:web
 Fly,LO481,POlish Airlines,Warsawa,Oslo,2021-02-25 08:40:00,2021-02-25 10:50:00,fhi:web
 Fly,LO481,Polish Airlines,Warsawa,Oslo,2021-02-25 08:40:00,2021-02-25 10:50:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-02-25 08:00:00,2021-02-25 13:00:00,fhi:web
+Fly,SK291,SAS,Oslo,Bergen,2021-02-24 20:35:00,2021-02-24 21:30:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-02-23 08:00:00,2021-02-23 13:00:00,fhi:web
 Tog,R30,VY,Oslo,Gjøvik,2021-02-21 21:02:00,2021-02-21 23:02:00,fhi:web
 Fly,DY648,Norwegian,Oslo,Bergen,2021-02-21 20:35:00,2021-02-21 21:30:00,fhi:web
