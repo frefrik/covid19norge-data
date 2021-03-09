@@ -1,7 +1,11 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,W61783,Wizz Air,Gdansk,Oslo,2021-03-07 15:35:00,2021-03-07 17:05:00,fhi:web
+Fly,WF535,Widerøe,Bergen,Stavanger,2021-03-07 14:10:00,2021-03-07 15:10:00,fhi:web
 Tog,45,SJ,Gardermoen,Trondheim,2021-03-06 14:29:00,2021-03-06 20:51:00,fhi:web
+Fly,W61783,Wizz Air,Gdansk,Oslo,2021-03-05 15:35:00,2021-03-05 19:50:00,fhi:web
 Fly,SK4031,SAS,Oslo,Stavanger,2021-03-05 15:00:00,2021-03-05 15:55:00,fhi:web
 Fly,SK4299,SAS,Kiev,Oslo,2021-03-05 14:00:00,2021-03-05 15:50:00,fhi:web
+Fly,SK221,SAS,Oslo,Kristiansand,2021-03-04 17:05:00,2021-03-04 17:55:00,fhi:web
 Fly,SK4572,SAS,Bodø,Tromsø,2021-03-03 18:30:00,2021-03-03 19:20:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-03-03 08:50:00,2021-03-03 10:35:00,fhi:web
 Fly,SK291,SAS,Oslo,Bergen,2021-03-02 20:35:00,2021-03-02 21:25:00,fhi:web
