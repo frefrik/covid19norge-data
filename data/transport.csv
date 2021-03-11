@@ -1,12 +1,24 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Buss,NW192,Konkurrenten,Oslo,Kristiansand,2021-03-09 17:10:00,2021-03-09 21:40:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2021-03-09 08:05:00,2021-03-09 12:20:00,fhi:web
+Fly,JU450,Air Serbia,Beograd,Oslo,2021-03-08 06:05:00,2021-03-08 08:55:00,fhi:web
+Fly,W64677,WizzAir,Oslo,Stavanger,2021-03-07 16:20:00,2021-03-07 17:15:00,fhi:web
 Fly,W61783,Wizz Air,Gdansk,Oslo,2021-03-07 15:35:00,2021-03-07 17:05:00,fhi:web
+Fly,WF713,Widerøe,Trondheim,Brønnøysund,2021-03-07 15:25:00,2021-03-07 16:10:00,fhi:web
+Tog,209,VY Gjøvikbanen,Oslo,Gjøvik,2021-03-07 15:02:00,2021-03-07 16:59:00,fhi:web
 Fly,WF535,Widerøe,Bergen,Stavanger,2021-03-07 14:10:00,2021-03-07 15:10:00,fhi:web
+Fly,WF753,Widerøe,Oslo,Trondheim,2021-03-07 13:45:00,2021-03-07 14:55:00,fhi:web
+Fly,SK389,SAS,Oslo,Bardufoss,2021-03-07 12:30:00,2021-03-07 14:20:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2021-03-07 08:05:00,2021-03-07 12:20:00,fhi:web
+Fly,SK4043,SAS,Oslo,Stavanger,2021-03-06 17:10:00,2021-03-06 18:05:00,fhi:web
 Tog,45,SJ,Gardermoen,Trondheim,2021-03-06 14:29:00,2021-03-06 20:51:00,fhi:web
+Fly,JU454,Air Serbia,Beograd,Oslo,2021-03-05 17:05:00,2021-03-05 19:55:00,fhi:web
 Fly,W61783,Wizz Air,Gdansk,Oslo,2021-03-05 15:35:00,2021-03-05 19:50:00,fhi:web
 Fly,SK4031,SAS,Oslo,Stavanger,2021-03-05 15:00:00,2021-03-05 15:55:00,fhi:web
 Fly,SK4299,SAS,Kiev,Oslo,2021-03-05 14:00:00,2021-03-05 15:50:00,fhi:web
 Fly,SK221,SAS,Oslo,Kristiansand,2021-03-04 17:05:00,2021-03-04 17:55:00,fhi:web
 Fly,SK4572,SAS,Bodø,Tromsø,2021-03-03 18:30:00,2021-03-03 19:20:00,fhi:web
+Fly,WF486,Widerøe,Torp,Værnes,2021-03-03 16:40:00,2021-03-03 17:50:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-03-03 08:50:00,2021-03-03 10:35:00,fhi:web
 Fly,SK291,SAS,Oslo,Bergen,2021-03-02 20:35:00,2021-03-02 21:25:00,fhi:web
 Fly,WF627,Widerøe,Tromsø,Bergen,2021-03-02 17:10:00,2021-03-02 19:15:00,fhi:web
@@ -37,6 +49,7 @@ Fly,LO481,POlish Airlines,Warsawa,Oslo,2021-02-25 08:40:00,2021-02-25 10:50:00,f
 Fly,LO481,Polish Airlines,Warsawa,Oslo,2021-02-25 08:40:00,2021-02-25 10:50:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-02-25 08:00:00,2021-02-25 13:00:00,fhi:web
 Fly,SK291,SAS,Oslo,Bergen,2021-02-24 20:35:00,2021-02-24 21:30:00,fhi:web
+Fly,LO483,Polish Airlines,Warszawa,Oslo,2021-02-24 16:45:00,2021-02-24 18:55:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-02-23 08:00:00,2021-02-23 13:00:00,fhi:web
 Tog,R30,VY,Oslo,Gjøvik,2021-02-21 21:02:00,2021-02-21 23:02:00,fhi:web
 Fly,DY648,Norwegian,Oslo,Bergen,2021-02-21 20:35:00,2021-02-21 21:30:00,fhi:web
