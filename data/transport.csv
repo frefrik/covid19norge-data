@@ -1,12 +1,16 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Fly,LO483,Polish Airlines,Warsawa,Oslo,2021-03-10 16:45:00,2021-03-10 18:55:00,fhi:web
+Tog,L12,VY,Kongsberg,Oslo,2021-03-10 12:34:00,2021-03-10 13:51:00,fhi:web
 Buss,NW192,Konkurrenten,Oslo,Kristiansand,2021-03-09 17:10:00,2021-03-09 21:40:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-09 08:05:00,2021-03-09 12:20:00,fhi:web
 Fly,WF626,Widerøe,Bergen,Tromsø,2021-03-08 14:35:00,2021-03-08 16:35:00,fhi:web
 Fly,WF414,Widerøe,Sandefjord,Bergen,2021-03-08 12:55:00,2021-03-08 13:50:00,fhi:web
 Tog,41,VY,Drammen,Bergen,2021-03-08 09:00:00,2021-03-08 14:55:00,fhi:web
 Fly,WF453,Widerøe,Ålesund,Bergen,2021-03-08 08:55:00,2021-03-08 09:40:00,fhi:web
+Tog,R11,VY,Eidsvoll,Skien,2021-03-08 08:00:00,2021-03-08 10:53:00,fhi:web
 Fly,JU450,Air Serbia,Beograd,Oslo,2021-03-08 06:05:00,2021-03-08 08:55:00,fhi:web
+Tog,R11,VY,Skien,Eidsvoll,2021-03-08 05:11:00,2021-03-08 08:00:00,fhi:web
+Tog,R10,VY,Lillehammer,Drammen,2021-03-07 21:07:00,2021-03-08 00:02:00,fhi:web
 Tog,Tog 47,SJ,Lillehammer,Trondheim,2021-03-07 18:14:00,2021-03-07 22:50:00,fhi:web
 Fly,W64677,WizzAir,Oslo,Stavanger,2021-03-07 16:20:00,2021-03-07 17:15:00,fhi:web
 Fly,W61783,Wizz Air,Gdansk,Oslo,2021-03-07 15:35:00,2021-03-07 17:05:00,fhi:web
@@ -18,6 +22,7 @@ Fly,SK389,SAS,Oslo,Bardufoss,2021-03-07 12:30:00,2021-03-07 14:20:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-07 08:05:00,2021-03-07 12:20:00,fhi:web
 Fly,SK4043,SAS,Oslo,Stavanger,2021-03-06 17:10:00,2021-03-06 18:05:00,fhi:web
 Tog,45,SJ,Gardermoen,Trondheim,2021-03-06 14:29:00,2021-03-06 20:51:00,fhi:web
+Tog,R11,VY,Skien,Eidsvoll,2021-03-05 18:07:00,2021-03-05 21:00:00,fhi:web
 Fly,JU454,Air Serbia,Beograd,Oslo,2021-03-05 17:05:00,2021-03-05 19:55:00,fhi:web
 Fly,DY365,Norwegian,Evenes,Oslo,2021-03-05 16:10:00,NaT,fhi:web
 Fly,W61783,Wizz Air,Gdansk,Oslo,2021-03-05 15:35:00,2021-03-05 19:50:00,fhi:web
