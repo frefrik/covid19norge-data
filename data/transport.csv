@@ -1,6 +1,10 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-03-13 08:50:00,2021-03-13 10:35:00,fhi:web
 Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-03-12 13:05:00,2021-03-12 15:05:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-03-11 14:35:00,NaT,fhi:web
 Fly,DY360,Norwegian,Oslo,Evenes,2021-03-11 14:00:00,2021-03-11 15:40:00,fhi:web
+Tog,VY710,VY,Lillehammer,Trondheim,2021-03-11 08:50:00,2021-03-11 14:10:00,fhi:web
+Tog,R10,VY,Oslo,Lillehammer,2021-03-11 06:34:00,2021-03-11 08:40:00,fhi:web
 Fly,SK380,SAS,Oslo,Trondheim,2021-03-10 20:30:00,2021-03-10 21:30:00,fhi:web
 Fly,SK4433,SAS,Tromsø,Oslo,2021-03-10 19:30:00,2021-03-10 21:25:00,fhi:web
 Fly,LO483,Polish Airlines,Warsawa,Oslo,2021-03-10 16:45:00,2021-03-10 18:55:00,fhi:web
@@ -8,6 +12,7 @@ Fly,DY340,Norwegian,Oslo,Bodø,2021-03-10 13:00:00,2021-03-10 14:30:00,fhi:web
 Tog,L12,VY,Kongsberg,Oslo,2021-03-10 12:34:00,2021-03-10 13:51:00,fhi:web
 Buss,VY1,VY Express,Notodden,Kongsberg,2021-03-10 11:40:00,2021-03-10 12:20:00,fhi:web
 Buss,Farte 185,VY,Rujkan,Notodden,2021-03-10 09:50:00,2021-03-10 11:08:00,fhi:web
+Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-03-10 08:50:00,2021-03-10 10:35:00,fhi:web
 Buss,NW192,Konkurrenten,Oslo,Kristiansand,2021-03-09 17:10:00,2021-03-09 21:40:00,fhi:web
 Buss,NW400,Kystbussen,Bergen,Haugesund,2021-03-09 13:25:00,2021-03-09 16:40:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-09 08:05:00,2021-03-09 12:20:00,fhi:web
@@ -16,6 +21,7 @@ Buss,NW400,Kystbussen,Haugesund,Bergen,2021-03-08 13:45:00,2021-03-08 17:00:00,f
 Fly,WF414,Widerøe,Sandefjord,Bergen,2021-03-08 12:55:00,2021-03-08 13:50:00,fhi:web
 Tog,41,VY,Drammen,Bergen,2021-03-08 09:00:00,2021-03-08 14:55:00,fhi:web
 Fly,WF453,Widerøe,Ålesund,Bergen,2021-03-08 08:55:00,2021-03-08 09:40:00,fhi:web
+Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-03-08 08:50:00,2021-03-08 10:35:00,fhi:web
 Tog,R11,VY,Eidsvoll,Skien,2021-03-08 08:00:00,2021-03-08 10:53:00,fhi:web
 Fly,JU450,Air Serbia,Beograd,Oslo,2021-03-08 06:05:00,2021-03-08 08:55:00,fhi:web
 Tog,R11,VY,Skien,Eidsvoll,2021-03-08 05:11:00,2021-03-08 08:00:00,fhi:web
