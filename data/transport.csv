@@ -1,10 +1,16 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Buss,170,Agder Kollektivtrafikk,Hovden,Kristiansand,2021-03-14 16:00:00,2021-03-14 19:40:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2021-03-14 08:05:00,2021-03-14 12:20:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-03-13 08:50:00,2021-03-13 10:35:00,fhi:web
 Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-03-12 13:05:00,2021-03-12 15:05:00,fhi:web
+Buss,600,VY Bus4you,Malmø,Oslo,2021-03-12 11:55:00,2021-03-12 19:40:00,fhi:web
+Buss,300,Lofotexpressen,Evenes,Lødingen,2021-03-11 17:05:00,2021-03-11 18:03:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-03-11 14:35:00,NaT,fhi:web
 Fly,DY360,Norwegian,Oslo,Evenes,2021-03-11 14:00:00,2021-03-11 15:40:00,fhi:web
+Fly,LH860,Lufthansa,Frankfurt,Oslo,2021-03-11 09:50:00,2021-03-11 11:50:00,fhi:web
 Tog,VY710,VY,Lillehammer,Trondheim,2021-03-11 08:50:00,2021-03-11 14:10:00,fhi:web
 Tog,R10,VY,Oslo,Lillehammer,2021-03-11 06:34:00,2021-03-11 08:40:00,fhi:web
+Fly,SK291,SAS,Oslo,Bergen,2021-03-10 20:35:00,2021-03-10 21:30:00,fhi:web
 Fly,SK380,SAS,Oslo,Trondheim,2021-03-10 20:30:00,2021-03-10 21:30:00,fhi:web
 Fly,SK4433,SAS,Tromsø,Oslo,2021-03-10 19:30:00,2021-03-10 21:25:00,fhi:web
 Fly,LO483,Polish Airlines,Warsawa,Oslo,2021-03-10 16:45:00,2021-03-10 18:55:00,fhi:web
