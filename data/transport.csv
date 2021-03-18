@@ -1,7 +1,22 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,ET714,Ethiopian Airlines,Addis Ababa,Stockholm,2021-03-16 23:40:00,2021-03-17 07:45:00,fhi:web
+Fly,W61747,Wizz Air,Gdansk,Stavanger,2021-03-16 12:20:00,2021-03-16 14:10:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2021-03-16 08:05:00,2021-03-16 12:20:00,fhi:web
+Fly,SK380,SAS,Oslo,Trondheim,2021-03-15 20:30:00,2021-03-15 21:30:00,fhi:web
+Fly,DY527,Norwegian,Stavanger,Oslo,2021-03-15 11:40:00,2021-03-15 12:20:00,fhi:web
+Fly,JU450,Air Serbia,Beograd,Oslo,2021-03-15 06:05:00,2021-03-15 08:55:00,fhi:web
+Fly,SK2872,SAS,København,Oslo,2021-03-14 17:00:00,2021-03-14 18:25:00,fhi:web
+Fly,KL1205,KLM,Amsterdam,Stavanger,2021-03-14 16:20:00,2021-03-14 17:50:00,fhi:web
 Buss,170,Agder Kollektivtrafikk,Hovden,Kristiansand,2021-03-14 16:00:00,2021-03-14 19:40:00,fhi:web
+Buss,146,VY Express,Måløy,Oslo,2021-03-14 11:55:00,2021-03-14 21:52:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-14 08:05:00,2021-03-14 12:20:00,fhi:web
+Fly,SK350,SAS,Oslo,Trondheim,2021-03-13 14:30:00,2021-03-13 15:25:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-03-13 08:50:00,2021-03-13 10:35:00,fhi:web
+Fly,JU454,Air Serbia,Beograd,Oslo,2021-03-12 17:05:00,2021-03-12 19:55:00,fhi:web
+Fly,SK2872,SAS,København,Oslo,2021-03-12 17:00:00,2021-03-12 18:25:00,fhi:web
+Fly,W61783,Wizz Air,Gdansk,Oslo,2021-03-12 15:35:00,2021-03-12 17:05:00,fhi:web
+Fly,SK4299,SAS,Kiev,Oslo,2021-03-12 14:00:00,2021-03-12 15:50:00,fhi:web
+Fly,SK1322,SAS,Oslo,Ålesund,2021-03-12 14:00:00,2021-03-12 14:55:00,fhi:web
 Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-03-12 13:05:00,2021-03-12 15:05:00,fhi:web
 Buss,600,VY Bus4you,Malmø,Oslo,2021-03-12 11:55:00,2021-03-12 19:40:00,fhi:web
 Buss,300,Lofotexpressen,Evenes,Lødingen,2021-03-11 17:05:00,2021-03-11 18:03:00,fhi:web
