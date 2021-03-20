@@ -393,3 +393,4 @@ date,new,total,source
 2021-03-18,82,84553,fhi:git
 2021-03-19,989,85542,msis:api
 2021-03-20,461,86003,msis:api
+2021-03-21,0,86003,local:cron
