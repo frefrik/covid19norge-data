@@ -1,5 +1,12 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,DY548,Norwegian,Oslo,Stavanger,2021-03-19 19:00:00,2021-03-19 19:55:00,fhi:web
+Fly,SK221,SAS,Oslo,Kristiansand,2021-03-19 17:55:00,2021-03-19 18:45:00,fhi:web
+Fly,SK268,SAS,Oslo,Bergen,2021-03-19 14:20:00,2021-03-19 15:30:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2021-03-19 08:05:00,2021-03-19 21:20:00,fhi:web
+Fly,DY360,Norwegian,Oslo,Evenes,2021-03-18 14:00:00,2021-03-18 15:40:00,fhi:web
+Fly,SK257,SAS,Bergen,,2021-03-17 10:50:00,2021-03-17 11:40:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Ababa,Stockholm,2021-03-16 23:40:00,2021-03-17 07:45:00,fhi:web
+Fly,WF779,Widerøe,Oslo,Trondheim,2021-03-16 19:55:00,2021-03-16 21:05:00,fhi:web
 Tog,477,SJ,Trondheim,Mo i Rana,2021-03-16 16:07:00,2021-03-16 22:48:00,fhi:web
 Fly,W61747,Wizz Air,Gdansk,Stavanger,2021-03-16 12:20:00,2021-03-16 14:10:00,fhi:web
 Fly,LO481,Polish Airlines,Warsawa,Oslo,2021-03-16 08:40:00,2021-03-16 10:50:00,fhi:web
