@@ -1,10 +1,14 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-03-22 08:50:00,2021-03-22 10:35:00,fhi:web
 Fly,WF818,Widerøe,Bodø,Leknes,2021-03-21 21:15:00,2021-03-21 21:40:00,fhi:web
 Fly,SK4124,SAS,Oslo,Bodø,2021-03-21 19:00:00,2021-03-21 20:30:00,fhi:web
+Fly,DY635,Norwegian,Bergen,Oslo,2021-03-21 16:25:00,2021-03-21 17:20:00,fhi:web
+Fly,SK4175,SAS,Bergen,Stavanger,2021-03-21 15:30:00,2021-03-21 16:05:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-21 08:05:00,2021-03-21 12:20:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-03-20 08:50:00,2021-03-20 10:35:00,fhi:web
 Fly,DY548,Norwegian,Oslo,Stavanger,2021-03-19 19:00:00,2021-03-19 19:55:00,fhi:web
 Fly,SK221,SAS,Oslo,Kristiansand,2021-03-19 17:55:00,2021-03-19 18:45:00,fhi:web
+Fly,W65033,Wizz Air,Krakow,Oslo,2021-03-19 17:50:00,2021-03-19 20:05:00,fhi:web
 Fly,JU454,Air Serbia,Beograd,Oslo,2021-03-19 17:05:00,2021-03-19 19:55:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-03-19 14:35:00,2021-03-19 16:30:00,fhi:web
 Fly,SK268,SAS,Oslo,Bergen,2021-03-19 14:20:00,2021-03-19 15:30:00,fhi:web
@@ -21,6 +25,7 @@ Fly,W61747,Wizz Air,Gdansk,Stavanger,2021-03-16 12:20:00,2021-03-16 14:10:00,fhi
 Fly,LO481,Polish Airlines,Warsawa,Oslo,2021-03-16 08:40:00,2021-03-16 10:50:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-16 08:05:00,2021-03-16 12:20:00,fhi:web
 Tog,41,SJ,Oslo,Trondheim,2021-03-16 08:02:00,2021-03-16 14:34:00,fhi:web
+Fly,SK1462,SAS,København,Oslo,2021-03-16 07:55:00,2021-03-16 09:10:00,fhi:web
 Fly,SK380,SAS,Oslo,Trondheim,2021-03-15 20:30:00,2021-03-15 21:30:00,fhi:web
 Fly,DY527,Norwegian,Stavanger,Oslo,2021-03-15 11:40:00,2021-03-15 12:20:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-03-15 08:00:00,2021-03-15 08:00:00,fhi:web
