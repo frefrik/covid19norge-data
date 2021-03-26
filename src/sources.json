@@ -1,0 +1,90 @@
+{
+  "confirmed.csv": {
+    "name": "Confirmed",
+    "dataset": "confirmed",
+    "dataset_detail": "#confirmedcsv",
+    "data_source": "FHI / MSIS",
+    "date_range": "2020-02-21 - Present",
+    "last_updated": "2021-03-26 15:15:02+01:00",
+    "link_preview": "data/confirmed.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/confirmed.csv",
+    "pending_update": 0
+  },
+  "dead.csv": {
+    "name": "Dead",
+    "dataset": "dead",
+    "dataset_detail": "#deadcsv",
+    "data_source": "FHI",
+    "date_range": "2020-03-10 - Present",
+    "last_updated": "2021-03-26 13:20:03+01:00",
+    "link_preview": "data/dead.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/dead.csv",
+    "pending_update": 0
+  },
+  "hospitalized.csv": {
+    "name": "Hospitalized",
+    "dataset": "hospitalized",
+    "dataset_detail": "#hospitalizedcsv",
+    "data_source": "Helsedirektoratet",
+    "date_range": "2020-03-08 - Present",
+    "last_updated": "2021-03-26 13:05:32+01:00",
+    "link_preview": "data/hospitalized.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/hospitalized.csv",
+    "pending_update": 0
+  },
+  "tested.csv": {
+    "name": "Tested",
+    "dataset": "tested",
+    "dataset_detail": "#testedcsv",
+    "data_source": "FHI",
+    "date_range": "2020-03-12 - Present",
+    "last_updated": "2021-03-26 13:00:17+01:00",
+    "link_preview": "data/tested.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested.csv",
+    "pending_update": 0
+  },
+  "tested_lab.csv": {
+    "name": "Tested Lab",
+    "dataset": "tested_lab",
+    "dataset_detail": "#tested_labcsv",
+    "data_source": "FHI",
+    "date_range": "2020-02-24 - Present",
+    "last_updated": "2021-03-26 13:20:48+01:00",
+    "link_preview": "data/tested_lab.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested_lab.csv",
+    "pending_update": 0
+  },
+  "transport.csv": {
+    "name": "Transport",
+    "dataset": "transport",
+    "dataset_detail": "#transportcsv",
+    "data_source": "FHI",
+    "date_range": "2020-10-23 - Present",
+    "last_updated": "2021-03-26 16:20:05+01:00",
+    "link_preview": "data/transport.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/transport.csv",
+    "pending_update": 0
+  },
+  "vaccine_doses.csv": {
+    "name": "Vaccine Doses",
+    "dataset": "vaccine_doses",
+    "dataset_detail": "#vaccine_dosescsv",
+    "data_source": "FHI",
+    "date_range": "2020-12-27 - Present",
+    "last_updated": "2021-03-26 13:21:03+01:00",
+    "link_preview": "data/vaccine_doses.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/vaccine_doses.csv",
+    "pending_update": 0
+  },
+  "smittestopp.csv": {
+    "name": "Smittestopp",
+    "dataset": "smittestopp",
+    "dataset_detail": "#smittestoppcsv",
+    "data_source": "FHI",
+    "date_range": "2020-12-21 - Present",
+    "last_updated": "2021-03-25 10:01:21+01:00",
+    "link_preview": "data/smittestopp.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/smittestopp.csv",
+    "pending_update": 0
+  }
+}
