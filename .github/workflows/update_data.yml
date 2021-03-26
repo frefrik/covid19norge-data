@@ -1,0 +1,21 @@
+name: Scheduled data update
+on: workflow_dispatch
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    container: frefrik/c19norge-data
+    steps:
+      - name: Checkout tools
+        uses: actions/checkout@v2
+      - name: Run scripts
+        run: python src/update_data.py
+        env:
+          HELSEDIR_API_KEY: ${{ secrets.HELSEDIR_API_KEY }}
+      - name: Get current time
+        run: echo "NOW=$(date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: main
+          commit_user_name: c19norge
+          commit_user_email: 74247644+c19norge@users.noreply.github.com
+          commit_message: Updated ${{ env.NOW }}
