@@ -38,6 +38,6 @@ ENV APP_HOME /app
 
 WORKDIR ${APP_HOME}
 
-ADD src/requirements.txt ${APP_HOME}
+ADD requirements.txt ${APP_HOME}
 RUN python -m pip install pip -U
 RUN python -m pip install -r requirements.txt
