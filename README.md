@@ -41,6 +41,8 @@ date,new,total,source
 ...
 ```  
 
+![Confirmed](graphs/confirmed.png)
+
 ---
 
 ### dead.csv
@@ -60,6 +62,8 @@ date,new,total,source
 2020-11-17,4,298,fhi:git
 ...
 ```
+
+![Dead](graphs/dead.png)
 
 ---
 
@@ -82,7 +86,7 @@ date,admissions,respiratory,source
 ...
 ```
 
-
+![Hospitalized](graphs/hospitalized.png)
 
 ---
 
@@ -123,6 +127,8 @@ date,new_neg,new_pos,pr100_pos,new_total,total_neg,total_pos,total,source
 2020-11-16,4143,72,1.7,4215,2002063,28997,2031060,fhi:git
 ...
 ```
+
+![Tested Lab](graphs/tested_lab.png)
 
 ---
 
@@ -176,6 +182,8 @@ county,Oslo,2021-01-04,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
 ...
 ```
 
+![Vaccine Doses](graphs/vaccine_doses.png)
+
 ---
 
 ### smittestopp.csv
@@ -197,3 +205,5 @@ date,new_downloads,total_downloads,new_reported,total_reported,source
 2020-12-25,10900,194700,10,82,fhi:web
 ...
 ```
+
+![Smittestopp](graphs/smittestopp.png)
