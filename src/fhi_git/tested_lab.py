@@ -6,6 +6,7 @@ from utils import (
     write_sources,
     load_datafile,
     write_datafile,
+    graphs,
 )
 
 
@@ -40,3 +41,6 @@ def update():
 
         write_sources(sourcefile)
         write_datafile("tested_lab", df_new)
+
+        # Generate graph
+        graphs.tested_lab()

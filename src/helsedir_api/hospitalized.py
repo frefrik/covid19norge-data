@@ -7,6 +7,7 @@ from utils import (
     write_sources,
     load_datafile,
     write_datafile,
+    graphs,
 )
 
 
@@ -44,3 +45,6 @@ def update():
 
         write_sources(sourcefile)
         write_datafile("hospitalized", df_new)
+
+        # Generate graph
+        graphs.hospitalized()

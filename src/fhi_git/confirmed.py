@@ -6,6 +6,7 @@ from utils import (
     load_datafile,
     write_datafile,
     get_fhi_datafile,
+    graphs,
 )
 
 
@@ -54,3 +55,6 @@ def update():
 
         write_sources(sourcefile)
         write_datafile("confirmed", df_new)
+
+        # Generate graph
+        graphs.confirmed()

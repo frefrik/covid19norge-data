@@ -9,6 +9,7 @@ from utils import (
     load_datafile,
     write_datafile,
     get_browser,
+    graphs,
 )
 
 
@@ -104,3 +105,6 @@ def update():
 
         write_sources(sourcefile)
         write_datafile("smittestopp", df_new)
+
+        # Generate graph
+        graphs.smittestopp()
