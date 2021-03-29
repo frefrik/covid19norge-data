@@ -6,6 +6,7 @@ from utils import (
     write_sources,
     load_datafile,
     write_datafile,
+    graphs,
 )
 
 
@@ -86,3 +87,6 @@ def update():
 
         write_sources(sourcefile)
         write_datafile("vaccine_doses", df_new)
+
+        # Generate graph
+        graphs.vaccine_doses()
