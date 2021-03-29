@@ -1,6 +1,9 @@
 # COVID-19 Datasets for Norway
+
 ![badge-last-update](https://img.shields.io/github/last-commit/frefrik/c19norge-data?label=Last%20update)
+
 ## Description
+
 This repository contains datasets of daily time-series data related to COVID-19 in Norway.  
 
 ## Overview
@@ -16,14 +19,17 @@ This repository contains datasets of daily time-series data related to COVID-19 
 |[Vaccine Doses](#vaccine_dosescsv)|FHI|2021-03-26 13:21:03+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/vaccine_doses.csv)|[<center>preview</center>](data/vaccine_doses.csv)|
 |[Smittestopp](#smittestoppcsv)|FHI|2021-03-26 18:14:52+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/smittestopp.csv)|[<center>preview</center>](data/smittestopp.csv)|
 <!-- table ends -->
+
 ## Datafiles
+
 ### confirmed.csv
+
 Number of cases reported daily in Norway since the start of the epidemic.
 
 **Data source:**
+
 - https://statistikk.fhi.no/msis
 - https://github.com/folkehelseinstituttet/surveillance_data
-
 
 ```
 date,new,total,source
@@ -36,12 +42,14 @@ date,new,total,source
 ```  
 
 ---
+
 ### dead.csv
+
 Number of COVID-19 associated deaths notified to the Norwegian Institute of Public Health.
 
 **Data source:**
-- https://github.com/folkehelseinstituttet/surveillance_data
 
+- https://github.com/folkehelseinstituttet/surveillance_data
 
 ```
 date,new,total,source
@@ -54,12 +62,15 @@ date,new,total,source
 ```
 
 ---
+
 ### hospitalized.csv
+
 Number of hospitalized patients.  
 The hospitals register the daily number of patients who are admitted to hospital with proven covid-19 and the number of admitted patients who receive invasive respiratory treatment.
 
 **Data source:**
-* https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19
+
+- https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19
 
 ```
 date,admissions,respiratory,source
@@ -71,12 +82,16 @@ date,admissions,respiratory,source
 ...
 ```
 
----
-### tested.csv
-Number of COVID-19 tests performed.
 
+
+---
+
+### tested.csv
+
+Number of COVID-19 tests performed.
 **Data source:**
-* https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/
+
+- https://www.fhi.no/sv/smittsomme-sykdommer/corona/dags--og-ukerapporter/dags--og-ukerapporter-om-koronavirus/
 
 ```
 date,new,total,source
@@ -89,12 +104,15 @@ date,new,total,source
 ```
 
 ---
+
 ### tested_lab.csv
+
 Number of tested persons per specimen collection date and number of positive results.  
 The laboratory results are collected in the MSIS Laboratory Database.
 
 **Data source:**
-* https://github.com/folkehelseinstituttet/surveillance_data
+
+- https://github.com/folkehelseinstituttet/surveillance_data
 
 ```
 date,new_neg,new_pos,pr100_pos,new_total,total_neg,total_pos,total,source
@@ -107,11 +125,14 @@ date,new_neg,new_pos,pr100_pos,new_total,total_neg,total_pos,total,source
 ```
 
 ---
+
 ### transport.csv
+
 List of departures where persons infected with covid-19 have been on board aircraft, ships, trains and buses.
 
 **Data source:**
-* https://www.fhi.no/sv/smittsomme-sykdommer/corona/koronavirus-og-covid-19-pa-offentlig-kommunikasjon/
+
+- https://www.fhi.no/sv/smittsomme-sykdommer/corona/koronavirus-og-covid-19-pa-offentlig-kommunikasjon/
 
 ```
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
@@ -125,17 +146,21 @@ Fly,WF568,Widerøe,Bergen,Kristiansund,2020-11-13 11:00:00,2020-11-13 11:55:00,f
 ```
 
 ---
+
 ### vaccine_doses.csv
-Number of people who have been vaccinated for COVID-19.  
- - ```new_dose_1```: Number of people who received their first dose of a COVID-19 vaccine
- - ```new_dose_2```: Number of people who received their second dose of a COVID-19 vaccine
- - ```total_dose_1```: Cumulative number of people who received their first dose of a COVID-19 vaccine
- - ```total_dose_2```: Cumulative number of people who received their second dose of a COVID-19 vaccine
- - ```new_doses```: Number of total vaccine doses administered (new_dose_1 + new_dose_2)
- - ```total_doses```: Cumulative number of total vaccine doses administered (total_dose_1 + total_dose_2)
+
+Number of people who have been vaccinated for COVID-19.
+
+- ```new_dose_1```: Number of people who received their first dose of a COVID-19 vaccine
+- ```new_dose_2```: Number of people who received their second dose of a COVID-19 vaccine
+- ```total_dose_1```: Cumulative number of people who received their first dose of a COVID-19 vaccine
+- ```total_dose_2```: Cumulative number of people who received their second dose of a COVID-19 vaccine
+- ```new_doses```: Number of total vaccine doses administered (new_dose_1 + new_dose_2)
+- ```total_doses```: Cumulative number of total vaccine doses administered (total_dose_1 + total_dose_2)
 
 **Data source:**
-* https://github.com/folkehelseinstituttet/surveillance_data
+
+- https://github.com/folkehelseinstituttet/surveillance_data
 
 ```
 granularity_geo,location_name,date,new_dose_1,new_dose_2,total_dose_1,total_dose_2,total_pr100_dose_1,total_pr100_dose_2,new_doses,total_doses,source
@@ -152,13 +177,16 @@ county,Oslo,2021-01-04,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
 ```
 
 ---
+
 ### smittestopp.csv
+
 *Smittestopp is an app from the Norwegian Institute of Public Health ("Folkehelsesinstituttet (FHI)" in Norwegian). The app is intended to help prevent coronavirus from spreading among the population.*
 
 Number of downloads of Smittestopp and the number who have reported through the app that they are infected.
 
 **Data source:**
-* https://www.fhi.no/om/smittestopp/nokkeltall-fra-smittestopp/
+
+- https://www.fhi.no/om/smittestopp/nokkeltall-fra-smittestopp/
 
 ```
 date,new_downloads,total_downloads,new_reported,total_reported,source
