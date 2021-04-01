@@ -67,6 +67,7 @@ def update():
             "bat": "Skip",
             "buss": "Buss",
             "fly": "Fly",
+            "fly2": "Fly",
             "tog": "Tog",
         }
 
