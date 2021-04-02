@@ -11,6 +11,8 @@ jobs:
         run: python src/update_data.py
         env:
           HELSEDIR_API_KEY: ${{ secrets.HELSEDIR_API_KEY }}
+          PUSHOVER_APIKEY: ${{ secrets.PUSHOVER_APIKEY }}
+          PUSHOVER_USERKEY: ${{ secrets.PUSHOVER_USERKEY }}
       - name: Get current time
         run: echo "NOW=$(date +'%Y-%m-%d %H:%M')" >> $GITHUB_ENV
       - uses: stefanzweifel/git-auto-commit-action@v4
