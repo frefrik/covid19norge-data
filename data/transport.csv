@@ -1,11 +1,19 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,ET714,Ethiopian Airlines,Addis Ababa,Stockholm,2021-03-30 23:40:00,2021-03-31 07:45:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-03-30 10:35:00,2021-03-30 12:40:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2021-03-30 07:25:00,2021-03-30 12:30:00,fhi:web
+Fly,W65041,Wizz Air,Krakow,Bergen,2021-03-29 16:40:00,2021-03-29 19:10:00,fhi:web
+Fly,DY190,Norwegian,Oslo,Haugesund,2021-03-29 16:30:00,2021-03-29 17:25:00,fhi:web
 Fly,SK4116,SAS,Oslo,Bodø,2021-03-29 15:40:00,2021-03-29 17:15:00,fhi:web
 Fly,JU450,Air Serbia,BEograd,Oslo,2021-03-29 06:05:00,2021-03-29 08:55:00,fhi:web
+Fly,DY544,Norwegian,Oslo,Stavanger,2021-03-28 18:15:00,2021-03-28 19:05:00,fhi:web
 Fly,W65033,WizzAir,Krakow,Oslo,2021-03-28 17:50:00,2021-03-28 20:05:00,fhi:web
+Fly,SK370,SAS,Oslo,Trondheim,2021-03-28 07:55:00,2021-03-28 08:50:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-28 07:25:00,2021-03-28 12:30:00,fhi:web
 Fly,SK4043,SAS,Oslo,Stavanger,2021-03-27 17:15:00,2021-03-27 18:10:00,fhi:web
 Fly,SK396,SAS,Bardufoss,Oslo,2021-03-27 10:20:00,2021-03-27 12:10:00,fhi:web
 Fly,W61515,Wizz Air,Warszawa,Oslo,2021-03-27 06:35:00,2021-03-27 08:30:00,fhi:web
+Fly,ET714,Ethiopian Airlines,Addis Ababa,Stockholm,2021-03-26 23:40:00,2021-03-27 07:45:00,fhi:web
 Fly,DY641,Norwegian,Bergen,Oslo,2021-03-26 20:20:00,2021-03-26 21:20:00,fhi:web
 Fly,JU454,Air Serbia,Beograd,Oslo,2021-03-26 17:05:00,2021-03-26 19:55:00,fhi:web
 Fly,DY760,Norwegian,Oslo,Trondheim,2021-03-26 16:20:00,2021-03-26 17:15:00,fhi:web
