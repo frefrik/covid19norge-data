@@ -12,8 +12,8 @@ This repository contains datasets of daily time-series data related to COVID-19 
 | :--- | :--- | :--- | :--- | :--- |
 |[Confirmed](#confirmedcsv)|FHI / MSIS|2021-04-02 00:24:57+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/confirmed.csv)|[<center>preview</center>](data/confirmed.csv)|
 |[Dead](#deadcsv)|FHI|2021-04-02 00:25:42+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/dead.csv)|[<center>preview</center>](data/dead.csv)|
-|[Hospitalized](#hospitalizedcsv)|Helsedirektoratet|2021-04-02 00:25:40+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/hospitalized.csv)|[<center>preview</center>](data/hospitalized.csv)|
-|[Tested](#testedcsv)|FHI|2021-04-02 00:24:52+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested.csv)|[<center>preview</center>](data/tested.csv)|
+|[Hospitalized](#hospitalizedcsv)|Helsedirektoratet|2021-04-02 13:00:45+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/hospitalized.csv)|[<center>preview</center>](data/hospitalized.csv)|
+|[Tested](#testedcsv)|FHI|2021-04-02 13:00:43+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested.csv)|[<center>preview</center>](data/tested.csv)|
 |[Tested Lab](#tested_labcsv)|FHI|2021-04-02 00:24:53+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested_lab.csv)|[<center>preview</center>](data/tested_lab.csv)|
 |[Transport](#transportcsv)|FHI|2021-04-02 10:50:44+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/transport.csv)|[<center>preview</center>](data/transport.csv)|
 |[Vaccine Doses](#vaccine_dosescsv)|FHI|2021-04-02 00:25:43+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/vaccine_doses.csv)|[<center>preview</center>](data/vaccine_doses.csv)|
