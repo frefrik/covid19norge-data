@@ -2,6 +2,7 @@ from datetime import datetime, date
 from pytz import timezone
 from .readme import update_readme
 from .browser import get_browser
+from .push import pushover_message
 from .files import (
     load_sources,
     write_sources,
