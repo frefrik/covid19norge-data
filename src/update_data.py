@@ -3,7 +3,13 @@ from fhi_git import confirmed as confirmed_fhi
 from fhi_web import tested, smittestopp, transport
 from helsedir_api import hospitalized
 from msis_api import confirmed as confirmed_msis
-from utils import confirmed_new_day, update_readme, load_sources, write_sources
+from utils import (
+    confirmed_new_day,
+    update_readme,
+    load_sources,
+    write_sources,
+    pushover_message,
+)
 
 
 def reset_pending():
@@ -15,30 +21,70 @@ def reset_pending():
 
 if __name__ == "__main__":
     print("Checking for update: tested.csv")
-    tested.update()
+    try:
+        tested.update()
+    except Exception as e:
+        error_msg = f"tested.csv: {e.__class__.__name__}: {e}"
+        print(error_msg)
+        pushover_message("c19norge-data: tested.csv", error_msg)
 
     print("Checking for update: tested_lab.csv")
-    tested_lab.update()
+    try:
+        tested_lab.update()
+    except Exception as e:
+        error_msg = f"tested_lab.csv: {e.__class__.__name__}: {e}"
+        print(error_msg)
+        pushover_message("c19norge-data: tested_lab.csv", error_msg)
 
     print("Checking for update: confirmed.csv")
-    confirmed_new_day()
-    confirmed_msis.update()
-    confirmed_fhi.update()
+    try:
+        confirmed_new_day()
+        confirmed_msis.update()
+        confirmed_fhi.update()
+    except Exception as e:
+        error_msg = f"confirmed.csv: {e.__class__.__name__}: {e}"
+        print(error_msg)
+        pushover_message("c19norge-data: confirmed.csv", error_msg)
 
     print("Checking for update: hospitalized.csv")
-    hospitalized.update()
+    try:
+        hospitalized.update()
+    except Exception as e:
+        error_msg = f"hospitalized.csv: {e.__class__.__name__}: {e}"
+        print(error_msg)
+        pushover_message("c19norge-data: hospitalized.csv", error_msg)
 
     print("Checking for update: dead.csv")
-    dead.update()
+    try:
+        dead.update()
+    except Exception as e:
+        error_msg = f"dead.csv: {e.__class__.__name__}: {e}"
+        print(error_msg)
+        pushover_message("c19norge-data: dead.csv", error_msg)
 
     print("Checking for update: vaccine_doses.csv")
-    vaccine.update()
+    try:
+        vaccine.update()
+    except Exception as e:
+        error_msg = f"vaccine_doses.csv: {e.__class__.__name__}: {e}"
+        print(error_msg)
+        pushover_message("c19norge-data: vaccine_doses.csv", error_msg)
 
     print("Checking for update: transport.csv")
-    transport.update()
+    try:
+        transport.update()
+    except Exception as e:
+        error_msg = f"transport.csv: {e.__class__.__name__}: {e}"
+        print(error_msg)
+        pushover_message("c19norge-data: transport.csv", error_msg)
 
     print("Checking for update: smittestopp.csv")
-    smittestopp.update()
+    try:
+        smittestopp.update()
+    except Exception as e:
+        error_msg = f"smittestopp.csv: {e.__class__.__name__}: {e}"
+        print(error_msg)
+        pushover_message("c19norge-data: smittestopp.csv", error_msg)
 
     sources = load_sources()
     pending_update = [sources[category]["pending_update"] for category in sources]
