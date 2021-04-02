@@ -146,3 +146,4 @@ Thumbs.db #thumbnail cache on Windows
 
 # custom
 .vscode
+.env
