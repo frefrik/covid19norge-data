@@ -1,5 +1,7 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Tog,41,Vy,Bergen S,Oslo S,2021-03-31 15:57:00,2021-03-31 22:53:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Ababa,Stockholm,2021-03-30 23:40:00,2021-03-31 07:45:00,fhi:web
+Tog,46,SJ,Trondheim S,Oslo S,2021-03-30 15:24:00,2021-03-30 22:04:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-03-30 10:35:00,2021-03-30 12:40:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-30 07:25:00,2021-03-30 12:30:00,fhi:web
 Fly,W65041,Wizz Air,Krakow,Bergen,2021-03-29 16:40:00,2021-03-29 19:10:00,fhi:web
@@ -11,6 +13,7 @@ Fly,W65033,WizzAir,Krakow,Oslo,2021-03-28 17:50:00,2021-03-28 20:05:00,fhi:web
 Fly,SK370,SAS,Oslo,Trondheim,2021-03-28 07:55:00,2021-03-28 08:50:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-28 07:25:00,2021-03-28 12:30:00,fhi:web
 Fly,SK4043,SAS,Oslo,Stavanger,2021-03-27 17:15:00,2021-03-27 18:10:00,fhi:web
+Tog,41,Vy,Bergen S,Oslo S,2021-03-27 15:57:00,2021-03-27 22:53:00,fhi:web
 Fly,SK396,SAS,Bardufoss,Oslo,2021-03-27 10:20:00,2021-03-27 12:10:00,fhi:web
 Fly,W61515,Wizz Air,Warszawa,Oslo,2021-03-27 06:35:00,2021-03-27 08:30:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Ababa,Stockholm,2021-03-26 23:40:00,2021-03-27 07:45:00,fhi:web
@@ -23,6 +26,7 @@ Fly,SK1322,SAS,Oslo,Ålesund,2021-03-26 14:00:00,2021-03-26 14:55:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-26 08:05:00,2021-03-26 12:20:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-03-26 08:00:00,2021-03-26 13:00:00,fhi:web
 Tog,41,VY,Bergen,Oslo,2021-03-26 07:54:00,2021-03-26 14:45:00,fhi:web
+Tog,41,VY,Bergen S,Oslo S,2021-03-26 07:54:00,2021-03-26 14:45:00,fhi:web
 Fly,SK392,SAS,Bardufoss,Oslo,2021-03-26 06:30:00,2021-03-26 08:15:00,fhi:web
 Fly,WF576,Widerøe,Bergen,Kristiansund,2021-03-25 20:05:00,2021-03-25 21:00:00,fhi:web
 Fly,WF424,Widerøe,Sandefjord,Bergen,2021-03-25 18:20:00,2021-03-25 19:15:00,fhi:web
