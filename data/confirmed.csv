@@ -408,3 +408,4 @@ date,new,total,source
 2021-04-02,640,97410,msis:api
 2021-04-03,692,98102,msis:api
 2021-04-04,343,98445,msis:api
+2021-04-05,0,98445,local:cron
