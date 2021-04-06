@@ -1,4 +1,5 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Fly,DY531,Norwegian,Stavanger,Oslo,2021-04-02 12:00:00,2021-04-02 12:50:00,fhi:web
 Skip,Superspeed 2,Color Line ,Hirtshals,Larvik,2021-04-01 22:15:00,2021-04-02 02:00:00,fhi:web
 Tog,45,VY,Mjølfjell,Bergen S,2021-04-01 15:59:00,2021-04-01 17:56:00,fhi:web
 Tog,45,VY,Bergen S,Mjølfjell,2021-04-01 12:56:00,2021-04-01 15:12:00,fhi:web
@@ -17,9 +18,11 @@ Fly,EK159,Emirates,Dubai,Oslo,2021-03-30 07:25:00,2021-03-30 12:30:00,fhi:web
 Fly,W65041,Wizz Air,Krakow,Bergen,2021-03-29 16:40:00,2021-03-29 19:10:00,fhi:web
 Fly,DY190,Norwegian,Oslo,Haugesund,2021-03-29 16:30:00,2021-03-29 17:25:00,fhi:web
 Fly,SK4116,SAS,Oslo,Bodø,2021-03-29 15:40:00,2021-03-29 17:15:00,fhi:web
+Fly,DY534,Norwegian,Oslo,Stavanger,2021-03-29 13:20:00,2021-03-29 14:10:00,fhi:web
 Fly,JU450,Air Serbia,BEograd,Oslo,2021-03-29 06:05:00,2021-03-29 08:55:00,fhi:web
 Fly,DY544,Norwegian,Oslo,Stavanger,2021-03-28 18:15:00,2021-03-28 19:05:00,fhi:web
 Fly,W65033,WizzAir,Krakow,Oslo,2021-03-28 17:50:00,2021-03-28 20:05:00,fhi:web
+Fly,W61718,Wizz Air,Bergen,Oslo,2021-03-28 17:10:00,2021-03-28 18:05:00,fhi:web
 Fly,SK344,SAS,Oslo,Trondheim,2021-03-28 12:15:00,2021-03-28 13:10:00,fhi:web
 Fly,SK394,SAS,Bardufoss,Oslo,2021-03-28 09:55:00,2021-03-28 11:45:00,fhi:web
 Fly,SK370,SAS,Oslo,Trondheim,2021-03-28 07:55:00,2021-03-28 08:50:00,fhi:web
@@ -29,6 +32,7 @@ Tog,41,Vy,Bergen S,Oslo S,2021-03-27 15:57:00,2021-03-27 22:53:00,fhi:web
 Fly,SK396,SAS,Bardufoss,Oslo,2021-03-27 10:20:00,2021-03-27 12:10:00,fhi:web
 Fly,DY376,Norwegian,Oslo,Tromsø,2021-03-27 09:10:00,2021-03-27 10:50:00,fhi:web
 Fly,QR175,Qatar Aiways,Doha,Oslo,2021-03-27 08:00:00,2021-03-27 13:00:00,fhi:web
+Fly,W63215,Wizz Air,Bucharest,Oslo,2021-03-27 07:40:00,2021-03-27 09:50:00,fhi:web
 Fly,W61515,Wizz Air,Warszawa,Oslo,2021-03-27 06:35:00,2021-03-27 08:30:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Ababa,Stockholm,2021-03-26 23:40:00,2021-03-27 07:45:00,fhi:web
 Fly,DY641,Norwegian,Bergen,Oslo,2021-03-26 20:20:00,2021-03-26 21:20:00,fhi:web
