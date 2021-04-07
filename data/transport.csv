@@ -1,9 +1,14 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-04-06 13:05:00,2021-04-06 15:00:00,fhi:web
+Fly,WF415,Widerøe,Bergen,Sandefjord,2021-04-05 14:25:00,2021-04-05 15:15:00,fhi:web
+Fly,AY913,Finnair,Helsinki,Oslo,2021-04-05 10:05:00,2021-04-05 11:25:00,fhi:web
 Tog,41,Vy,Ål,Bergen,2021-04-04 15:41:00,2021-04-04 19:11:00,fhi:web
+Fly,KL1199,KLM,Amsterdam,Stavanger,2021-04-04 10:00:00,2021-04-04 11:30:00,fhi:web
 Fly,DY531,Norwegian,Stavanger,Oslo,2021-04-02 12:00:00,2021-04-02 12:50:00,fhi:web
 Skip,Superspeed 2,Color Line ,Hirtshals,Larvik,2021-04-01 22:15:00,2021-04-02 02:00:00,fhi:web
 Tog,45,VY,Mjølfjell,Bergen S,2021-04-01 15:59:00,2021-04-01 17:56:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-04-01 14:05:00,2021-04-01 17:00:00,fhi:web
 Tog,45,VY,Bergen S,Mjølfjell,2021-04-01 12:56:00,2021-04-01 15:12:00,fhi:web
 Tog,41,VY,Oslo S,Bergen,2021-04-01 12:03:00,2021-04-01 18:54:00,fhi:web
 Tog,41,Vy,Bergen S,Oslo S,2021-03-31 15:57:00,2021-03-31 22:53:00,fhi:web
