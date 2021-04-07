@@ -1,10 +1,13 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
+Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Tog,41,Vy,Ål,Bergen,2021-04-04 15:41:00,2021-04-04 19:11:00,fhi:web
 Fly,DY531,Norwegian,Stavanger,Oslo,2021-04-02 12:00:00,2021-04-02 12:50:00,fhi:web
 Skip,Superspeed 2,Color Line ,Hirtshals,Larvik,2021-04-01 22:15:00,2021-04-02 02:00:00,fhi:web
 Tog,45,VY,Mjølfjell,Bergen S,2021-04-01 15:59:00,2021-04-01 17:56:00,fhi:web
 Tog,45,VY,Bergen S,Mjølfjell,2021-04-01 12:56:00,2021-04-01 15:12:00,fhi:web
 Tog,41,VY,Oslo S,Bergen,2021-04-01 12:03:00,2021-04-01 18:54:00,fhi:web
 Tog,41,Vy,Bergen S,Oslo S,2021-03-31 15:57:00,2021-03-31 22:53:00,fhi:web
+Tog,41,Vy,Bergen,Ål,2021-03-31 14:09:00,2021-03-31 17:50:00,fhi:web
 Fly,SK4571,SAS,Tromsø,Bodø,2021-03-31 09:30:00,2021-03-31 10:20:00,fhi:web
 Tog,41,SJ,Oslo S,Trondheim S,2021-03-31 08:02:00,2021-03-31 14:34:00,fhi:web
 Fly,QR175,Qatar Aiways,Doha,Oslo,2021-03-31 07:55:00,2021-03-31 13:40:00,fhi:web
@@ -12,9 +15,11 @@ Fly,ET714,Ethiopian Airlines,Addis Ababa,Stockholm,2021-03-30 23:40:00,2021-03-3
 Tog,46,SJ,Trondheim S,Oslo S,2021-03-30 15:24:00,2021-03-30 22:04:00,fhi:web
 Fly,KL1189,KLM,Amsterdam,Bergen,2021-03-30 15:15:00,2021-03-30 16:55:00,fhi:web
 Fly,SK393,SAS,Oslo,Bardufoss,2021-03-30 14:45:00,2021-03-30 16:30:00,fhi:web
+Tog,45,SJ,Oslo S,Trondheim S,2021-03-30 14:02:00,2021-03-30 20:51:00,fhi:web
 Fly,DY346,Norwegian,Oslo,Bodø,2021-03-30 12:50:00,2021-03-30 14:20:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-03-30 10:35:00,2021-03-30 12:40:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-03-30 07:25:00,2021-03-30 12:30:00,fhi:web
+Tog,406,SJ,Trondheim S,Oslo S,2021-03-29 23:17:00,2021-03-30 06:50:00,fhi:web
 Fly,W65041,Wizz Air,Krakow,Bergen,2021-03-29 16:40:00,2021-03-29 19:10:00,fhi:web
 Fly,DY190,Norwegian,Oslo,Haugesund,2021-03-29 16:30:00,2021-03-29 17:25:00,fhi:web
 Fly,SK4116,SAS,Oslo,Bodø,2021-03-29 15:40:00,2021-03-29 17:15:00,fhi:web
