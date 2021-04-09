@@ -1,25 +1,43 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-04-06 14:05:00,2021-04-06 17:00:00,fhi:web
+Buss,420,Veøy,Åndalsnes,Molde,2021-04-06 13:40:00,2021-04-06 15:10:00,fhi:web
 Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-04-06 13:05:00,2021-04-06 15:00:00,fhi:web
+Buss,190,Vy,Oslo,Kristiansand,2021-04-06 12:15:00,2021-04-06 16:33:00,fhi:web
+Tog,2341,SJ,Dombås,Åndalsnes,2021-04-06 12:05:00,2021-04-06 13:23:00,fhi:web
+Fly,DY617,Norwegian,Bergen,Oslo,2021-04-06 09:20:00,2021-04-06 10:15:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2021-04-06 07:25:00,2021-04-06 12:30:00,fhi:web
 Fly,W61724,Wizz Air,Tromsø,Oslo,2021-04-05 21:50:00,2021-04-05 23:45:00,fhi:web
 Fly,WF175,Widerøe,Oslo,Ørsta,2021-04-05 16:45:00,2021-04-05 17:55:00,fhi:web
+Fly,DY190,Norwegian,Oslo,Haugesund,2021-04-05 16:30:00,2021-04-05 17:25:00,fhi:web
+Buss,190,Vy,Oslo,Kristiansand,2021-04-05 16:00:00,2021-04-05 20:18:00,fhi:web
 Fly,DY620,Norwegian,Oslo,Bergen,2021-04-05 15:40:00,2021-04-05 16:35:00,fhi:web
 Fly,DY535,Norwegian,Stavanger,Oslo,2021-04-05 15:00:00,2021-04-05 15:50:00,fhi:web
 Fly,KL1147,KLM,Amsterdam,Oslo,2021-04-05 14:30:00,2021-04-05 16:20:00,fhi:web
 Fly,WF415,Widerøe,Bergen,Sandefjord,2021-04-05 14:25:00,2021-04-05 15:15:00,fhi:web
+Buss,190,Vy,Oslo,Kristiansand,2021-04-05 14:00:00,2021-04-05 18:18:00,fhi:web
+Fly,SK4164,SAS,Bergen,Trondheim,2021-04-05 12:10:00,2021-04-05 12:50:00,fhi:web
 Fly,AY913,Finnair,Helsinki,Oslo,2021-04-05 10:05:00,2021-04-05 11:25:00,fhi:web
+Fly,SK255,SAS,Oslo,Bergen,2021-04-05 09:10:00,2021-04-05 10:00:00,fhi:web
 Tog,41,Vy,Ål,Bergen,2021-04-04 15:41:00,2021-04-04 19:11:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2021-04-04 10:00:00,2021-04-04 11:30:00,fhi:web
 Tog,41,Vy,Oslo,Bergen,2021-04-03 11:57:00,2021-04-03 19:05:00,fhi:web
 Fly,DY531,Norwegian,Stavanger,Oslo,2021-04-02 12:00:00,2021-04-02 12:50:00,fhi:web
 Skip,Superspeed 2,Color Line ,Hirtshals,Larvik,2021-04-01 22:15:00,2021-04-02 02:00:00,fhi:web
+Fly,SK364,SAS,Oslo,Trondheim,2021-04-01 17:00:00,2021-04-01 17:55:00,fhi:web
 Tog,45,VY,Mjølfjell,Bergen S,2021-04-01 15:59:00,2021-04-01 17:56:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-04-01 14:05:00,2021-04-01 17:00:00,fhi:web
 Tog,45,VY,Bergen S,Mjølfjell,2021-04-01 12:56:00,2021-04-01 15:12:00,fhi:web
+Fly,SK263,SAS,Oslo,Bergen,2021-04-01 12:55:00,2021-04-01 13:45:00,fhi:web
 Tog,41,VY,Oslo S,Bergen,2021-04-01 12:03:00,2021-04-01 18:54:00,fhi:web
 Buss,930,Skyss,Bergen,Odda,2021-03-31 19:25:00,2021-03-31 20:50:00,fhi:web
+Buss,925,Tide,Voss,Nordheimstund,2021-03-31 19:05:00,2021-03-31 20:50:00,fhi:web
 Tog,41,Vy,Bergen S,Oslo S,2021-03-31 15:57:00,2021-03-31 22:53:00,fhi:web
+Fly,SK4525,SAS,Oslo,Molde,2021-03-31 15:50:00,2021-03-31 16:45:00,fhi:web
+Buss,450,Vy,Sogndal,Voss,2021-03-31 15:35:00,2021-03-31 18:25:00,fhi:web
+Tog,441,SJ,Melhus skysstasjon,Steinkjer,2021-03-31 14:48:00,2021-03-31 17:23:00,fhi:web
 Tog,41,Vy,Bergen,Ål,2021-03-31 14:09:00,2021-03-31 17:50:00,fhi:web
+Fly,DY364,Norwegian,Oslo,Harstad,2021-03-31 12:54:00,2021-03-31 14:20:00,fhi:web
 Buss,925,Skyss,Øystese,Bergen,2021-03-31 12:00:00,2021-03-31 13:25:00,fhi:web
 Fly,SK4571,SAS,Tromsø,Bodø,2021-03-31 09:30:00,2021-03-31 10:20:00,fhi:web
 Tog,41,SJ,Oslo S,Trondheim S,2021-03-31 08:02:00,2021-03-31 14:34:00,fhi:web
