@@ -9,6 +9,7 @@ Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-04-08 14:05:00,2021-04-08 17:00:0
 Fly,SK462,SAS,København,Oslo,2021-04-07 18:05:00,2021-04-07 19:15:00,fhi:web
 Fly,SK1314,SAS,Oslo,Ålesund,2021-04-07 07:55:00,2021-04-07 08:50:00,fhi:web
 Fly,SK4478,SAS,Oslo,Kirkenes,2021-04-06 17:55:00,2021-04-06 20:00:00,fhi:web
+Buss,FB73,Værnesekspressen,Værnes,Nidarvoll skole,2021-04-06 16:00:00,2021-04-06 16:54:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-04-06 14:05:00,2021-04-06 17:00:00,fhi:web
 Buss,420,Veøy,Åndalsnes,Molde,2021-04-06 13:40:00,2021-04-06 15:10:00,fhi:web
 Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-04-06 13:05:00,2021-04-06 15:00:00,fhi:web
@@ -20,6 +21,7 @@ Fly,W61724,Wizz Air,Tromsø,Oslo,2021-04-05 21:50:00,2021-04-05 23:45:00,fhi:web
 Fly,WF175,Widerøe,Oslo,Ørsta,2021-04-05 16:45:00,2021-04-05 17:55:00,fhi:web
 Fly,DY190,Norwegian,Oslo,Haugesund,2021-04-05 16:30:00,2021-04-05 17:25:00,fhi:web
 Buss,190,Vy,Oslo,Kristiansand,2021-04-05 16:00:00,2021-04-05 20:18:00,fhi:web
+Buss,NW192,Konkurrenten,Kristiansand,Oslo,2021-04-05 16:00:00,2021-04-05 20:15:00,fhi:web
 Fly,DY620,Norwegian,Oslo,Bergen,2021-04-05 15:40:00,2021-04-05 16:35:00,fhi:web
 Fly,DY535,Norwegian,Stavanger,Oslo,2021-04-05 15:00:00,2021-04-05 15:50:00,fhi:web
 Fly,KL1147,KLM,Amsterdam,Oslo,2021-04-05 14:30:00,2021-04-05 16:20:00,fhi:web
