@@ -27,7 +27,7 @@
     "dataset_detail": "#hospitalizedcsv",
     "data_source": "Helsedirektoratet",
     "date_range": "2020-03-08 - Present",
-    "last_updated": "2021-04-14 13:00:44+02:00",
+    "last_updated": "2021-04-15 13:00:45+02:00",
     "link_preview": "data/hospitalized.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/hospitalized.csv",
     "pending_update": 0
@@ -38,7 +38,7 @@
     "dataset_detail": "#testedcsv",
     "data_source": "FHI",
     "date_range": "2020-03-12 - Present",
-    "last_updated": "2021-04-14 13:00:43+02:00",
+    "last_updated": "2021-04-15 13:00:43+02:00",
     "link_preview": "data/tested.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested.csv",
     "pending_update": 0
