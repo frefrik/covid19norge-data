@@ -5,11 +5,13 @@ Fly,LH864,Lufthansa,Frankfurt,Oslo,2021-04-12 21:30:00,2021-04-12 23:25:00,fhi:w
 Fly,SK1327,SAS,Ålesund,Oslo,2021-04-11 18:30:00,2021-04-11 19:25:00,fhi:web
 Fly,SK221,SAS,Oslo,Kristiansand,2021-04-11 17:50:00,2021-04-11 18:37:00,fhi:web
 Fly,SK371,SAS,Trondheim,Oslo,2021-04-11 16:10:00,2021-04-11 17:05:00,fhi:web
+Tog,41,VY,Bergen S,Oslo S,2021-04-11 15:43:00,2021-04-11 22:20:00,fhi:web
 Fly,WF712,Widerøe,Brønnøysund,Trondheim,2021-04-11 13:55:00,2021-04-11 14:40:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-04-11 07:25:00,2021-04-11 12:30:00,fhi:web
 Fly,SK4299,SAS,Kiev,Oslo,2021-04-10 13:55:00,2021-04-10 15:45:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-04-10 07:55:00,2021-04-10 13:40:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-04-10 07:35:00,2021-04-10 10:25:00,fhi:web
+Tog,41,VY,Oslo S,Bergen S,2021-04-09 15:43:00,2021-04-09 22:20:00,fhi:web
 Tog,R20,VY,Halden,Oslo S,2021-04-09 15:02:00,2021-04-09 17:11:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-04-09 07:25:00,2021-04-09 12:30:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Abeba,Oslo,2021-04-08 23:40:00,2021-04-09 06:40:00,fhi:web
