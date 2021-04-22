@@ -1,7 +1,10 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,LH86 ,Lufthansa,Frankfurt,Oslo,2021-04-21 10:00:00,2021-04-21 11:55:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2021-04-20 07:25:00,2021-04-20 12:30:00,fhi:web
 Fly,W65033,Wizz Air,Krakow,Oslo,2021-04-20 06:10:00,2021-04-20 08:25:00,fhi:web
 Fly,DY402,Norwegian,Oslo,Ålesund,2021-04-19 10:35:00,2021-04-19 11:35:00,fhi:web
+Fly,SK4038,SAS,Stavanger,Oslo,2021-04-18 17:40:00,2021-04-18 18:30:00,fhi:web
 Fly,SK4478,SAS,Oslo,Kirkenes,2021-04-18 16:00:00,2021-04-18 18:05:00,fhi:web
 Fly,AF1774,Air France,Paris,Oslo,2021-04-18 14:25:00,2021-04-18 16:40:00,fhi:web
 Fly,PC1273,Pegasus,Istanbul,Oslo,2021-04-18 10:50:00,2021-04-18 13:45:00,fhi:web
@@ -12,6 +15,7 @@ Fly,EK159,Emirates,Dubai,Oslo,2021-04-16 07:25:00,2021-04-16 12:30:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-04-16 07:25:00,2021-04-16 12:30:00,fhi:web
 Fly,QR175,Qatar Airlines,Doha,Oslo,2021-04-13 07:55:00,2021-04-13 13:40:00,fhi:web
 Fly,LH864,Lufthansa,Frankfurt,Oslo,2021-04-12 21:30:00,2021-04-12 23:25:00,fhi:web
+Fly,LO481,Polish Airways,Warzawa,Oslo,2021-04-12 07:50:00,2021-04-12 09:55:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-04-12 07:35:00,2021-04-12 10:25:00,fhi:web
 Fly,DY821,Norwegian,Stockholm,Oslo,2021-04-11 19:20:00,2021-04-11 20:20:00,fhi:web
 Fly,SK1327,SAS,Ålesund,Oslo,2021-04-11 18:30:00,2021-04-11 19:25:00,fhi:web
