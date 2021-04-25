@@ -1,5 +1,8 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,KL1189,KLM,Amsterdam,Bergen,2021-04-22 15:15:00,2021-04-22 16:55:00,fhi:web
+Fly,DY653,Norwegian,Bergen,Oslo,2021-04-21 20:20:00,2021-04-21 21:15:00,fhi:web
+Fly,KL1203,KLM,Amsterdam,Stavanger,2021-04-21 16:50:00,2021-04-21 18:15:00,fhi:web
 Fly,LH86 ,Lufthansa,Frankfurt,Oslo,2021-04-21 10:00:00,2021-04-21 11:55:00,fhi:web
 Fly,DY538,Norwegian,Oslo,Stavanger,2021-04-20 16:20:00,2021-04-20 17:10:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-04-20 07:25:00,2021-04-20 12:30:00,fhi:web
