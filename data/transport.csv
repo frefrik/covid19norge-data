@@ -3,8 +3,10 @@ Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1189,KLM,Amsterdam,Bergen,2021-04-22 15:15:00,2021-04-22 16:55:00,fhi:web
 Fly,DY653,Norwegian,Bergen,Oslo,2021-04-21 20:20:00,2021-04-21 21:15:00,fhi:web
 Fly,KL1203,KLM,Amsterdam,Stavanger,2021-04-21 16:50:00,2021-04-21 18:15:00,fhi:web
+Buss,41,VY,Voss,Bergen,2021-04-21 13:45:00,2021-04-21 15:21:00,fhi:web
 Fly,LH86 ,Lufthansa,Frankfurt,Oslo,2021-04-21 10:00:00,2021-04-21 11:55:00,fhi:web
 Fly,DY538,Norwegian,Oslo,Stavanger,2021-04-20 16:20:00,2021-04-20 17:10:00,fhi:web
+Buss,45,VY,Bergen,Myrdal,2021-04-20 12:56:00,2021-04-20 15:31:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-04-20 07:25:00,2021-04-20 12:30:00,fhi:web
 Fly,W65033,Wizz Air,Krakow,Oslo,2021-04-20 06:10:00,2021-04-20 08:25:00,fhi:web
 Tog,R11x,Vy,Oslo S,Skien,2021-04-19 15:35:00,2021-04-19 17:39:00,fhi:web
@@ -12,6 +14,7 @@ Fly,DY397,Norwegian,Tromsø,Oslo,2021-04-19 15:35:00,2021-04-19 17:30:00,fhi:web
 Fly,DY402,Norwegian,Oslo,Ålesund,2021-04-19 10:35:00,2021-04-19 11:35:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-04-19 07:55:00,2021-04-19 13:40:00,fhi:web
 Fly,SK4038,SAS,Stavanger,Oslo,2021-04-18 17:40:00,2021-04-18 18:30:00,fhi:web
+Buss,NW192,Konkurrenten,Stavanger,Kristiansand,2021-04-18 16:15:00,2021-04-18 20:20:00,fhi:web
 Fly,SK4478,SAS,Oslo,Kirkenes,2021-04-18 16:00:00,2021-04-18 18:05:00,fhi:web
 Fly,AF1774,Air France,Paris,Oslo,2021-04-18 14:25:00,2021-04-18 16:40:00,fhi:web
 Fly,WF604,Widerøe,Kristiansand,Trondheim,2021-04-18 12:05:00,2021-04-18 13:30:00,fhi:web
