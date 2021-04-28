@@ -2,6 +2,7 @@ tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-04-25 07:25:00,2021-04-25 12:30:00,fhi:web
 Fly,SK269,SAS,Oslo,Bergen,2021-04-24 14:45:00,2021-04-24 15:35:00,fhi:web
+Tog,Tog 2345,SJ,Dombås,Åndalsnes,2021-04-24 08:18:00,2021-04-24 15:03:00,fhi:web
 Fly,SK491,SAS,Stockholm,Oslo,2021-04-23 15:40:00,2021-04-23 16:35:00,fhi:web
 Fly,WF173,Widerøe,Oslo,Ørsta,2021-04-23 13:40:00,2021-04-23 14:50:00,fhi:web
 Tog,SJ NORD,SJ,Dombås,Oslo,2021-04-23 10:58:00,2021-04-23 15:03:00,fhi:web
