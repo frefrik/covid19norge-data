@@ -1,6 +1,9 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,WF627,Widerøe,Tromsø,Bergen,2021-04-27 17:10:00,2021-04-27 19:15:00,fhi:web
+Fly,WF622,Widerøe,Bergen,Tromsø,2021-04-27 07:45:00,2021-04-27 09:45:00,fhi:web
 Fly,SK1327,SAS,Ålesund,Oslo,2021-04-26 18:25:00,2021-04-26 19:20:00,fhi:web
+Fly,SK4025,SAS,Oslo,Stavanger,2021-04-26 13:10:00,2021-04-26 14:00:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-04-25 07:25:00,2021-04-25 12:30:00,fhi:web
 Buss,681,Fram Ekspress,Åndalsnes,Ålesund,2021-04-24 19:45:00,2021-04-24 21:50:00,fhi:web
 Fly,SK269,SAS,Oslo,Bergen,2021-04-24 14:45:00,2021-04-24 15:35:00,fhi:web
