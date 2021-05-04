@@ -1,6 +1,8 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-04-30 14:05:00,2021-04-30 17:00:00,fhi:web
 Fly,SK291,SAS,Oslo,Bergen,2021-04-29 20:30:00,2021-04-29 21:20:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-04-29 14:05:00,2021-04-29 17:00:00,fhi:web
 Fly,WF173,Widerøe,Oslo,Ørsta,2021-04-28 13:40:00,2021-04-28 14:50:00,fhi:web
 Fly,SK4111,SAS,Bodø,Oslo,2021-04-28 12:50:00,2021-04-28 14:50:00,fhi:web
 Fly,SK4106,SAS,Oslo,Bodø,2021-04-28 11:00:00,2021-04-28 12:25:00,fhi:web
