@@ -1,8 +1,15 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,WF816,Widerøe,Bodø,Leknes,2021-05-03 17:30:00,2021-05-03 17:55:00,fhi:web
+Fly,WF713,Widerøe,Brønnøysund,Bodø,2021-05-03 15:10:00,2021-05-03 16:10:00,fhi:web
+Fly,JU450,Air Serbia,Beograd,Oslo,2021-05-03 06:05:00,2021-05-03 09:00:00,fhi:web
+Fly,W61747,Wizz Air,Gdansk,Stavanger,2021-05-02 13:30:00,2021-05-02 15:15:00,fhi:web
+Fly,DY617,Norwegian,Bergen,Oslo,2021-05-02 12:30:00,2021-05-02 13:25:00,fhi:web
+Fly,SK291,SAS,Oslo,Bergen,2021-04-30 20:30:00,2021-04-30 21:20:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-04-30 14:05:00,2021-04-30 17:00:00,fhi:web
 Fly,SK291,SAS,Oslo,Bergen,2021-04-29 20:30:00,2021-04-29 21:20:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-04-29 14:05:00,2021-04-29 17:00:00,fhi:web
+Fly,SK319,SAS,Haugesund,Oslo,2021-04-28 18:15:00,2021-04-28 19:05:00,fhi:web
 Fly,WF173,Widerøe,Oslo,Ørsta,2021-04-28 13:40:00,2021-04-28 14:50:00,fhi:web
 Fly,SK4111,SAS,Bodø,Oslo,2021-04-28 12:50:00,2021-04-28 14:50:00,fhi:web
 Fly,SK4106,SAS,Oslo,Bodø,2021-04-28 11:00:00,2021-04-28 12:25:00,fhi:web
@@ -13,6 +20,8 @@ Fly,WF536,Widerøe,Stavanger,Bergen,2021-04-27 15:50:00,2021-04-27 16:25:00,fhi:
 Fly,WF622,Widerøe,Bergen,Tromsø,2021-04-27 07:45:00,2021-04-27 09:45:00,fhi:web
 Fly,SK1327,SAS,Ålesund,Oslo,2021-04-26 18:25:00,2021-04-26 19:20:00,fhi:web
 Fly,SK4025,SAS,Oslo,Stavanger,2021-04-26 13:10:00,2021-04-26 14:00:00,fhi:web
+Fly,LO481,Polish Airlines,Warszawa,Oslo,2021-04-26 08:15:00,2021-04-26 10:20:00,fhi:web
+Fly,QR175,Qatar ,Doha,Oslo,2021-04-26 07:55:00,2021-04-26 13:40:00,fhi:web
 Fly,SK4124,SAS,Oslo,Bodø,2021-04-25 19:55:00,2021-04-25 21:20:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-04-25 07:25:00,2021-04-25 12:30:00,fhi:web
 Buss,681,Fram Ekspress,Åndalsnes,Ålesund,2021-04-24 19:45:00,2021-04-24 21:50:00,fhi:web
