@@ -443,3 +443,4 @@ date,new,total,source
 2021-05-07,407,115818,msis:api
 2021-05-08,316,116134,msis:api
 2021-05-09,231,116365,msis:api
+2021-05-10,0,116365,local:cron
