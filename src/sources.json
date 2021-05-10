@@ -5,7 +5,7 @@
     "dataset_detail": "#confirmedcsv",
     "data_source": "FHI / MSIS",
     "date_range": "2020-02-21 - Present",
-    "last_updated": "2021-05-11 00:00:52+02:00",
+    "last_updated": "2021-05-11 00:10:49+02:00",
     "link_preview": "data/confirmed.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/confirmed.csv",
     "pending_update": 0
