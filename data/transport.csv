@@ -1,6 +1,8 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Tog,L14,VY,Asker,Kongsvinger,2021-05-07 20:39:00,2021-05-07 22:21:00,fhi:web
+Skip,Linje 2,Troms Fylkestrafikk,Tromsø,Harstad,2021-05-06 16:15:00,2021-05-06 19:15:00,fhi:web
+Skip,Linje 2,Troms Fylkestrafikk,Harstad,Tromsø,2021-05-06 07:00:00,2021-05-06 10:00:00,fhi:web
 Fly,KL1151,KLM,Amsterdam,Oslo,2021-05-05 20:50:00,2021-05-05 22:35:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-05-05 07:35:00,2021-05-05 10:25:00,fhi:web
 Fly,SK252,SAS,Bergen,Oslo,2021-05-04 09:25:00,2021-05-04 10:15:00,fhi:web
