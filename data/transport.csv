@@ -1,8 +1,13 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,W61747,Wizz Air,Gdansk,Stavanger,2021-05-10 06:50:00,2021-05-10 08:35:00,fhi:web
+Fly,KL1189,KLM,Amsterdam,Bergen,2021-05-09 15:15:00,2021-05-09 16:55:00,fhi:web
 Fly,SK274,SAS,Bergen,Oslo,2021-05-08 16:05:00,2021-05-08 16:55:00,fhi:web
+Tog,R11,Vy,Eidsvoll,Skien,2021-05-08 16:00:00,2021-05-08 18:53:00,fhi:web
+Fly,SK4417,SAS,Tromsø,Oslo,2021-05-08 13:45:00,2021-05-08 15:35:00,fhi:web
 Tog,L14,VY,Asker,Kongsvinger,2021-05-07 20:39:00,2021-05-07 22:21:00,fhi:web
+Fly,WF968,Widerøe,Hammerfest,Tromsø,2021-05-07 20:03:00,2021-05-07 20:45:00,fhi:web
+Fly,FR8508,RyanAir,Krakow,Oslo/Torp,2021-05-07 19:00:00,2021-05-07 21:00:00,fhi:web
 Fly,W65041,Wizz Air,Krakow,Bergen,2021-05-07 12:40:00,2021-05-07 14:05:00,fhi:web
 Fly,SK257,SAS,Oslo,Bergen,2021-05-07 10:50:00,2021-05-07 11:40:00,fhi:web
 Skip,Linje 2,Troms Fylkestrafikk,Tromsø,Harstad,2021-05-06 16:15:00,2021-05-06 19:15:00,fhi:web
