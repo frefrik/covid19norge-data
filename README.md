@@ -12,7 +12,7 @@ This repository contains datasets of daily time-series data related to COVID-19 
 | :--- | :--- | :--- | :--- | :--- |
 |[Confirmed](#confirmedcsv)|FHI / MSIS|2021-05-18 00:10:51+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/confirmed.csv)|[<center>preview</center>](data/confirmed.csv)|
 |[Dead](#deadcsv)|FHI|2021-05-17 13:21:03+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/dead.csv)|[<center>preview</center>](data/dead.csv)|
-|[Hospitalized](#hospitalizedcsv)|Helsedirektoratet|2021-05-17 13:40:54+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/hospitalized.csv)|[<center>preview</center>](data/hospitalized.csv)|
+|[Hospitalized](#hospitalizedcsv)|Helsedirektoratet|2021-05-18 12:50:49+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/hospitalized.csv)|[<center>preview</center>](data/hospitalized.csv)|
 |[Tested](#testedcsv)|FHI|2021-05-17 13:00:50+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested.csv)|[<center>preview</center>](data/tested.csv)|
 |[Tested Lab](#tested_labcsv)|FHI|2021-05-17 13:20:58+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested_lab.csv)|[<center>preview</center>](data/tested_lab.csv)|
 |[Transport](#transportcsv)|FHI|2021-05-18 11:40:55+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/transport.csv)|[<center>preview</center>](data/transport.csv)|
