@@ -1,7 +1,11 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-05-16 13:05:00,2021-05-16 15:00:00,fhi:web
+Fly,WF414,Widerøe,Oslo Torp,Bergen,2021-05-16 12:55:00,2021-05-16 13:50:00,fhi:web
+Fly,WF483,Widerøe,Trondheim,Oslo Torp,2021-05-16 11:20:00,2021-05-16 12:30:00,fhi:web
 Fly,WF717,Widerøe,Trondheim,Brønnøysund,2021-05-14 21:30:00,2021-05-14 22:10:00,fhi:web
 Fly,DY768,Norwegian,Oslo,Trondheim,2021-05-14 19:00:00,2021-05-14 20:10:00,fhi:web
+Fly,WF678,Widerøe,Bergen,Trondheim,2021-05-13 17:00:00,2021-05-13 18:00:00,fhi:web
 Fly,SK268,SAS,Bergen,Oslo,2021-05-10 13:05:00,2021-05-10 13:55:00,fhi:web
 Fly,SK391,SAS,Oslo,Bardufoss,2021-05-10 08:30:00,2021-05-10 10:15:00,fhi:web
 Fly,W61747,Wizz Air,Gdansk,Stavanger,2021-05-10 06:50:00,2021-05-10 08:35:00,fhi:web
