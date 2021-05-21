@@ -1,6 +1,7 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,SK284,SAS,Bergen,Oslo,2021-05-18 18:20:00,2021-05-18 19:10:00,fhi:web
+Tog,R20,VY,Halden,Oslo S,2021-05-18 18:10:00,2021-05-18 19:52:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-05-18 07:25:00,2021-05-18 12:30:00,fhi:web
 Fly,EK641,Emirates,Kabul,Dubai,2021-05-17 16:20:00,2021-05-17 18:45:00,fhi:web
 Fly,DY543,Norwegian,Stavanger,Oslo,2021-05-16 18:05:00,2021-05-16 18:55:00,fhi:web
@@ -8,6 +9,7 @@ Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-05-16 13:05:00,2021-05-16 15:00:00,fhi:w
 Fly,WF414,Widerøe,Oslo Torp,Bergen,2021-05-16 12:55:00,2021-05-16 13:50:00,fhi:web
 Fly,WF483,Widerøe,Trondheim,Oslo Torp,2021-05-16 11:20:00,2021-05-16 12:30:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Ethiopia,Stockholm,2021-05-15 23:40:00,2021-05-16 08:45:00,fhi:web
+Tog,R11,VY,Skien,Eidsvoll,2021-05-15 16:07:00,2021-05-15 19:00:00,fhi:web
 Tog,L30,VY Gjøvikbanen,Oslo S,Gjøvik,2021-05-15 15:02:00,2021-05-15 16:59:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-05-15 07:35:00,2021-05-15 10:25:00,fhi:web
 Fly,WF717,Widerøe,Trondheim,Brønnøysund,2021-05-14 21:30:00,2021-05-14 22:10:00,fhi:web
@@ -22,6 +24,7 @@ Fly,SK4432,SAS,Oslo,Tromsø,2021-05-09 18:50:00,2021-05-09 20:40:00,fhi:web
 Fly,KL1189,KLM,Amsterdam,Bergen,2021-05-09 15:15:00,2021-05-09 16:55:00,fhi:web
 Fly,SK274,SAS,Bergen,Oslo,2021-05-08 16:05:00,2021-05-08 16:55:00,fhi:web
 Tog,R11,Vy,Eidsvoll,Skien,2021-05-08 16:00:00,2021-05-08 18:53:00,fhi:web
+Tog,R11,VY,Eidsvoll,Skien,2021-05-08 16:00:00,2021-05-08 18:53:00,fhi:web
 Fly,SK4417,SAS,Tromsø,Oslo,2021-05-08 13:45:00,2021-05-08 15:35:00,fhi:web
 Tog,L14,VY,Asker,Kongsvinger,2021-05-07 20:39:00,2021-05-07 22:21:00,fhi:web
 Fly,WF968,Widerøe,Hammerfest,Tromsø,2021-05-07 20:03:00,2021-05-07 20:45:00,fhi:web
