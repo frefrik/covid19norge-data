@@ -17,7 +17,7 @@ This repository contains datasets of daily time-series data related to COVID-19 
 |[Tested Lab](#tested_labcsv)|FHI|2021-05-20 13:20:47+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested_lab.csv)|[<center>preview</center>](data/tested_lab.csv)|
 |[Transport](#transportcsv)|FHI|2021-05-21 01:30:53+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/transport.csv)|[<center>preview</center>](data/transport.csv)|
 |[Vaccine Doses](#vaccine_dosescsv)|FHI|2021-05-20 13:20:51+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/vaccine_doses.csv)|[<center>preview</center>](data/vaccine_doses.csv)|
-|[Smittestopp](#smittestoppcsv)|FHI|2021-05-20 10:40:57+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/smittestopp.csv)|[<center>preview</center>](data/smittestopp.csv)|
+|[Smittestopp](#smittestoppcsv)|FHI|2021-05-21 10:01:00+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/smittestopp.csv)|[<center>preview</center>](data/smittestopp.csv)|
 <!-- table ends -->
 
 ## Datafiles
