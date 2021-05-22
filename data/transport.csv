@@ -1,9 +1,24 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,W65033,Wizz Air,Krakow,Oslo/Torp,2021-05-20 12:00:00,2021-05-20 14:15:00,fhi:web
+Fly,WF977,Widerøe,Hammerfest,Tromsø,2021-05-20 00:25:00,2021-05-20 01:00:00,fhi:web
+Fly,WF427,Widerøe,Tromsø,Bergen,2021-05-19 17:10:00,2021-05-19 19:15:00,fhi:web
+Fly,WF907,Widerøe,Hammerfest,Bergen,2021-05-19 15:58:00,2021-05-19 16:40:00,fhi:web
+Fly,WF406,Widerøe,Oslo Torp,Bergen,2021-05-19 08:55:00,2021-05-19 09:50:00,fhi:web
+Tog,475,SJ,Trondheim,Bodø,2021-05-18 23:27:00,2021-05-19 09:17:00,fhi:web
+Fly,WF968,Widerøe,Hammerfest,Tromsø,2021-05-18 19:58:00,2021-05-18 20:40:00,fhi:web
 Fly,SK284,SAS,Bergen,Oslo,2021-05-18 18:20:00,2021-05-18 19:10:00,fhi:web
 Tog,R20,VY,Halden,Oslo S,2021-05-18 18:10:00,2021-05-18 19:52:00,fhi:web
+Tog,R20,Vy,Halden,Oslo S,2021-05-18 18:10:00,2021-05-18 19:52:00,fhi:web
+Tog,L14,Vy,Kongsvinger,Oslo,2021-05-18 17:41:00,2021-05-18 18:56:00,fhi:web
+Fly,DY191,Norwegian,Haugesund,Oslo,2021-05-18 17:35:00,2021-05-18 18:30:00,fhi:web
+Tog,L14,Vy,Oslo,Kongsvinger,2021-05-18 16:04:00,2021-05-18 17:22:00,fhi:web
+Tog,L13,Vy,Dal,Oslo,2021-05-18 14:24:00,2021-05-18 15:16:00,fhi:web
+Tog,L13,Vy,Oslo,Dal,2021-05-18 13:15:00,2021-05-18 14:16:00,fhi:web
+Fly,DY761,Norwegian,Trondheim,Oslo,2021-05-18 09:20:00,2021-05-18 10:15:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-05-18 07:25:00,2021-05-18 12:30:00,fhi:web
 Fly,EK641,Emirates,Kabul,Dubai,2021-05-17 16:20:00,2021-05-17 18:45:00,fhi:web
+Fly,WF977,Widerøe,Hammerfest,Tromsø,2021-05-17 00:25:00,2021-05-17 00:40:00,fhi:web
 Fly,KL1151,KLM,Amsterdam,Oslo,2021-05-16 20:50:00,2021-05-16 22:35:00,fhi:web
 Fly,DY543,Norwegian,Stavanger,Oslo,2021-05-16 18:05:00,2021-05-16 18:55:00,fhi:web
 Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-05-16 13:05:00,2021-05-16 15:00:00,fhi:web
@@ -15,6 +30,8 @@ Tog,L30,VY Gjøvikbanen,Oslo S,Gjøvik,2021-05-15 15:02:00,2021-05-15 16:59:00,f
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-05-15 07:35:00,2021-05-15 10:25:00,fhi:web
 Fly,WF717,Widerøe,Trondheim,Brønnøysund,2021-05-14 21:30:00,2021-05-14 22:10:00,fhi:web
 Fly,DY768,Norwegian,Oslo,Trondheim,2021-05-14 19:00:00,2021-05-14 20:10:00,fhi:web
+Tog,2389,SJ,Hamar,Røros,2021-05-14 18:11:00,2021-05-14 21:33:00,fhi:web
+Tog,325,Vy,Oslo,Hamar,2021-05-14 16:34:00,2021-05-14 17:50:00,fhi:web
 Fly,WF678,Widerøe,Bergen,Trondheim,2021-05-13 17:00:00,2021-05-13 18:00:00,fhi:web
 Fly,SK268,SAS,Bergen,Oslo,2021-05-10 13:05:00,2021-05-10 13:55:00,fhi:web
 Fly,SK391,SAS,Oslo,Bardufoss,2021-05-10 08:30:00,2021-05-10 10:15:00,fhi:web
