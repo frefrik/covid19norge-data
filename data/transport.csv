@@ -1,5 +1,6 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,KL1147,KLM,Amsterdam,Oslo,2021-05-23 14:30:00,2021-05-23 16:20:00,fhi:web
 Fly,WF171,Widerøe,Trondheim,Brønnøysund,2021-05-21 21:30:00,2021-05-21 22:15:00,fhi:web
 Fly,SK4486,SAS,Stavanger,Trondheim,2021-05-21 19:35:00,2021-05-21 20:45:00,fhi:web
 Fly,W61709,Wizz Air,Oslo,Trondheim,2021-05-20 15:10:00,2021-05-20 16:05:00,fhi:web
