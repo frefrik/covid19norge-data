@@ -1,7 +1,10 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,DY538,Norwegian,Oslo,Stavanger,2021-06-02 16:20:00,2021-06-02 17:10:00,fhi:web
+Fly,WF808,Widerøe,Bodø,Leknes,2021-06-02 10:55:00,2021-06-02 11:20:00,fhi:web
 Fly,DY524,Norwegian,Oslo,Stavanger,2021-06-02 08:00:00,2021-06-02 08:50:00,fhi:web
 Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-05-31 13:05:00,2021-05-31 15:00:00,fhi:web
+Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-05-31 07:35:00,2021-05-31 10:25:00,fhi:web
 Fly,WF548,Widerøe,Stavanger,Bergen,2021-05-30 20:55:00,2021-05-30 21:30:00,fhi:web
 Fly,KL1151,KLM,Amsterdam,Oslo,2021-05-30 20:50:00,2021-05-30 22:35:00,fhi:web
 Tog,R10,VY,Drammen,Lillehammer,2021-05-30 17:57:00,2021-05-30 20:40:00,fhi:web
