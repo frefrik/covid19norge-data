@@ -1,5 +1,8 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,SK2872,SAS,København,Bergen,2021-06-06 17:00:00,2021-06-06 18:20:00,fhi:web
+Tog,L12,VY,Hokksund,Eidsvoll,2021-06-05 14:59:00,2021-06-05 16:30:00,fhi:web
+Tog,L12,VY,Eidsvoll,Hokksund,2021-06-05 11:30:00,2021-06-05 13:30:00,fhi:web
 Fly,DY375,Norwegian,Tromsø,Oslo,2021-06-03 10:55:00,2021-06-03 12:50:00,fhi:web
 Fly,DY538,Norwegian,Oslo,Stavanger,2021-06-02 16:20:00,2021-06-02 17:10:00,fhi:web
 Fly,WF808,Widerøe,Bodø,Leknes,2021-06-02 10:55:00,2021-06-02 11:20:00,fhi:web
