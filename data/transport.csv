@@ -2,6 +2,7 @@ tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,SK277,SAS,Oslo,Bergen,2021-06-09 17:00:00,2021-06-09 17:50:00,fhi:web
 Fly,SK806,SAS,London,Oslo,2021-06-08 15:35:00,2021-06-08 18:50:00,fhi:web
+Buss,480,ATB,Oppdal,Trondheim,2021-06-08 08:33:00,2021-06-08 10:20:00,fhi:web
 Fly,SK274,SAS,Bergen,Oslo,2021-06-07 16:05:00,2021-06-07 16:55:00,fhi:web
 Fly,WF681,Widerøe,Trondheim,Bergen,2021-06-06 21:25:00,2021-06-06 22:30:00,fhi:web
 Fly,DY635,Norwegian,Bergen,Oslo,2021-06-06 18:20:00,2021-06-06 19:15:00,fhi:web
