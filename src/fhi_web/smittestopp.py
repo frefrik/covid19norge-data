@@ -59,12 +59,24 @@ def update():
         df_new.loc[df_new["date"] == datestr, "total_downloads"] = n[1]
 
     for n in new_reported:
-        date_parsed = datetime.fromtimestamp(n[0] / 1000)
+        if isinstance(n[0], int):
+            date_parsed = datetime.fromtimestamp(n[0] / 1000)
+        else:
+            if n[0] == "11.06.20.21":
+                n[0] = "11.06.2021"
+            date_parsed = datetime.strptime(n[0], "%d.%m.%Y")
+
         datestr = date_parsed.strftime("%Y-%m-%d")
         df_new.loc[df_new["date"] == datestr, "new_reported"] = n[1]
 
     for n in total_reported:
-        date_parsed = datetime.fromtimestamp(n[0] / 1000)
+        if isinstance(n[0], int):
+            date_parsed = datetime.fromtimestamp(n[0] / 1000)
+        else:
+            if n[0] == "11.06.20.21":
+                n[0] = "11.06.2021"
+            date_parsed = datetime.strptime(n[0], "%d.%m.%Y")
+
         datestr = date_parsed.strftime("%Y-%m-%d")
         df_new.loc[df_new["date"] == datestr, "total_reported"] = n[1]
 
