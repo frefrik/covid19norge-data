@@ -12,6 +12,12 @@ from utils import (
     graphs,
 )
 
+def fmt_num(num):
+    if isinstance(num, str):
+        num = int(num.replace(".", ""))
+
+    return num
+
 
 def update():
     now = get_timestr()
@@ -47,7 +53,7 @@ def update():
     for n in new_downloads:
         date_parsed = datetime.fromtimestamp(n[0] / 1000)
         datestr = date_parsed.strftime("%Y-%m-%d")
-        d = {"date": datestr, "new_downloads": n[1].replace(".", "")}
+        d = {"date": datestr, "new_downloads": fmt_num(n[1])}
 
         new_lst.append(d)
 
@@ -56,7 +62,7 @@ def update():
     for n in total_downloads:
         date_parsed = datetime.fromtimestamp(n[0] / 1000)
         datestr = date_parsed.strftime("%Y-%m-%d")
-        df_new.loc[df_new["date"] == datestr, "total_downloads"] = n[1].replace(".", "")
+        df_new.loc[df_new["date"] == datestr, "total_downloads"] = fmt_num(n[1])
 
     for n in new_reported:
         if isinstance(n[0], int):
@@ -67,7 +73,7 @@ def update():
             date_parsed = datetime.strptime(n[0], "%d.%m.%Y")
 
         datestr = date_parsed.strftime("%Y-%m-%d")
-        df_new.loc[df_new["date"] == datestr, "new_reported"] = n[1].replace(".", "")
+        df_new.loc[df_new["date"] == datestr, "new_reported"] = fmt_num(n[1])
 
     for n in total_reported:
         if isinstance(n[0], int):
@@ -78,7 +84,7 @@ def update():
             date_parsed = datetime.strptime(n[0], "%d.%m.%Y")
 
         datestr = date_parsed.strftime("%Y-%m-%d")
-        df_new.loc[df_new["date"] == datestr, "total_reported"] = n[1].replace(".", "")
+        df_new.loc[df_new["date"] == datestr, "total_reported"] = fmt_num(n[1])
 
     df_new = df_new.fillna(0)
     intcolumns = [
