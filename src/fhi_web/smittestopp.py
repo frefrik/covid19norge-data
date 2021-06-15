@@ -47,7 +47,7 @@ def update():
     for n in new_downloads:
         date_parsed = datetime.fromtimestamp(n[0] / 1000)
         datestr = date_parsed.strftime("%Y-%m-%d")
-        d = {"date": datestr, "new_downloads": n[1]}
+        d = {"date": datestr, "new_downloads": n[1].replace(".", "")}
 
         new_lst.append(d)
 
@@ -56,7 +56,7 @@ def update():
     for n in total_downloads:
         date_parsed = datetime.fromtimestamp(n[0] / 1000)
         datestr = date_parsed.strftime("%Y-%m-%d")
-        df_new.loc[df_new["date"] == datestr, "total_downloads"] = n[1]
+        df_new.loc[df_new["date"] == datestr, "total_downloads"] = n[1].replace(".", "")
 
     for n in new_reported:
         if isinstance(n[0], int):
@@ -67,7 +67,7 @@ def update():
             date_parsed = datetime.strptime(n[0], "%d.%m.%Y")
 
         datestr = date_parsed.strftime("%Y-%m-%d")
-        df_new.loc[df_new["date"] == datestr, "new_reported"] = n[1]
+        df_new.loc[df_new["date"] == datestr, "new_reported"] = n[1].replace(".", "")
 
     for n in total_reported:
         if isinstance(n[0], int):
@@ -78,7 +78,7 @@ def update():
             date_parsed = datetime.strptime(n[0], "%d.%m.%Y")
 
         datestr = date_parsed.strftime("%Y-%m-%d")
-        df_new.loc[df_new["date"] == datestr, "total_reported"] = n[1]
+        df_new.loc[df_new["date"] == datestr, "total_reported"] = n[1].replace(".", "")
 
     df_new = df_new.fillna(0)
     intcolumns = [
