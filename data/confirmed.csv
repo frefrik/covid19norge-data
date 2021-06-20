@@ -485,3 +485,4 @@ date,new,total,source
 2021-06-18,197,129095,msis:api
 2021-06-19,130,129225,msis:api
 2021-06-20,50,129275,msis:api
+2021-06-21,0,129275,local:cron
