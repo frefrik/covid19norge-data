@@ -1,5 +1,6 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,ET714,Ethiopian Airlines,Addis Abeba,Stockholm,2021-06-18 23:40:00,2021-06-19 08:45:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Abeba,Stockholm,2021-06-18 23:40:00,2021-06-19 07:40:00,fhi:web
 Fly,WF932,Widerøe,Tromsø,Vadsø,2021-06-18 10:25:00,2021-06-18 12:05:00,fhi:web
 Fly,WF866,Widerøe,Bodø,Tromsø,2021-06-18 08:20:00,2021-06-18 09:50:00,fhi:web
