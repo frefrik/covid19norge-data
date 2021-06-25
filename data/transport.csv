@@ -1,13 +1,24 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Buss,190,VY,Oslo,Kristiansand,2021-06-22 19:00:00,2021-06-22 23:18:00,fhi:web
+Fly,FR4528,RyanAir,Warszawa,Oslo Torp,2021-06-22 07:45:00,2021-06-22 09:30:00,fhi:web
+Fly,EK159,Emirates,Dubai,Oslo,2021-06-22 07:25:00,2021-06-22 12:30:00,fhi:web
 Buss,190,Vy,Oslo,Kristiansand,2021-06-21 19:00:00,2021-06-21 23:18:00,fhi:web
+Fly,SK4043,SAS,Oslo,Stavanger,2021-06-21 17:15:00,2021-06-21 18:05:00,fhi:web
+Fly,SK4417,SAS,Tromsø,Oslo,2021-06-21 13:50:00,2021-06-21 15:40:00,fhi:web
+Fly,SK4419,SAS,Tromsø,Oslo,2021-06-21 12:55:00,2021-06-21 14:45:00,fhi:web
+Fly,SK6352,SAS,Malaga,Oslo,2021-06-21 11:30:00,2021-06-21 15:30:00,fhi:web
 Buss,190,VY,Kristiansand,Oslo,2021-06-21 06:00:00,2021-06-21 10:18:00,fhi:web
 Buss,190,Vy,Kristiansand,Oslo,2021-06-21 06:00:00,2021-06-21 10:18:00,fhi:web
+Fly,DY383,Norwegian,Tromsø,Oslo,2021-06-20 19:20:00,2021-06-20 21:15:00,fhi:web
+Fly,SK4175,SAS,Trondheim,Bergen,2021-06-20 16:25:00,2021-06-20 17:25:00,fhi:web
+Fly,DY535,Norwegian,Stavanger,Oslo,2021-06-20 15:30:00,2021-06-20 16:30:00,fhi:web
 Fly,SK4417,SAS,Tromsø,Oslo,2021-06-20 13:45:00,2021-06-20 15:35:00,fhi:web
+Fly,SK4577,Norwegian,Tromsø,Trondheim,2021-06-20 13:40:00,2021-06-20 14:30:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Abeba,Stockholm,2021-06-18 23:40:00,2021-06-19 08:45:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Abeba,Stockholm,2021-06-18 23:40:00,2021-06-19 07:40:00,fhi:web
 Fly,WF932,Widerøe,Tromsø,Vadsø,2021-06-18 10:25:00,2021-06-18 12:05:00,fhi:web
+Fly,DY744,NOrwegian,Oslo,Trondheim,2021-06-18 08:55:00,2021-06-18 09:50:00,fhi:web
 Fly,WF866,Widerøe,Bodø,Tromsø,2021-06-18 08:20:00,2021-06-18 09:50:00,fhi:web
 Fly,DY635,Norwegian,Bergen,Oslo,2021-06-17 17:40:00,2021-06-17 18:35:00,fhi:web
 Fly,WF586,Widerøe,Kristiansand,Bergen,2021-06-17 08:55:00,2021-06-17 09:50:00,fhi:web
