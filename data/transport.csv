@@ -1,5 +1,9 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Buss,190,VY,Oslo,Kristiansand,2021-06-22 19:00:00,2021-06-22 23:18:00,fhi:web
+Buss,190,Vy,Oslo,Kristiansand,2021-06-21 19:00:00,2021-06-21 23:18:00,fhi:web
+Buss,190,VY,Kristiansand,Oslo,2021-06-21 06:00:00,2021-06-21 10:18:00,fhi:web
+Buss,190,Vy,Kristiansand,Oslo,2021-06-21 06:00:00,2021-06-21 10:18:00,fhi:web
 Fly,SK4417,SAS,Tromsø,Oslo,2021-06-20 13:45:00,2021-06-20 15:35:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Abeba,Stockholm,2021-06-18 23:40:00,2021-06-19 08:45:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Abeba,Stockholm,2021-06-18 23:40:00,2021-06-19 07:40:00,fhi:web
