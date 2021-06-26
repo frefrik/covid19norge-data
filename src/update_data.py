@@ -26,7 +26,7 @@ if __name__ == "__main__":
     except Exception as e:
         error_msg = f"tested.csv: {e.__class__.__name__}: {e}"
         print(error_msg)
-        pushover_message("c19norge-data: tested.csv", error_msg)
+        pushover_message("covid19norge-data: tested.csv", error_msg)
 
     print("Checking for update: tested_lab.csv")
     try:
@@ -34,7 +34,7 @@ if __name__ == "__main__":
     except Exception as e:
         error_msg = f"tested_lab.csv: {e.__class__.__name__}: {e}"
         print(error_msg)
-        pushover_message("c19norge-data: tested_lab.csv", error_msg)
+        pushover_message("covid19norge-data: tested_lab.csv", error_msg)
 
     print("Checking for update: confirmed.csv")
     try:
@@ -44,7 +44,7 @@ if __name__ == "__main__":
     except Exception as e:
         error_msg = f"confirmed.csv: {e.__class__.__name__}: {e}"
         print(error_msg)
-        pushover_message("c19norge-data: confirmed.csv", error_msg)
+        pushover_message("covid19norge-data: confirmed.csv", error_msg)
 
     print("Checking for update: hospitalized.csv")
     try:
@@ -52,7 +52,7 @@ if __name__ == "__main__":
     except Exception as e:
         error_msg = f"hospitalized.csv: {e.__class__.__name__}: {e}"
         print(error_msg)
-        pushover_message("c19norge-data: hospitalized.csv", error_msg)
+        pushover_message("covid19norge-data: hospitalized.csv", error_msg)
 
     print("Checking for update: dead.csv")
     try:
@@ -60,7 +60,7 @@ if __name__ == "__main__":
     except Exception as e:
         error_msg = f"dead.csv: {e.__class__.__name__}: {e}"
         print(error_msg)
-        pushover_message("c19norge-data: dead.csv", error_msg)
+        pushover_message("covid19norge-data: dead.csv", error_msg)
 
     print("Checking for update: vaccine_doses.csv")
     try:
@@ -68,7 +68,7 @@ if __name__ == "__main__":
     except Exception as e:
         error_msg = f"vaccine_doses.csv: {e.__class__.__name__}: {e}"
         print(error_msg)
-        pushover_message("c19norge-data: vaccine_doses.csv", error_msg)
+        pushover_message("covid19norge-data: vaccine_doses.csv", error_msg)
 
     print("Checking for update: transport.csv")
     try:
@@ -76,7 +76,7 @@ if __name__ == "__main__":
     except Exception as e:
         error_msg = f"transport.csv: {e.__class__.__name__}: {e}"
         print(error_msg)
-        pushover_message("c19norge-data: transport.csv", error_msg)
+        pushover_message("covid19norge-data: transport.csv", error_msg)
 
     print("Checking for update: smittestopp.csv")
     try:
@@ -84,7 +84,7 @@ if __name__ == "__main__":
     except Exception as e:
         error_msg = f"smittestopp.csv: {e.__class__.__name__}: {e}"
         print(error_msg)
-        pushover_message("c19norge-data: smittestopp.csv", error_msg)
+        pushover_message("covid19norge-data: smittestopp.csv", error_msg)
 
     sources = load_sources()
     pending_update = [sources[category]["pending_update"] for category in sources]

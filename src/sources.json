@@ -7,7 +7,7 @@
     "date_range": "2020-02-21 - Present",
     "last_updated": "2021-06-26 00:10:53+02:00",
     "link_preview": "data/confirmed.csv",
-    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/confirmed.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/confirmed.csv",
     "pending_update": 0
   },
   "dead.csv": {
@@ -18,7 +18,7 @@
     "date_range": "2020-03-10 - Present",
     "last_updated": "2021-06-25 13:20:50+02:00",
     "link_preview": "data/dead.csv",
-    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/dead.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/dead.csv",
     "pending_update": 0
   },
   "hospitalized.csv": {
@@ -29,7 +29,7 @@
     "date_range": "2020-03-08 - Present",
     "last_updated": "2021-06-25 12:20:49+02:00",
     "link_preview": "data/hospitalized.csv",
-    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/hospitalized.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/hospitalized.csv",
     "pending_update": 0
   },
   "tested.csv": {
@@ -40,7 +40,7 @@
     "date_range": "2020-03-12 - Present",
     "last_updated": "2021-06-25 13:00:49+02:00",
     "link_preview": "data/tested.csv",
-    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested.csv",
     "pending_update": 0
   },
   "tested_lab.csv": {
@@ -51,7 +51,7 @@
     "date_range": "2020-02-24 - Present",
     "last_updated": "2021-06-25 13:20:45+02:00",
     "link_preview": "data/tested_lab.csv",
-    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/tested_lab.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested_lab.csv",
     "pending_update": 0
   },
   "transport.csv": {
@@ -62,7 +62,7 @@
     "date_range": "2020-10-23 - Present",
     "last_updated": "2021-06-25 13:10:46+02:00",
     "link_preview": "data/transport.csv",
-    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/transport.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/transport.csv",
     "pending_update": 0
   },
   "vaccine_doses.csv": {
@@ -73,7 +73,7 @@
     "date_range": "2020-12-27 - Present",
     "last_updated": "2021-06-25 13:20:51+02:00",
     "link_preview": "data/vaccine_doses.csv",
-    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/vaccine_doses.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/vaccine_doses.csv",
     "pending_update": 0
   },
   "smittestopp.csv": {
@@ -84,7 +84,7 @@
     "date_range": "2020-12-21 - Present",
     "last_updated": "2021-06-25 09:40:49+02:00",
     "link_preview": "data/smittestopp.csv",
-    "link_csv": "https://raw.githubusercontent.com/frefrik/c19norge-data/main/data/smittestopp.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/smittestopp.csv",
     "pending_update": 0
   }
 }
