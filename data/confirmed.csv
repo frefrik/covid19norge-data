@@ -492,3 +492,4 @@ date,new,total,source
 2021-06-25,141,130411,msis:api
 2021-06-26,132,130543,msis:api
 2021-06-27,45,130588,msis:api
+2021-06-28,0,130588,local:cron
