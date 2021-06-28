@@ -1,20 +1,27 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,SK4111,SAS,Bodø,Oslo,2021-06-24 12:50:00,2021-06-24 14:15:00,fhi:web
 Fly,SK2305,SAS,Oslo,Kristiansund,2021-06-23 17:45:00,2021-06-23 18:40:00,fhi:web
 Fly,SK4032,SAS,Stavanger,Oslo,2021-06-23 16:20:00,2021-06-23 17:15:00,fhi:web
+Fly,FR9069,RyanAir,Alicante,Oslo Torp,2021-06-23 15:55:00,2021-06-23 19:30:00,fhi:web
+Fly,SK4083,SAS,Evenes,Oslo,2021-06-23 10:45:00,2021-06-23 12:25:00,fhi:web
+Fly,WF674,Widerøe,Bergen,Trondheim,2021-06-23 10:25:00,2021-06-23 13:15:00,fhi:web
 Fly,LH864,Lufthansa,Frankfurt,Oslo,2021-06-22 21:30:00,2021-06-22 23:25:00,fhi:web
 Buss,190,VY,Oslo,Kristiansand,2021-06-22 19:00:00,2021-06-22 23:18:00,fhi:web
 Fly,SK4043,SAS,Oslo,Stavanger,2021-06-22 17:15:00,2021-06-22 18:05:00,fhi:web
 Fly,FR4528,RyanAir,Warszawa,Oslo Torp,2021-06-22 13:05:00,2021-06-22 14:50:00,fhi:web
 Fly,SK4014,SAS,Stavanger,Oslo,2021-06-22 09:40:00,2021-06-22 10:30:00,fhi:web
+Fly,SK4082,SAS,Oslo,Evenes,2021-06-22 08:40:00,2021-06-22 10:15:00,fhi:web
 Fly,FR4528,RyanAir,Warszawa,Oslo Torp,2021-06-22 07:45:00,2021-06-22 09:30:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-06-22 07:25:00,2021-06-22 12:30:00,fhi:web
 Buss,190,Vy,Oslo,Kristiansand,2021-06-21 19:00:00,2021-06-21 23:18:00,fhi:web
 Fly,SK4043,SAS,Oslo,Stavanger,2021-06-21 17:15:00,2021-06-21 18:05:00,fhi:web
+Tog,R11,Vy,Eidsvoll,Skien,2021-06-21 16:13:00,2021-06-21 17:52:00,fhi:web
 Fly,SK4417,SAS,Tromsø,Oslo,2021-06-21 13:50:00,2021-06-21 15:40:00,fhi:web
 Fly,SK4014,SAS,Stavanger,Oslo,2021-06-21 13:40:00,2021-06-21 15:20:00,fhi:web
 Fly,SK4419,SAS,Tromsø,Oslo,2021-06-21 12:55:00,2021-06-21 14:45:00,fhi:web
 Fly,SK6352,SAS,Malaga,Oslo,2021-06-21 11:30:00,2021-06-21 15:30:00,fhi:web
+Tog,471,SJ Nordic,Trondheim,Bodø,2021-06-21 07:49:00,2021-06-21 17:37:00,fhi:web
 Buss,190,VY,Kristiansand,Oslo,2021-06-21 06:00:00,2021-06-21 10:18:00,fhi:web
 Buss,190,Vy,Kristiansand,Oslo,2021-06-21 06:00:00,2021-06-21 10:18:00,fhi:web
 Fly,DY548,Norwegian,Oslo,Stavanger,2021-06-20 20:00:00,2021-06-20 20:50:00,fhi:web
@@ -30,6 +37,7 @@ Buss,B47,Innlandstrafikk,Gjøvik,Kolbu,2021-06-18 12:15:00,2021-06-18 13:15:00,f
 Fly,WF932,Widerøe,Tromsø,Vadsø,2021-06-18 10:25:00,2021-06-18 12:05:00,fhi:web
 Fly,DY744,NOrwegian,Oslo,Trondheim,2021-06-18 08:55:00,2021-06-18 09:50:00,fhi:web
 Fly,WF866,Widerøe,Bodø,Tromsø,2021-06-18 08:20:00,2021-06-18 09:50:00,fhi:web
+Tog,471,SJ Nordic,Trondheim,Bodø,2021-06-18 07:49:00,2021-06-18 17:37:00,fhi:web
 Fly,DY635,Norwegian,Bergen,Oslo,2021-06-17 17:40:00,2021-06-17 18:35:00,fhi:web
 Fly,WF586,Widerøe,Kristiansand,Bergen,2021-06-17 08:55:00,2021-06-17 09:50:00,fhi:web
 Fly,SK4024,SAS,Stavanger,Oslo,2021-06-16 14:30:00,2021-06-16 15:20:00,fhi:web
