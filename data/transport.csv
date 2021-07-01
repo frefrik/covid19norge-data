@@ -1,10 +1,20 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,DY369,Norwegian,Harstad,Oslo,2021-06-28 20:05:00,2021-06-28 21:50:00,fhi:web
+Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-06-28 07:35:00,2021-06-28 10:25:00,fhi:web
+Fly,SK4107,SAS,Oslo,Bodø,2021-06-27 19:55:00,2021-06-27 20:25:00,fhi:web
+Fly,SK4031,SAS,Oslo,Stavanger,2021-06-27 13:05:00,2021-06-27 14:05:00,fhi:web
+Fly,SK316,SAS,Oslo,Haugesund,2021-06-25 16:55:00,2021-06-25 17:50:00,fhi:web
 Fly,SK806,SAS,London,Oslo,2021-06-25 15:35:00,2021-06-25 18:50:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-06-25 14:05:00,2021-06-25 17:00:00,fhi:web
+Fly,SK4107,SAS,Bodø,Oslo,2021-06-25 10:30:00,2021-06-25 11:55:00,fhi:web
+Fly,WF892,Widerøe,Svolvær,Bodø,2021-06-25 09:35:00,2021-06-25 10:00:00,fhi:web
+Fly,FR2563,RyanAir,Malaga,Oslo Torp,2021-06-25 08:00:00,2021-06-25 11:55:00,fhi:web
 Fly,SK2305,SAS,Oslo,Kristiansund,2021-06-24 17:45:00,2021-06-24 18:40:00,fhi:web
 Fly,KL1175,KLM,Amsterdam,Trondheim,2021-06-24 14:20:00,2021-06-24 16:20:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-06-24 14:05:00,2021-06-24 17:00:00,fhi:web
 Fly,SK4111,SAS,Bodø,Oslo,2021-06-24 12:50:00,2021-06-24 14:15:00,fhi:web
+Fly,VY8535,Vueling Airlines,Barcelona,Oslo,2021-06-24 11:55:00,2021-06-24 15:25:00,fhi:web
 Fly,SK2305,SAS,Oslo,Kristiansund,2021-06-23 17:45:00,2021-06-23 18:40:00,fhi:web
 Fly,SK4032,SAS,Stavanger,Oslo,2021-06-23 16:20:00,2021-06-23 17:15:00,fhi:web
 Fly,FR9069,RyanAir,Alicante,Oslo Torp,2021-06-23 15:55:00,2021-06-23 19:30:00,fhi:web
@@ -18,6 +28,7 @@ Fly,SK4014,SAS,Stavanger,Oslo,2021-06-22 09:40:00,2021-06-22 10:30:00,fhi:web
 Fly,SK4082,SAS,Oslo,Evenes,2021-06-22 08:40:00,2021-06-22 10:15:00,fhi:web
 Fly,FR4528,RyanAir,Warszawa,Oslo Torp,2021-06-22 07:45:00,2021-06-22 09:30:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-06-22 07:25:00,2021-06-22 12:30:00,fhi:web
+Fly,DY546,Norwegian,Oslo,Stavanger,2021-06-21 19:05:00,2021-06-21 19:55:00,fhi:web
 Buss,190,Vy,Oslo,Kristiansand,2021-06-21 19:00:00,2021-06-21 23:18:00,fhi:web
 Fly,SK4043,SAS,Oslo,Stavanger,2021-06-21 17:15:00,2021-06-21 18:05:00,fhi:web
 Tog,R11,Vy,Eidsvoll,Skien,2021-06-21 16:13:00,2021-06-21 17:52:00,fhi:web
