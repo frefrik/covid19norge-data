@@ -1,6 +1,6 @@
 import sys
 import time
-from datetime import datetime
+import dateparser
 import pandas as pd
 from utils import (
     get_timestr,
@@ -51,7 +51,7 @@ def update():
     new_lst = []
 
     for n in new_downloads:
-        date_parsed = datetime.fromtimestamp(n[0] / 1000)
+        date_parsed = dateparser.parse(str(n[0]), settings={'DATE_ORDER': 'DMY'})
         datestr = date_parsed.strftime("%Y-%m-%d")
         d = {"date": datestr, "new_downloads": fmt_num(n[1])}
 
@@ -60,29 +60,17 @@ def update():
     df_new = pd.DataFrame(new_lst)
 
     for n in total_downloads:
-        date_parsed = datetime.fromtimestamp(n[0] / 1000)
+        date_parsed = dateparser.parse(str(n[0]), settings={'DATE_ORDER': 'DMY'})
         datestr = date_parsed.strftime("%Y-%m-%d")
         df_new.loc[df_new["date"] == datestr, "total_downloads"] = fmt_num(n[1])
 
     for n in new_reported:
-        if isinstance(n[0], int):
-            date_parsed = datetime.fromtimestamp(n[0] / 1000)
-        else:
-            if n[0] == "11.06.20.21":
-                n[0] = "11.06.2021"
-            date_parsed = datetime.strptime(n[0], "%d.%m.%Y")
-
+        date_parsed = dateparser.parse(str(n[0]), settings={'DATE_ORDER': 'DMY'})
         datestr = date_parsed.strftime("%Y-%m-%d")
         df_new.loc[df_new["date"] == datestr, "new_reported"] = fmt_num(n[1])
 
     for n in total_reported:
-        if isinstance(n[0], int):
-            date_parsed = datetime.fromtimestamp(n[0] / 1000)
-        else:
-            if n[0] == "11.06.20.21":
-                n[0] = "11.06.2021"
-            date_parsed = datetime.strptime(n[0], "%d.%m.%Y")
-
+        date_parsed = dateparser.parse(str(n[0]), settings={'DATE_ORDER': 'DMY'})
         datestr = date_parsed.strftime("%Y-%m-%d")
         df_new.loc[df_new["date"] == datestr, "total_reported"] = fmt_num(n[1])
 
