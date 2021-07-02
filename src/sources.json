@@ -5,7 +5,7 @@
     "dataset_detail": "#confirmedcsv",
     "data_source": "FHI / MSIS",
     "date_range": "2020-02-21 - Present",
-    "last_updated": "2021-07-02 00:10:46+02:00",
+    "last_updated": "2021-07-02 13:20:50+02:00",
     "link_preview": "data/confirmed.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/confirmed.csv",
     "pending_update": 0
@@ -16,7 +16,7 @@
     "dataset_detail": "#deadcsv",
     "data_source": "FHI",
     "date_range": "2020-03-10 - Present",
-    "last_updated": "2021-07-01 13:25:55+02:00",
+    "last_updated": "2021-07-02 13:20:51+02:00",
     "link_preview": "data/dead.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/dead.csv",
     "pending_update": 0
@@ -49,7 +49,7 @@
     "dataset_detail": "#tested_labcsv",
     "data_source": "FHI",
     "date_range": "2020-02-24 - Present",
-    "last_updated": "2021-07-01 13:25:50+02:00",
+    "last_updated": "2021-07-02 13:20:46+02:00",
     "link_preview": "data/tested_lab.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested_lab.csv",
     "pending_update": 0
@@ -71,7 +71,7 @@
     "dataset_detail": "#vaccine_dosescsv",
     "data_source": "FHI",
     "date_range": "2020-12-27 - Present",
-    "last_updated": "2021-07-01 13:25:55+02:00",
+    "last_updated": "2021-07-02 13:20:52+02:00",
     "link_preview": "data/vaccine_doses.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/vaccine_doses.csv",
     "pending_update": 0
