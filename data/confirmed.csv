@@ -499,3 +499,4 @@ date,new,total,source
 2021-07-02,240,131749,msis:api
 2021-07-03,112,131861,msis:api
 2021-07-04,72,131933,msis:api
+2021-07-05,0,131933,local:cron
