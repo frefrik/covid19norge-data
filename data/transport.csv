@@ -1,8 +1,12 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,SK4674,SAS,Alicante,Oslo,2021-07-03 20:50:00,2021-07-04 00:30:00,fhi:web
+Fly,DY3223,Norwegian,København,Oslo,2021-07-02 13:30:00,2021-07-02 14:40:00,fhi:web
 Fly,DY1801,Norwegian,Malaga,Oslo,2021-07-02 11:20:00,2021-07-02 15:20:00,fhi:web
 Fly,WF427,Widerøe,Bergen,Oslo Torp,2021-06-29 19:45:00,2021-06-29 20:35:00,fhi:web
 Fly,DY190,Norwegian,Oslo,Haugesund,2021-06-29 15:50:00,2021-06-29 16:45:00,fhi:web
+Fly,KL1175,KLM,Amsterdam,Trondheim,2021-06-29 14:20:00,2021-06-29 16:30:00,fhi:web
+Fly,KL1143,KLM,Amsterdam,Oslo,2021-06-29 09:20:00,2021-06-29 11:05:00,fhi:web
 Fly,DY776,Norwegian,Oslo,Trondheim,2021-06-28 21:45:00,2021-06-28 22:40:00,fhi:web
 Fly,WF548,Widerøe,Stavanger,Bergen,2021-06-28 21:00:00,2021-06-28 21:35:00,fhi:web
 Fly,DY369,Norwegian,Harstad,Oslo,2021-06-28 20:05:00,2021-06-28 21:50:00,fhi:web
