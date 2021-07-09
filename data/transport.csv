@@ -7,8 +7,10 @@ Fly,SK287,SAS,Oslo,Bergen,2021-07-06 20:00:00,2021-07-06 20:50:00,fhi:web
 Fly,W61783,WIzzAir,Gdansk,Oslo,2021-07-06 19:25:00,2021-07-06 21:05:00,fhi:web
 Fly,W61783,WizzAir,Gdansk,Oslo,2021-07-06 19:25:00,2021-07-06 21:05:00,fhi:web
 Fly,VY8539,Vueling Airlines,Barcelona,Oslo,2021-07-06 13:25:00,2021-07-06 16:55:00,fhi:web
+Skip,Superspeed 2,Colorline,Hirthals,Larvik,2021-07-05 22:15:00,2021-07-06 02:00:00,fhi:web
 Buss,190,VY,Oslo,Kristiansand,2021-07-05 17:00:00,2021-07-05 21:18:00,fhi:web
 Skip,Crown Seaways,DFDS,København,Fredrikshavn,2021-07-05 14:15:00,2021-07-06 09:15:00,fhi:web
+Skip,Superspeed 2,Colorline,Hirthals,Larvik,2021-07-05 12:45:00,2021-07-05 16:30:00,fhi:web
 Fly,WF709,Widerøe,Trondheim,Brønnøysund,2021-07-05 10:50:00,2021-07-05 11:35:00,fhi:web
 Fly,SK255,SAS,Oslo,Bergen,2021-07-05 09:00:00,2021-07-05 09:50:00,fhi:web
 Fly,SK332,SAS,Oslo,Trondheim,2021-07-05 08:30:00,2021-07-05 09:25:00,fhi:web
@@ -40,6 +42,7 @@ Fly,QR175,Qatar Airways,Doha,Oslo,2021-07-02 07:55:00,2021-07-02 13:40:00,fhi:we
 Fly,W61761,WizzAir,Gdansk,Trondheim,2021-07-02 07:25:00,2021-07-02 09:20:00,fhi:web
 Fly,SK4680,SAS,Malaga,Oslo,2021-07-01 11:30:00,2021-07-01 15:30:00,fhi:web
 Fly,DY1801,Norwegian,Malaga,Oslo,2021-07-01 11:20:00,2021-07-01 15:20:00,fhi:web
+Skip,Superspeed 2,Colorline,Larvik,Hirthals,2021-07-01 08:00:00,2021-07-01 11:45:00,fhi:web
 Fly,WF583,Widerøe,Bergen,Kristiansand,2021-07-01 07:40:00,2021-07-01 08:30:00,fhi:web
 Fly,ET714,Ethiopian Airlines,Addis Abeba,Oslo,2021-06-29 23:40:00,2021-06-30 08:45:00,fhi:web
 Fly,WF427,Widerøe,Bergen,Oslo Torp,2021-06-29 19:45:00,2021-06-29 20:35:00,fhi:web
