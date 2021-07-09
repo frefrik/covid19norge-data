@@ -6,6 +6,7 @@ Skip,Crown Seaways,DFDS,København,Fredrikshavn,2021-07-05 14:15:00,2021-07-06 0
 Fly,WF709,Widerøe,Trondheim,Brønnøysund,2021-07-05 10:50:00,2021-07-05 11:35:00,fhi:web
 Fly,SK332,SAS,Oslo,Trondheim,2021-07-05 08:30:00,2021-07-05 09:25:00,fhi:web
 Fly,SK1462,SAS,København,Oslo,2021-07-05 08:00:00,2021-07-05 09:10:00,fhi:web
+Skip,Rute 2080,Norled,Bergen,Skånevik,2021-07-04 14:30:00,2021-07-04 17:18:00,fhi:web
 Skip,Color Magic,Colorline,Kiel,Oslo,2021-07-04 13:00:00,2021-07-05 10:00:00,fhi:web
 Fly,DY1801,Norwegian,Malaga,Oslo,2021-07-04 11:20:00,2021-07-04 15:20:00,fhi:web
 Fly,SK4674,SAS,Alicante,Oslo,2021-07-03 20:50:00,2021-07-04 00:30:00,fhi:web
@@ -14,6 +15,7 @@ Fly,WF175,Widerøe,Oslo,Ørsta Volda,2021-07-03 16:45:00,2021-07-03 17:55:00,fhi
 Skip,Color Magic,Colorline,Oslo,Kiel,2021-07-03 14:00:00,2021-07-04 11:00:00,fhi:web
 Fly,DY347,Norwegian,Bodø,Oslo,2021-07-03 12:45:00,2021-07-03 14:15:00,fhi:web
 Buss,190,Vy,Oslo,Kristiansand,2021-07-02 19:00:00,2021-07-02 22:55:00,fhi:web
+Skip,Rute 2080,Norled,Sunde,Bergen,2021-07-02 16:32:00,2021-07-02 18:55:00,fhi:web
 Fly,DY3223,Norwegian,København,Oslo,2021-07-02 13:30:00,2021-07-02 14:40:00,fhi:web
 Fly,DY1741,Norwegian,Barcelona,Oslo,2021-07-02 12:20:00,2021-07-02 15:45:00,fhi:web
 Buss,100,AKT,Arendal,Kristiansand,2021-07-02 12:15:00,2021-07-02 13:38:00,fhi:web
