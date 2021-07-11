@@ -506,3 +506,4 @@ date,new,total,source
 2021-07-09,170,132966,msis:api
 2021-07-10,134,133100,msis:api
 2021-07-11,61,133161,msis:api
+2021-07-12,0,133161,local:cron
