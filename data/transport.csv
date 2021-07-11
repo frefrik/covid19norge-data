@@ -24,6 +24,7 @@ Fly,SK255,SAS,Oslo,Bergen,2021-07-05 09:00:00,2021-07-05 09:50:00,fhi:web
 Fly,SK332,SAS,Oslo,Trondheim,2021-07-05 08:30:00,2021-07-05 09:25:00,fhi:web
 Fly,SK1462,SAS,København,Oslo,2021-07-05 08:00:00,2021-07-05 09:10:00,fhi:web
 Buss,146,VY,Stryn,Måløy,2021-07-04 18:45:00,2021-07-04 20:27:00,fhi:web
+Tog,R10,VY,Oslo,Hamar,2021-07-04 16:34:00,2021-07-04 17:52:00,fhi:web
 Fly,DY760,Norwegian,Oslo,Trondheim,2021-07-04 16:20:00,2021-07-04 17:15:00,fhi:web
 Fly,DY625,Norwegian,Bergen,Oslo,2021-07-04 14:45:00,2021-07-04 15:40:00,fhi:web
 Skip,Rute 2080,Norled,Bergen,Skånevik,2021-07-04 14:30:00,2021-07-04 17:18:00,fhi:web
