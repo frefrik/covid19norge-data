@@ -2,6 +2,7 @@ tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,DY1801,Norwegian,Malaga,Oslo,2021-07-08 11:20:00,2021-07-08 15:20:00,fhi:web
 Fly,DY632,Norwegian,Oslo,Bergen,2021-07-07 19:00:00,2021-07-07 19:55:00,fhi:web
+Skip,Color Magic,Colorline,Oslo,Kiel,2021-07-07 14:00:00,2021-07-09 10:00:00,fhi:web
 Fly,DY632,Norwegian,Oslo,Bergen,2021-07-07 13:20:00,2021-07-07 14:15:00,fhi:web
 Fly,SK287,SAS,Oslo,Bergen,2021-07-06 20:00:00,2021-07-06 20:50:00,fhi:web
 Fly,W61783,WIzzAir,Gdansk,Oslo,2021-07-06 19:25:00,2021-07-06 21:05:00,fhi:web
