@@ -1,25 +1,34 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,DY544,Norwegian,Oslo,Stavanger,2021-07-14 18:15:00,2021-07-14 19:05:00,fhi:web
+Fly,SK364,SAS,Oslo,Trondheim,2021-07-14 17:10:00,2021-07-14 18:05:00,fhi:web
 Fly,DY1805,Norwegian,Malaga,Oslo,2021-07-13 19:55:00,2021-07-13 23:55:00,fhi:web
 Fly,WF779,Widerøe,Oslo,Trondheim,2021-07-13 19:55:00,2021-07-13 22:15:00,fhi:web
 Fly,WF195,Widerøe,Bergen,Førde,2021-07-13 17:50:00,2021-07-13 18:50:00,fhi:web
 Fly,SK1460,SAS,København,Oslo,2021-07-13 15:30:00,2021-07-13 16:40:00,fhi:web
 Skip,Crown Seaways,DFDS,København,Fredrikshavn,2021-07-13 14:15:00,2021-07-14 09:15:00,fhi:web
+Fly,DY1735,Norwegian,Mallorca,Oslo,2021-07-13 12:50:00,2021-07-13 16:25:00,fhi:web
 Fly,DY3239,Norwegian,København,Oslo,2021-07-12 17:00:00,2021-07-12 18:10:00,fhi:web
 Fly,SK1321,SAS,Ålesund,Oslo,2021-07-12 14:50:00,2021-07-12 15:45:00,fhi:web
 Fly,DY1741,Norwegian,Barcelona,Oslo,2021-07-12 12:20:00,2021-07-12 15:45:00,fhi:web
 Fly,SK4680,SAS,Malaga,Oslo,2021-07-12 12:00:00,2021-07-12 16:00:00,fhi:web
+Fly,DY1801,Norwegian,Malaga,Oslo,2021-07-12 11:00:00,2021-07-12 15:00:00,fhi:web
 Fly,KL1151,KLM,Amsterdam,Oslo,2021-07-12 08:50:00,2021-07-12 10:35:00,fhi:web
 Fly,SK1878,SAS,København,Stavanger,2021-07-11 22:45:00,2021-07-11 23:55:00,fhi:web
 Fly,SK398,SAS,Bardufoss,Oslo,2021-07-11 19:20:00,2021-07-11 21:10:00,fhi:web
+Fly,DY632,Norwegian,Oslo,Bergen,2021-07-11 19:00:00,2021-07-11 19:55:00,fhi:web
+Fly,DY537,Norwegian,Stavanger,Oslo,2021-07-11 17:45:00,2021-07-11 18:35:00,fhi:web
 Fly,SK4122,SAS,Oslo,Bodø,2021-07-11 17:25:00,2021-07-11 18:50:00,fhi:web
 Skip,2 Fjordprinsen,Boreal Sjø,Harstad,Tromsø,2021-07-11 17:00:00,2021-07-11 20:00:00,fhi:web
 Skip,Rute 2,Troms fylkestrafikk,Harstad,Tromsø,2021-07-11 16:30:00,2021-07-11 19:30:00,fhi:web
+Fly,KL1189,KLM,Amsterdam,Bergen,2021-07-11 15:15:00,2021-07-11 16:55:00,fhi:web
 Fly,SK267,SAS,Oslo,Bergen,2021-07-11 14:10:00,2021-07-11 15:00:00,fhi:web
 Fly,VY8538,Vueling,Barcelona,Oslo,2021-07-11 13:25:00,2021-07-11 16:55:00,fhi:web
 Skip,6 MS Sternøy,Norled,Harstad,Bjørkøystedene,2021-07-11 13:20:00,2021-07-11 15:05:00,fhi:web
 Tog,44,SJ,Trondheim S,Oslo S,2021-07-11 13:19:00,2021-07-11 20:04:00,fhi:web
+Fly,SK4087,SAS,Harstad,Oslo,2021-07-11 13:10:00,2021-07-11 14:50:00,fhi:web
 Fly,LH862,Lufthansa,Frankfurt,Oslo,2021-07-11 13:05:00,2021-07-11 15:00:00,fhi:web
+Fly,SK4473,SAS,Kirkenes,Oslo,2021-07-11 11:30:00,2021-07-11 13:35:00,fhi:web
 Fly,DY1801,Norwegian,Malaga,Oslo,2021-07-11 11:20:00,2021-07-11 15:20:00,fhi:web
 Fly,DY604,Norwegian,Oslo,Bergen,2021-07-11 10:25:00,2021-07-11 11:20:00,fhi:web
 Fly,SK1481,SAS,Stockholm,Bergen,2021-07-11 08:10:00,2021-07-11 09:30:00,fhi:web
@@ -40,6 +49,7 @@ Fly,SK1334,SAS,Oslo,Ålesund,2021-07-09 22:00:00,2021-07-09 22:55:00,fhi:web
 Fly,WF383,Widerøe,Bodø,Svolvær,2021-07-09 21:45:00,2021-07-09 22:10:00,fhi:web
 Fly,WF777,Widerøe,Trondheim,Mo i Rana,2021-07-09 18:55:00,2021-07-09 20:40:00,fhi:web
 Fly,SK284,SAS,Bergen,Oslo,2021-07-09 18:30:00,2021-07-09 19:30:00,fhi:web
+Fly,SK4478,SAS,Oslo,Kirkenes,2021-07-09 17:55:00,2021-07-09 20:00:00,fhi:web
 Fly,SK269,SAS,Oslo,Bergen,2021-07-09 15:00:00,2021-07-09 15:50:00,fhi:web
 Fly,W65033,WizzAir,Krakow,Oslo,2021-07-09 14:55:00,2021-07-09 17:10:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-07-09 14:05:00,2021-07-09 17:00:00,fhi:web
@@ -49,6 +59,7 @@ Fly,SK4686,SAS,Barcelona,Oslo,2021-07-09 11:30:00,2021-07-09 14:55:00,fhi:web
 Fly,SK4009,SAS,Oslo,Stavanger,2021-07-09 08:30:00,2021-07-09 09:25:00,fhi:web
 Fly,WF680,Widerøe,Bergen,Trondheim,2021-07-08 19:50:00,2021-07-08 20:55:00,fhi:web
 Fly,SK810,SAS,London,Oslo,2021-07-08 17:30:00,2021-07-08 20:45:00,fhi:web
+Fly,SK2872,SAS,København,Oslo,2021-07-08 17:30:00,2021-07-08 18:50:00,fhi:web
 Fly,KL1175,KLM,Amsterdam,Trondheim,2021-07-08 14:20:00,2021-07-08 16:30:00,fhi:web
 Fly,DY1801,Norwegian,Malaga,Oslo,2021-07-08 11:20:00,2021-07-08 15:20:00,fhi:web
 Fly,LH860,Lufthansa,Frankfurt,Oslo,2021-07-08 10:00:00,2021-07-08 11:55:00,fhi:web
