@@ -3,6 +3,8 @@ Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,DY544,Norwegian,Oslo,Stavanger,2021-07-14 18:15:00,2021-07-14 19:05:00,fhi:web
 Fly,SK364,SAS,Oslo,Trondheim,2021-07-14 17:10:00,2021-07-14 18:05:00,fhi:web
 Skip,Color Fantasy,Color LIne,Oslo,Kiel,2021-07-14 14:00:00,2021-07-16 10:00:00,fhi:web
+Fly,DY754,Norwegian,Oslo,Trondheim,2021-07-14 13:35:00,2021-07-14 14:30:00,fhi:web
+Fly,FR2563,Ryanair,Malaga,Torp,2021-07-14 08:30:00,2021-07-14 12:25:00,fhi:web
 Skip,Superspeed 2,Color LIne,Hirtshals,Larvik,2021-07-13 22:15:00,2021-07-14 02:00:00,fhi:web
 Fly,DY1805,Norwegian,Malaga,Oslo,2021-07-13 19:55:00,2021-07-13 23:55:00,fhi:web
 Fly,WF779,Widerøe,Oslo,Trondheim,2021-07-13 19:55:00,2021-07-13 22:15:00,fhi:web
@@ -41,6 +43,7 @@ Fly,KL1205,KLM,Amsterdam,Stavanger,2021-07-10 21:00:00,2021-07-10 22:25:00,fhi:w
 Fly,DY548,Norwegian,Oslo,Stavanger,2021-07-10 20:45:00,2021-07-10 21:55:00,fhi:web
 Fly,SK4684,SAS,Malaga,Oslo,2021-07-10 20:05:00,NaT,fhi:web
 Fly,DY1793,Norwegian,Alicante,Oslo,2021-07-10 18:50:00,2021-07-10 22:30:00,fhi:web
+Fly,KL1189,KLM,Amsterdam,Bergen,2021-07-10 15:15:00,2021-07-10 16:55:00,fhi:web
 Fly,SK1872,SAS,København,Stavanger,2021-07-10 14:05:00,2021-07-10 15:15:00,fhi:web
 Tog,45,SJ,Oslo S,Trondheim S,2021-07-10 14:02:00,2021-07-10 20:51:00,fhi:web
 Fly,DY1803,Norwegian,Malaga,Oslo,2021-07-10 13:50:00,2021-07-10 17:50:00,fhi:web
@@ -92,8 +95,10 @@ Fly,SK332,SAS,Oslo,Trondheim,2021-07-05 08:30:00,2021-07-05 09:25:00,fhi:web
 Fly,SK1462,SAS,København,Oslo,2021-07-05 08:00:00,2021-07-05 09:10:00,fhi:web
 Fly,SK246,SAS,Bergen,Oslo,2021-07-05 08:00:00,2021-07-05 08:55:00,fhi:web
 Buss,146,VY,Stryn,Måløy,2021-07-04 18:45:00,2021-07-04 20:27:00,fhi:web
+Fly,LO483,Polish Airlines,Warsawa,Oslo,2021-07-04 16:50:00,2021-07-04 18:55:00,fhi:web
 Tog,R10,VY,Oslo,Hamar,2021-07-04 16:34:00,2021-07-04 17:52:00,fhi:web
 Fly,DY760,Norwegian,Oslo,Trondheim,2021-07-04 16:20:00,2021-07-04 17:15:00,fhi:web
+Fly,SN2285,Brussels Airlines,Brussel,Oslo,2021-07-04 15:20:00,2021-07-04 17:20:00,fhi:web
 Fly,DY625,Norwegian,Bergen,Oslo,2021-07-04 14:45:00,2021-07-04 15:40:00,fhi:web
 Skip,Rute 2080,Norled,Bergen,Skånevik,2021-07-04 14:30:00,2021-07-04 17:18:00,fhi:web
 Skip,Color Magic,Colorline,Kiel,Oslo,2021-07-04 13:00:00,2021-07-05 10:00:00,fhi:web
