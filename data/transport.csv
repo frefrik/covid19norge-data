@@ -2,6 +2,8 @@ tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,DY544,Norwegian,Oslo,Stavanger,2021-07-14 18:15:00,2021-07-14 19:05:00,fhi:web
 Fly,SK364,SAS,Oslo,Trondheim,2021-07-14 17:10:00,2021-07-14 18:05:00,fhi:web
+Skip,Color Fantasy,Color LIne,Oslo,Kiel,2021-07-14 14:00:00,2021-07-16 10:00:00,fhi:web
+Skip,Superspeed 2,Color LIne,Hirtshals,Larvik,2021-07-13 22:15:00,2021-07-14 02:00:00,fhi:web
 Fly,DY1805,Norwegian,Malaga,Oslo,2021-07-13 19:55:00,2021-07-13 23:55:00,fhi:web
 Fly,WF779,Widerøe,Oslo,Trondheim,2021-07-13 19:55:00,2021-07-13 22:15:00,fhi:web
 Fly,WF195,Widerøe,Bergen,Førde,2021-07-13 17:50:00,2021-07-13 18:50:00,fhi:web
@@ -53,6 +55,7 @@ Fly,SK4478,SAS,Oslo,Kirkenes,2021-07-09 17:55:00,2021-07-09 20:00:00,fhi:web
 Fly,SK269,SAS,Oslo,Bergen,2021-07-09 15:00:00,2021-07-09 15:50:00,fhi:web
 Fly,W65033,WizzAir,Krakow,Oslo,2021-07-09 14:55:00,2021-07-09 17:10:00,fhi:web
 Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-07-09 14:05:00,2021-07-09 17:00:00,fhi:web
+Skip,Color Magic,Color Line,Oslo,Kiel,2021-07-09 14:00:00,2021-07-11 10:00:00,fhi:web
 Fly,DY364,Norwegian,Oslo,Evenes,2021-07-09 13:30:00,2021-07-09 15:10:00,fhi:web
 Fly,SK6354,SAS,Malaga,Oslo,2021-07-09 11:30:00,2021-07-09 15:30:00,fhi:web
 Fly,SK4686,SAS,Barcelona,Oslo,2021-07-09 11:30:00,2021-07-09 14:55:00,fhi:web
