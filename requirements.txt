@@ -9,5 +9,5 @@ pandas==1.2.5
 python-dotenv==0.18.0
 python-pushover==0.4
 PyYAML==5.4.1
-requests==2.25.1
+requests==2.26.0
 selenium==3.141.0
