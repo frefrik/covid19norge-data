@@ -1,11 +1,18 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Fly,SU2174,Aeroflot,Moskva,Oslo,2021-07-20 10:20:00,2021-07-20 12:10:00,fhi:web
+Fly,W61747,WizzAir,Gdansk,Stavanger,2021-07-19 06:15:00,2021-07-19 08:00:00,fhi:web
 Fly,LH864,Lufthansa,Frankfurt,Oslo,2021-07-18 21:30:00,2021-07-18 23:25:00,fhi:web
+Fly,W65033,WizzAir,Krakow,Oslo,2021-07-18 19:00:00,2021-07-18 21:15:00,fhi:web
 Fly,LH860,Lufthansa,Frankfurt,Oslo,2021-07-18 10:00:00,2021-07-18 11:55:00,fhi:web
+Fly,DY1571,Norwegian,Burgas,Oslo,2021-07-17 21:20:00,2021-07-17 23:35:00,fhi:web
 Fly,KL1193,KLM,Amsterdam,Bergen,2021-07-17 21:10:00,2021-07-17 22:50:00,fhi:web
+Fly,SK4684,SAS,Malaga,Oslo,2021-07-17 20:00:00,2021-07-18 00:05:00,fhi:web
 Fly,DY1403,Norwegian,Nice,Oslo,2021-07-17 12:45:00,2021-07-17 15:35:00,fhi:web
+Fly,SK4638,SAS,Aten,Oslo,2021-07-17 12:35:00,2021-07-17 15:25:00,fhi:web
 Fly,DY1765,Norwegian,Malaga,Stavanger,2021-07-17 11:05:00,2021-07-17 15:00:00,fhi:web
 Fly,DY1751,Norwegian,Malaga,Bergen,2021-07-17 10:45:00,2021-07-17 14:35:00,fhi:web
+Fly,FS451,Flyr,Evenes,Oslo,2021-07-17 10:20:00,2021-07-17 11:45:00,fhi:web
 Fly,AF1252,AirFrance,Paris,Bergen,2021-07-17 09:20:00,2021-07-17 11:30:00,fhi:web
 Fly,SK885,SAS,Stockholm,Oslo,2021-07-16 17:35:00,2021-07-16 18:35:00,fhi:web
 Fly,LH2456,Lufthansa,Munchen,Oslo,2021-07-16 16:40:00,2021-07-16 18:50:00,fhi:web
@@ -20,6 +27,7 @@ Fly,DY1897,Norwegian,Khania,Oslo,2021-07-15 19:00:00,2021-07-15 22:20:00,fhi:web
 Fly,SK393,SAS,Oslo,Bardufoss,2021-07-15 14:45:00,2021-07-15 16:30:00,fhi:web
 Fly,AF1774,Air France,Paris,Oslo,2021-07-15 14:14:00,2021-07-15 16:25:00,fhi:web
 Fly,DY8417,Norwegian,Evenes,Oslo,2021-07-15 13:05:00,2021-07-15 14:50:00,fhi:web
+Fly,SK4680,SAS,Malaga,Oslo,2021-07-15 11:30:00,2021-07-15 15:30:00,fhi:web
 Fly,DY1801,Norwegian,Malaga,Oslo,2021-07-15 11:20:00,2021-07-15 15:20:00,fhi:web
 Fly,SK295,SAS,Oslo,Bergen,2021-07-14 22:00:00,2021-07-14 22:50:00,fhi:web
 Fly,DY544,Norwegian,Oslo,Stavanger,2021-07-14 18:15:00,2021-07-14 19:05:00,fhi:web
@@ -46,6 +54,7 @@ Fly,VY8538,Vueling,Barcelona,Oslo,2021-07-13 13:25:00,2021-07-13 16:55:00,fhi:we
 Fly,DY1735,Norwegian,Mallorca,Oslo,2021-07-13 12:50:00,2021-07-13 16:25:00,fhi:web
 Fly,SK1458,SAS,København,Oslo,2021-07-13 11:50:00,2021-07-13 12:55:00,fhi:web
 Fly,PC1273,Pegasus,Istanbul,Oslo,2021-07-13 10:45:00,2021-07-13 13:40:00,fhi:web
+Fly,QR175,Qatar Airways,Doha,Oslo,2021-07-13 07:55:00,2021-07-13 13:40:00,fhi:web
 Fly,QR631,Qatar Airways,Slalkot,Doha,2021-07-13 03:20:00,2021-07-13 05:20:00,fhi:web
 Tog,R10,VY,Oslo,Brumunddal,2021-07-12 18:34:00,2021-07-12 20:02:00,fhi:web
 Fly,SK364,SAS,Oslo,Trondheim,2021-07-12 17:10:00,2021-07-12 18:05:00,fhi:web
