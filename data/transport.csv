@@ -1,5 +1,6 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
+Buss,200,VY,Oslo,Hønefoss,2021-07-20 20:40:00,2021-07-20 21:50:00,fhi:web
 Skip,2 MS Fjordprinsen,Norled,Tromsø,Harstad,2021-07-20 16:15:00,2021-07-20 19:15:00,fhi:web
 Fly,SK4704,SAS,Nice,Oslo,2021-07-20 12:45:00,2021-07-20 15:40:00,fhi:web
 Fly,SU2174,Aeroflot,Moskva,Oslo,2021-07-20 10:20:00,2021-07-20 12:10:00,fhi:web
