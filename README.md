@@ -10,7 +10,7 @@ This repository contains datasets of daily time-series data related to COVID-19 
 <!-- table starts -->
 |Data|Source|Last updated|Download|Preview|
 | :--- | :--- | :--- | :--- | :--- |
-|[Confirmed](#confirmedcsv)|FHI / MSIS|2021-07-27 15:10:47+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/confirmed.csv)|[<center>preview</center>](data/confirmed.csv)|
+|[Confirmed](#confirmedcsv)|FHI / MSIS|2021-07-28 00:00:46+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/confirmed.csv)|[<center>preview</center>](data/confirmed.csv)|
 |[Dead](#deadcsv)|FHI|2021-07-27 13:20:55+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/dead.csv)|[<center>preview</center>](data/dead.csv)|
 |[Hospitalized](#hospitalizedcsv)|Helsedirektoratet|2021-07-27 12:20:50+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/hospitalized.csv)|[<center>preview</center>](data/hospitalized.csv)|
 |[Tested](#testedcsv)|FHI|2021-07-27 13:00:48+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested.csv)|[<center>preview</center>](data/tested.csv)|
