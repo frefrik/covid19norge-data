@@ -14,7 +14,7 @@ from utils import (
 
 def fmt_date(datestr):
     fmt = dateparser.parse(
-        datestr,
+        str(datestr),
         date_formats=[
             "%d.%m.%y",
             "%d.%m.%y - %H:%M",
