@@ -74,6 +74,10 @@ def update():
         res = requests.get(f"{base_url}{href}", allow_redirects=True, headers=headers)
 
         df_tmp = pd.read_excel(res.content)
+
+        if "fly" in href:
+            df_tmp = df_tmp[["Flight", "Selskap", "Fra/Til", "Avgang", "Ankomst"]]
+
         df_tmp = df_tmp.dropna()
 
         for i, row in df_tmp.iterrows():
