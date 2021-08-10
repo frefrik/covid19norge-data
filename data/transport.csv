@@ -1,8 +1,11 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2022-07-27 09:40:00,2021-07-27 11:10:00,fhi:web
+Buss,600-65,Nettbuss,København,Oslo,2021-08-07 10:10:00,2021-08-07 20:00:00,fhi:web
 Fly,SK810,SAS,London,Oslo,2021-08-06 17:30:00,2021-08-06 20:45:00,fhi:web
+Buss,23-705,Nordlandsbuss,Mosjøen,Søvik,2021-08-06 16:40:00,2021-08-06 18:00:00,fhi:web
 Fly,WF808,Widerøe,Bodø,Leknes,2021-08-06 10:55:00,2021-08-06 11:20:00,fhi:web
+Buss,VY6,VY,Fredrikstda,Oslo,2021-08-06 10:05:00,2021-08-06 11:25:00,fhi:web
 Fly,SK1462,SAS,København,Oslo,2021-08-06 08:00:00,2021-08-06 09:10:00,fhi:web
 Fly,TK171,Turkish Airlines,Istanbul,Oslo,2021-08-06 07:35:00,2021-08-06 10:25:00,fhi:web
 Fly,DK1563,SunClass Airlines,Chania,Oslo,2021-08-06 01:25:00,2021-08-06 04:25:00,fhi:web
@@ -24,6 +27,7 @@ Fly,QR175,Qatar Airways,Doha,Oslo,2021-08-04 07:55:00,2021-08-04 13:40:00,fhi:we
 Fly,W61747,Wizz Air,Gdansk,Stavanger,2021-08-04 06:15:00,2021-08-04 08:00:00,fhi:web
 Fly,LO485,Polish Airlines,Warsawa,Oslo,2021-08-03 20:35:00,2021-08-03 22:40:00,fhi:web
 Fly,DY653,Norwegian,Bergen,Oslo,2021-08-03 20:30:00,2021-08-03 21:25:00,fhi:web
+Buss,VY6,Vy,Oslo S,fredrikstad,2021-08-03 19:00:00,2021-08-03 20:10:00,fhi:web
 Fly,DY632,Norwegian,Oslo,Bergen,2021-08-03 19:00:00,2021-08-03 19:55:00,fhi:web
 Fly,W67705,Norwegian,Skopje,Oslo Torp,2021-08-03 17:55:00,2021-08-03 21:05:00,fhi:web
 Fly,DY366,Norwegian,Oslo,Evenes,2021-08-03 17:55:00,2021-08-03 19:35:00,fhi:web
