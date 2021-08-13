@@ -1,10 +1,12 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2022-07-27 09:40:00,2021-07-27 11:10:00,fhi:web
+Buss,NW192,Konkurrenten,Oslo,Kristiansand,2021-08-11 18:10:00,2021-08-11 22:15:00,fhi:web
 Fly,DY1083,Norwegian,Vilnius,Oslo,2021-08-10 14:30:00,2021-08-10 15:20:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-08-10 07:25:00,2021-08-10 12:30:00,fhi:web
 Fly,DY620,Norwegian,Oslo,Bergen,2021-08-09 16:20:00,2021-08-09 17:15:00,fhi:web
 Fly,AF1774,Air France,Paris,Oslo,2021-08-09 14:10:00,2021-08-09 16:25:00,fhi:web
+Buss,NW192,Konkurrenten,Oslo,Stavanger,2021-08-09 13:10:00,2021-08-09 21:45:00,fhi:web
 Buss,NW-192,Konkurrenten,Oslo,Stavanger,2021-08-09 13:10:00,2021-08-09 21:45:00,fhi:web
 Fly,SK4704,SAS,Nice,Oslo,2021-08-09 12:45:00,2021-08-09 15:40:00,fhi:web
 Fly,W61743,Wizz Air,Gdansk,Sandefjord,2021-08-09 12:40:00,2021-08-09 14:10:00,fhi:web
