@@ -1,22 +1,35 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2022-07-27 09:40:00,2021-07-27 11:10:00,fhi:web
+Fly,AY915,FinnAir,Helsinki,Oslo,2021-08-15 16:25:00,2021-08-15 17:35:00,fhi:web
+Fly,DY1571,Norwegian,Burgas,Oslo,2021-08-14 21:20:00,2021-08-14 23:35:00,fhi:web
+Fly,SK4734,SAS,Split,Oslo,2021-08-14 14:00:00,2021-08-14 16:50:00,fhi:web
+Fly,DY1751,Norwegian,Malaga,Bergen,2021-08-14 10:45:00,2021-08-14 14:35:00,fhi:web
+Fly,OS335,Austrian Airlines,Wien,Oslo,2021-08-14 10:20:00,2021-08-14 12:20:00,fhi:web
+Fly,DY412,Norwegian,Oslo,Ålesund,2021-08-13 16:05:00,2021-08-13 17:05:00,fhi:web
+Fly,DY311,Norwegian,Kirkenes,Oslo,2021-08-13 12:00:00,2021-08-13 12:55:00,fhi:web
 Fly,LH860,Lufthansa,Frankfurt,Oslo,2021-08-13 11:55:00,2021-08-13 12:21:00,fhi:web
 Fly,SK6354,SAS,Malaga,Oslo,2021-08-13 11:20:00,2021-08-13 11:35:00,fhi:web
 Fly,PC1273,Pegasus Airlines,Istanbul,Oslo,2021-08-13 10:40:00,2021-08-13 13:35:00,fhi:web
 Fly,LH1343,Lufthansa,Budapest,Frankfurt,2021-08-13 06:30:00,2021-08-13 08:15:00,fhi:web
 Fly,SK268,SAS,Bergen,Oslo,2021-08-12 14:10:00,2021-08-14 15:00:00,fhi:web
 Fly,W61515,Wizz Air,Warszawa,Oslo,2021-08-12 12:40:00,2021-08-12 14:35:00,fhi:web
+Fly,KL1217,KLM,Amsterdam,Oslo,2021-08-12 12:20:00,2021-08-12 13:55:00,fhi:web
+Fly,DY1801,Norwegian,Malaga,Oslo,2021-08-12 11:20:00,2021-08-12 15:20:00,fhi:web
 Fly,DY1991,Norwegian,Split,Oslo,2021-08-12 10:40:00,2021-08-12 13:30:00,fhi:web
+Fly,DY320,Norwegian,Oslo,Alta,2021-08-12 10:40:00,2021-08-12 12:40:00,fhi:web
 Fly,LH860,Lufthansa,Frankfurt,Oslo,2021-08-12 10:00:00,2021-08-12 11:55:00,fhi:web
 Buss,516,Kringom,Sogndal,Høyanger,2021-08-11 22:05:00,2021-08-12 00:00:00,fhi:web
 Fly,DY638,Norwegian,Oslo,Bergen,2021-08-11 22:00:00,2021-08-11 22:55:00,fhi:web
 Fly,KL1205,KLM,Amsterdam,Stavanger,2021-08-11 21:00:00,2021-08-11 22:25:00,fhi:web
+Fly,DY1053,Norwegian,Gdansk,Oslo,2021-08-11 19:25:00,2021-08-11 20:55:00,fhi:web
 Tog,R10,Vy,Drammen Stasjon,Lillehammer,2021-08-11 18:57:00,2021-08-11 21:41:00,fhi:web
 Fly,SK377,SAS,Trondheim,Oslo,2021-08-11 18:35:00,2021-08-11 19:30:00,fhi:web
 Buss,NW192,Konkurrenten,Oslo,Kristiansand,2021-08-11 18:10:00,2021-08-11 22:15:00,fhi:web
 Fly,DY635,Norwegian,Bergen,Oslo,2021-08-11 17:40:00,2021-08-11 18:35:00,fhi:web
 Fly,AY915,FinnAir,Helsinki,Oslo,2021-08-11 16:25:00,2021-08-11 17:35:00,fhi:web
+Fly,SK4163,SAS,Trondheim,Bergen,2021-08-11 15:45:00,2021-08-11 16:45:00,fhi:web
+Fly,AF1774,Air France,Paris,Oslo,2021-08-11 14:10:00,2021-08-11 16:25:00,fhi:web
 Buss,NW160,Nor-Way,Oslo,Sogndal,2021-08-11 13:05:00,2021-08-11 20:15:00,fhi:web
 Fly,SK1872,SAS,København,Stavanger,2021-08-11 13:00:00,2021-08-11 14:10:00,fhi:web
 Fly,DY1909,Norwegian,Pristina,Oslo,2021-08-11 10:40:00,2021-08-11 14:05:00,fhi:web
@@ -24,10 +37,14 @@ Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-08-11 07:35:00,2021-08-11 10:25:0
 Fly,W67705,Wizz Air,Skopje,Oslo,2021-08-10 18:05:00,2021-08-10 21:20:00,fhi:web
 Fly,DY1083,Norwegian,Vilnius,Oslo,2021-08-10 14:30:00,2021-08-10 15:20:00,fhi:web
 Buss,NW400,Nor-Way,Stavanger,Bergen,2021-08-10 13:20:00,2021-08-10 17:00:00,fhi:web
+Fly,SK1872,SAS,København,Stavanger,2021-08-10 13:00:00,2021-08-10 14:10:00,fhi:web
+Fly,SK4638,SAS,Athen,Oslo,2021-08-10 12:40:00,2021-08-10 15:30:00,fhi:web
+Fly,PC1273,Pegasus Airlines,Istanbul,Oslo,2021-08-10 10:50:00,2021-08-10 13:45:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-08-10 07:25:00,2021-08-10 12:30:00,fhi:web
 Fly,OS355,Austrian Airlines,Wien,Oslo,2021-08-09 17:30:00,2021-08-09 19:15:00,fhi:web
 Fly,DY3239,Norwegian,København,Oslo,2021-08-09 17:00:00,2021-08-09 18:10:00,fhi:web
 Fly,DY620,Norwegian,Oslo,Bergen,2021-08-09 16:20:00,2021-08-09 17:15:00,fhi:web
+Fly,SK4094,SAS,Oslo,Evenes,2021-08-09 16:00:00,2021-08-09 17:35:00,fhi:web
 Fly,AF1774,Air France,Paris,Oslo,2021-08-09 14:10:00,2021-08-09 16:25:00,fhi:web
 Buss,NW192,Konkurrenten,Oslo,Stavanger,2021-08-09 13:10:00,2021-08-09 21:45:00,fhi:web
 Buss,NW-192,Konkurrenten,Oslo,Stavanger,2021-08-09 13:10:00,2021-08-09 21:45:00,fhi:web
