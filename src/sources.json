@@ -60,7 +60,7 @@
     "dataset_detail": "#transportcsv",
     "data_source": "FHI",
     "date_range": "2020-10-23 - Present",
-    "last_updated": "2021-08-21 09:30:43+02:00",
+    "last_updated": "2021-08-22 12:00:48+02:00",
     "link_preview": "data/transport.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/transport.csv",
     "pending_update": 0
