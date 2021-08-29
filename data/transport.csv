@@ -1,6 +1,7 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2022-07-27 09:40:00,2021-07-27 11:10:00,fhi:web
+Skip,Superspeed 2,Colorline,Hirtshals,Larvik,2021-08-27 22:15:00,2021-08-28 02:00:00,fhi:web
 Tog,50,GoAhead,Oslo,Stavanger,2021-08-26 11:25:00,2021-08-26 19:19:00,fhi:web
 Fly,WF866,Widerøe,Andenes,Tromsø,2021-08-26 08:20:00,2021-08-26 09:05:00,fhi:web
 Fly,DY607,Norwegian,Bergen,Oslo,2021-08-26 08:00:00,2021-08-26 08:55:00,fhi:web
