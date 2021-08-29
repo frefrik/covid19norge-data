@@ -19,6 +19,7 @@ Tog,L12,Vy,Kongsberg,Eidsvoll,2021-08-24 05:34:00,2021-08-24 06:51:00,fhi:web
 Fly,WF547,Widerøe,Bergen,Stavanger,2021-08-23 19:55:00,2021-08-23 20:30:00,fhi:web
 Tog,63,Vy,Oslo,Bergen,2021-08-23 15:43:00,2021-08-23 22:20:00,fhi:web
 Fly,DY346,Norwegian,Oslo,Bodø,2021-08-23 15:30:00,2021-08-23 17:00:00,fhi:web
+Fly,KL1189,KLM ,Amsterdam,Bergen,2021-08-23 15:15:00,2021-08-23 16:55:00,fhi:web
 Fly,DY625,Norwegian,Bergen,Oslo,2021-08-23 15:00:00,2021-08-23 15:55:00,fhi:web
 Fly,SK4144,SAS,Stavanger,Bergen,2021-08-23 08:50:00,2021-08-23 09:35:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-08-23 07:35:00,2021-08-23 10:25:00,fhi:web
@@ -43,6 +44,7 @@ Tog,63,Vy,Oslo,Bergen,2021-08-22 15:43:00,2021-08-22 22:20:00,fhi:web
 Fly,DY815,Norwegian,Stockholm,Oslo,2021-08-22 15:40:00,2021-08-22 16:40:00,fhi:web
 Tog,R21,SJ Nord,Trondheim,Hamar,2021-08-22 15:24:00,2021-08-22 22:04:00,fhi:web
 Tog,46,SJ Nord,Trondheim,Oslo,2021-08-22 15:24:00,2021-08-22 22:04:00,fhi:web
+Fly,WF772,Widerøe,Trondheim,Oslo,2021-08-22 15:05:00,2021-08-22 16:10:00,fhi:web
 Fly,DY535,Norwegian,Stavanger,Oslo,2021-08-22 15:00:00,2021-08-22 15:50:00,fhi:web
 Fly,SK4425,SAS,Longyearbyen,Tromsø,2021-08-22 14:50:00,2021-08-22 19:00:00,fhi:web
 Tog,R30,Vy,Gjøvik,Oslo S,2021-08-22 13:27:00,2021-08-22 15:20:00,fhi:web
