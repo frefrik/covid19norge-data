@@ -61,6 +61,7 @@ Fly,SK287,SAS,Oslo,Bergen,2021-08-21 20:50:00,2021-08-21 21:40:00,fhi:web
 Fly,DY1935,Norwegian,Tirana,Oslo,2021-08-21 20:30:00,2021-08-21 23:50:00,fhi:web
 Fly,SK2872,SAS,København,Bergen,2021-08-21 16:55:00,2021-08-21 18:15:00,fhi:web
 Tog,R11,Vy,Skien,Eidsvoll,2021-08-21 15:08:00,2021-08-21 16:21:00,fhi:web
+Tog,45,SJ Nord,Oslo,Trondheim,2021-08-21 14:02:00,2021-08-21 20:51:00,fhi:web
 Fly,DY1261,Norwegian,Antalya,Oslo,2021-08-21 12:50:00,2021-08-21 16:10:00,fhi:web
 Fly,DY1991,Norwegian,Split,Oslo,2021-08-21 10:40:00,2021-08-21 13:35:00,fhi:web
 Fly,FS206,Flyr,Oslo,Trondheim,2021-08-21 09:00:00,2021-08-21 09:55:00,fhi:web
@@ -85,6 +86,7 @@ Fly,PC1273,Pegasus Airlines,Istanbul,Oslo,2021-08-20 10:45:00,2021-08-20 13:40:0
 Fly,PC1273,Pegasus,Istanbul,Oslo,2021-08-20 10:40:00,2021-08-20 13:35:00,fhi:web
 Tog,R21,SJ Nord,Trondheim,Hamar,2021-08-20 09:28:00,2021-08-20 15:45:00,fhi:web
 Fly,AF1252,Air France,Paris,Bergen,2021-08-20 09:20:00,2021-08-20 11:30:00,fhi:web
+Tog,42,SJ Nord,Trondheim,Oslo,2021-08-20 08:18:00,2021-08-20 15:03:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-08-20 07:55:00,2021-08-20 13:40:00,fhi:web
 Fly,EK159,Emirates,Dubai,Oslo,2021-08-20 07:25:00,2021-08-20 12:30:00,fhi:web
 Fly,KL1193,KLM,Amsterdam,Bergen,2021-08-19 21:10:00,2021-08-19 22:50:00,fhi:web
@@ -119,6 +121,7 @@ Fly,DY346,Norwegian,Oslo,Bodø,2021-08-18 15:30:00,2021-08-18 17:00:00,fhi:web
 Fly,DY616,Norwegian,Oslo,Bergen,2021-08-18 14:50:00,2021-08-18 15:45:00,fhi:web
 Fly,SK2303,SAS,Oslo,Kristiansund,2021-08-18 13:45:00,2021-08-18 14:40:00,fhi:web
 Fly,DY1885,Norwegian,Athen,Oslo,2021-08-18 13:20:00,2021-08-18 16:15:00,fhi:web
+Tog,44,SJ Nord,Trondheim,Oslo,2021-08-18 13:19:00,2021-08-18 20:04:00,fhi:web
 Fly,DY1801,Norwegian,Malaga,Oslo,2021-08-18 11:20:00,2021-08-18 15:20:00,fhi:web
 Fly,LH874,Lufthansa,Frankfurt,Bergen,2021-08-18 10:55:00,2021-08-18 12:55:00,fhi:web
 Fly,DY1909,Norwegian,Pristina,Oslo,2021-08-18 10:40:00,2021-08-18 14:05:00,fhi:web
