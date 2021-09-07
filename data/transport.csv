@@ -1,9 +1,15 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2022-07-27 09:40:00,2021-07-27 11:10:00,fhi:web
+Fly,SK4724,SAS,Berlin,Oslo,2021-09-05 13:30:00,2021-09-05 15:05:00,fhi:web
+Fly,DY935,Norwegian,København,Oslo,2021-09-05 11:50:00,2021-09-05 13:00:00,fhi:web
+Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-09-05 07:35:00,2021-09-05 10:25:00,fhi:web
+Fly,DY1909,Norwegian,Pristina,Oslo,2021-09-04 21:15:00,2021-09-05 00:40:00,fhi:web
+Fly,DY1977,Norwegian,Beograd,Oslo,2021-09-04 20:50:00,2021-09-04 23:50:00,fhi:web
 Fly,SK2303,SAS,Oslo,Kristiansund,2021-09-03 13:45:00,2021-09-03 14:40:00,fhi:web
 Skip,2,Troms fylkestrafikk,Harstad,Tromsø,2021-09-03 13:00:00,2021-09-03 15:45:00,fhi:web
 Fly,DY1495,Norwegian,Paris,Oslo,2021-09-03 11:50:00,2021-09-03 14:04:00,fhi:web
+Fly,DY751,Norwegian,Trondheim,Oslo,2021-09-03 09:20:00,2021-09-03 10:15:00,fhi:web
 Fly,DY1494,Norwegian,Oslo,Paris,2021-09-03 08:36:00,2021-09-03 11:04:00,fhi:web
 Fly,DY1786,Norwegian,Oslo,Lisboa,2021-09-03 07:00:00,2021-09-03 10:10:00,fhi:web
 Fly,SK1474,SAS,København,Oslo,2021-09-02 23:00:00,2021-09-03 00:10:00,fhi:web
@@ -11,13 +17,17 @@ Fly,DY383,Norwegian,Tromsø,Oslo,2021-09-02 17:20:00,2021-09-02 19:15:00,fhi:web
 Fly,SK1872,SAS,København,Stavanger,2021-09-02 14:05:00,2021-09-02 15:15:00,fhi:web
 Fly,SK4566,SAS,Trondheim,Bodø,2021-09-02 13:25:00,2021-09-02 15:40:00,fhi:web
 Fly,DY1741,Norwegian,Barcelona,Oslo,2021-09-02 13:15:00,2021-09-02 16:40:00,fhi:web
+Fly,SK2862,SAS,København,Bergen,2021-09-02 08:05:00,2021-09-02 09:25:00,fhi:web
 Fly,QR175,Qatar Airways,Doha,Oslo,2021-09-02 07:55:00,2021-09-02 13:40:00,fhi:web
 Fly,DY1977,Norwegian,Beograd,Oslo,2021-09-01 21:25:00,2021-09-01 23:35:00,fhi:web
+Fly,DY777,Norwegian,Trondheim,Oslo,2021-09-01 20:20:00,2021-09-01 21:15:00,fhi:web
 Tog,R10,VY,Drammen,Lillehammer,2021-09-01 17:57:00,2021-09-01 20:40:00,fhi:web
 Fly,AF1774,Air France,Paris,Oslo,2021-09-01 14:25:00,2021-09-01 16:40:00,fhi:web
+Fly,DY1909,Norwegian,Pristina,Oslo,2021-09-01 13:50:00,2021-09-01 17:15:00,fhi:web
 Fly,SK817,SAS,Düsseldorf,Oslo,2021-09-01 11:45:00,2021-09-01 13:35:00,fhi:web
 Fly,SK2862,SAS,København,Bergen,2021-09-01 08:05:00,2021-09-01 09:25:00,fhi:web
 Buss,NW420,Nor-Way,Sogndal,Bergen,2021-09-01 06:35:00,2021-09-01 11:00:00,fhi:web
+Fly,LH864,Lufthansa,Frankfurt,Oslo,2021-08-31 21:30:00,2021-08-31 23:25:00,fhi:web
 Fly,SK2880,SAS,København,Trondheim,2021-08-31 18:35:00,2021-08-31 20:10:00,fhi:web
 Fly,SK274,SAS,Bergen,Oslo,2021-08-31 15:50:00,2021-08-31 16:40:00,fhi:web
 Tog,R11,Vy,Skien,Eidsvoll,2021-08-31 15:09:00,2021-08-31 18:00:00,fhi:web
@@ -39,10 +49,12 @@ Tog,445,SJ Nord,Støren,Steinkjær,2021-08-30 16:19:00,2021-08-30 19:23:00,fhi:w
 Fly,WF191,Widerøe,Oslo,Førde,2021-08-30 14:50:00,2021-08-30 15:50:00,fhi:web
 Fly,WF994,Widerøe,Hammerfest,Tromsø,2021-08-30 14:20:00,2021-08-30 15:03:00,fhi:web
 Tog,R20,VY,Halden,Oslo,2021-08-30 12:11:00,2021-08-30 13:51:00,fhi:web
+Fly,W68145,Wizz Air,Kaunas,Stavanger,2021-08-30 12:05:00,2021-08-30 13:10:00,fhi:web
 Fly,LH860,Lufthansa,Frankfurt,Oslo,2021-08-30 10:00:00,2021-08-30 11:55:00,fhi:web
 Tog,R10,VY,Drammen,Lillehammer,2021-08-30 08:57:00,2021-08-30 11:40:00,fhi:web
 Fly,WF183,Widerøe,Oslo,Førde,2021-08-30 08:20:00,2021-08-30 09:20:00,fhi:web
 Fly,SK4131,SAS,Bergen,Stavanger,2021-08-30 07:00:00,2021-08-30 07:35:00,fhi:web
+Fly,W61747,Wizz Air,Gdansk,Stavanger,2021-08-30 06:15:00,2021-08-30 08:00:00,fhi:web
 Tog,R10,VY,Lillehammer,Drammen,2021-08-30 04:14:00,2021-08-30 07:02:00,fhi:web
 Fly,FS225,Flyr,Trondheim,Oslo,2021-08-29 22:20:00,2021-08-29 23:00:00,fhi:web
 Fly,DY551,Norwegian,Stavanger,Oslo,2021-08-29 21:15:00,2021-08-29 22:05:00,fhi:web
@@ -54,6 +66,7 @@ Fly,DY626,Norwegian,Bergen,Oslo,2021-08-29 18:30:00,2021-08-29 19:25:00,fhi:web
 Fly,W61979,Wizz Air,Poznan,Oslo,2021-08-29 18:25:00,2021-08-29 20:05:00,fhi:web
 Fly,DY191,Norwegian,Haugesund,Oslo,2021-08-29 17:55:00,2021-08-29 18:50:00,fhi:web
 Fly,DY769,Norwegian,Trondheim,Oslo,2021-08-29 17:40:00,2021-08-29 18:35:00,fhi:web
+Fly,DY543,Norwegian,Stavanger,Oslo,2021-08-29 17:40:00,2021-08-29 18:30:00,fhi:web
 Tog,R10,VY,Drammen,Lillehammer,2021-08-29 16:57:00,2021-08-29 19:40:00,fhi:web
 Fly,SK371,SAS,Trondheim,Oslo,2021-08-29 16:15:00,2021-08-29 17:10:00,fhi:web
 Fly,SK272,SAS,Bergen,Oslo,2021-08-29 16:05:00,2021-08-29 16:55:00,fhi:web
@@ -72,6 +85,7 @@ Fly,FS206,Flyr,Oslo,Trondheim,2021-08-28 09:00:00,2021-08-28 09:55:00,fhi:web
 Tog,42,SJ Nord,Trondheim,Oslo S,2021-08-28 08:18:00,2021-08-28 15:03:00,fhi:web
 Tog,R10,VY,Lillehammer,Drammen,2021-08-28 08:14:00,2021-08-28 09:05:00,fhi:web
 Skip,Superspeed 2,Colorline,Hirtshals,Larvik,2021-08-27 22:15:00,2021-08-28 02:00:00,fhi:web
+Fly,DY550,Norwegian,Oslo,Stavanger,2021-08-27 21:40:00,2021-08-27 22:30:00,fhi:web
 Fly,WF681,Widerøe,Trondheim,Bergen,2021-08-27 21:20:00,2021-08-27 22:25:00,fhi:web
 Fly,SK283,SAS,Oslo,Bergen,2021-08-27 18:45:00,2021-08-27 19:35:00,fhi:web
 Fly,DY641,Norwegian,Bergen,Oslo,2021-08-27 18:20:00,2021-08-27 19:15:00,fhi:web
