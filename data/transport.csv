@@ -1,13 +1,19 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2022-07-27 09:40:00,2021-07-27 11:10:00,fhi:web
+Skip,3,Norled,Skjervøy,Tromsø,2021-09-12 17:00:00,2021-09-12 19:50:00,fhi:web
+Buss,190,Vy,Kristiansand S,Oslo,2021-09-12 08:00:00,2021-09-12 12:18:00,fhi:web
+Tog,41,VY,Bergen,Oslo,2021-09-12 07:54:00,2021-09-12 14:45:00,fhi:web
+Skip,3,Norled,Tromsø,Skjervøy,2021-09-10 18:05:00,2021-09-10 20:55:00,fhi:web
 Fly,SU2174,Aeroflot,Moskva,Oslo,2021-09-10 10:20:00,2021-09-10 12:10:00,fhi:web
+Tog,R10,Vy,Lillehammer,Drammen,2021-09-09 16:45:00,2021-09-09 17:50:00,fhi:web
 Fly,SK1320,SAS,Oslo,Ålesund,2021-09-09 13:20:00,2021-09-09 14:15:00,fhi:web
 Fly,SK4025,SAS,Oslo,Stavanger,2021-09-09 13:10:00,2021-09-09 14:00:00,fhi:web
 Fly,FS408,FLYR,OSLO,TROMSØ,2021-09-09 12:35:00,2021-09-09 14:35:00,fhi:web
 Fly,SK4083,SAS,Evenes,Oslo,2021-09-09 10:40:00,2021-09-09 12:20:00,fhi:web
 Fly,SK4411,SAS,Tromsø,Oslo,2021-09-09 10:20:00,2021-09-09 12:10:00,fhi:web
 Fly,WF990,Widerøe,Hammerfest,Tromsø,2021-09-09 09:13:00,2021-09-09 09:55:00,fhi:web
+Tog,R10,Vy,Drammen,Lillehammer,2021-09-09 08:45:00,2021-09-09 09:50:00,fhi:web
 Fly,WF990,Widerøe,Hammerfest,Tromsø,2021-09-09 07:45:00,2021-09-09 08:20:00,fhi:web
 Fly,DY1061,Norwegian,Tallinn,Oslo,2021-09-08 22:50:00,2021-09-08 23:20:00,fhi:web
 Fly,DY1977,Norwegian,Beograd,Oslo,2021-09-08 21:25:00,2021-09-09 00:10:00,fhi:web
@@ -21,6 +27,8 @@ Fly,WF399,Widerøe,Aberdeen,Bergen,2021-09-07 18:10:00,2021-09-07 20:25:00,fhi:w
 Fly,DY4121,Norwegian,Stockholm,Oslo,2021-09-07 18:00:00,2021-09-07 19:00:00,fhi:web
 Fly,KL1203,KLM,Amsterdam,Stavanger,2021-09-07 16:20:00,2021-09-07 17:45:00,fhi:web
 Fly,FS405,FLYR,Tromsø,Oslo,2021-09-07 09:45:00,2021-09-07 11:13:00,fhi:web
+Buss,200,Brakar,Hønefoss,Oslo,2021-09-07 09:30:00,2021-09-07 10:13:00,fhi:web
+Buss,200,Brakar,Oslo,Hønefoss,2021-09-07 06:30:00,2021-09-07 07:46:00,fhi:web
 Fly,SK1460,SAS,København,Oslo,2021-09-06 15:30:00,2021-09-06 16:40:00,fhi:web
 Fly,DY382,Norwegian,Oslo,Tromsø,2021-09-06 15:15:00,2021-09-06 19:10:00,fhi:web
 Fly,DY1551,Norwegian,Budapest,Oslo,2021-09-06 12:30:00,2021-09-06 15:00:00,fhi:web
