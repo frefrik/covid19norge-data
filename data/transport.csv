@@ -1,7 +1,13 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2022-07-27 09:40:00,2021-07-27 11:10:00,fhi:web
+Fly,WF854,Widerøe,Bodø,Stokmarknes,2021-09-16 14:55:00,2021-09-16 16:25:00,fhi:web
+Fly,SK4112,SAS,Oslo,Bodø,2021-09-16 13:05:00,2021-05-16 14:30:00,fhi:web
+Fly,FS105,Flyr,Bergen,Oslo,2021-09-16 08:55:00,2021-09-16 09:50:00,fhi:web
+Fly,FS409,Flyr,Tromsø,Oslo,2021-09-15 15:15:00,2021-09-15 17:15:00,fhi:web
+Fly,SK2868,SAS,København,Bergen,2021-09-15 14:05:00,2021-09-15 15:25:00,fhi:web
 Fly,DY369,Norwegian,Evenes,Oslo,2021-09-13 20:05:00,2021-09-13 21:50:00,fhi:web
+Fly,DY632,Norwegian,Oslo,Bergen,2021-09-13 19:00:00,2021-09-13 20:00:00,fhi:web
 Fly,SK4189,SAS,Bergen,Stavanger,2021-09-12 22:35:00,2021-09-12 23:10:00,fhi:web
 Fly,SK4187,SAS,Trondheim,Bergen,2021-09-12 21:10:00,2021-09-12 22:10:00,fhi:web
 Fly,DY645,Norwegian,Bergen,Oslo,2021-09-12 19:55:00,2021-09-12 20:50:00,fhi:web
@@ -20,6 +26,7 @@ Fly,SK6352,SAS,Malaga,Oslo,2021-09-12 11:45:00,2021-09-12 15:45:00,fhi:web
 Fly,SK344,SAS,Oslo,Trondheim,2021-09-12 11:45:00,2021-09-12 12:40:00,fhi:web
 Fly,PC1273,Pegasus,Istanbul,Oslo,2021-09-12 10:30:00,2021-09-12 13:45:00,fhi:web
 Fly,SK4016,SAS,Stavanger,Oslo,2021-09-12 10:15:00,2021-09-12 11:05:00,fhi:web
+Fly,OS335,Austrian Airlines,Wien,Oslo,2021-09-12 09:40:00,2021-09-12 11:45:00,fhi:web
 Buss,190,Vy,Kristiansand S,Oslo,2021-09-12 08:00:00,2021-09-12 12:18:00,fhi:web
 Tog,41,VY,Bergen,Oslo,2021-09-12 07:54:00,2021-09-12 14:45:00,fhi:web
 Fly,FI318,IcelandAir,Reykjavik,Oslo,2021-09-12 07:50:00,2021-09-12 12:35:00,fhi:web
