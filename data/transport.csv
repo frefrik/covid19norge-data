@@ -1,6 +1,12 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2022-07-27 09:40:00,2021-07-27 11:10:00,fhi:web
+Fly,SK4038,SAS,Stavanger,Oslo,2021-09-18 17:50:00,2021-09-18 18:40:00,fhi:web
+Fly,WF622,Widerøe,Bergen,Oslo,2021-09-18 08:45:00,2021-09-18 11:05:00,fhi:web
+Fly,WF141,Widerøe,Ørsta Volda,Sogndal,2021-09-18 06:15:00,2021-09-18 07:40:00,fhi:web
+Fly,WF155,Widerøe,Oslo,Sogndal,2021-09-17 17:30:00,2021-09-17 19:20:00,fhi:web
+Fly,SK4417,SAS,Tromsø,Oslo,2021-09-17 13:50:00,2021-09-17 15:40:00,fhi:web
+Fly,SU2174,Aeroflot,Moskva,Oslo,2021-09-17 10:20:00,2021-09-17 12:10:00,fhi:web
 Fly,WF854,Widerøe,Bodø,Stokmarknes,2021-09-16 14:55:00,2021-09-16 16:25:00,fhi:web
 Fly,SK4112,SAS,Oslo,Bodø,2021-09-16 13:05:00,2021-05-16 14:30:00,fhi:web
 Fly,FS105,Flyr,Bergen,Oslo,2021-09-16 08:55:00,2021-09-16 09:50:00,fhi:web
