@@ -2,15 +2,25 @@ tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2022-07-27 09:40:00,2021-07-27 11:10:00,fhi:web
 Fly,W61749,Wizz Air,Gdansk,Haugesund,2021-09-20 06:40:00,2021-09-20 08:30:00,fhi:web
+Buss,600,Vy Bus4You,København,Oslo,2021-09-19 21:30:00,2021-09-20 05:40:00,fhi:web
+Fly,DY350,Norwegian,Oslo,Bodø,2021-09-19 17:45:00,2021-09-19 19:15:00,fhi:web
+Fly,SK4117,SAS,Bodø,Oslo,2021-09-19 17:30:00,2021-09-19 19:05:00,fhi:web
 Fly,SK280,SAS,Bergen,Oslo,2021-09-19 17:00:00,2021-09-19 17:50:00,fhi:web
 Fly,LH860,Lufthansa,Frankfurt,Oslo,2021-09-19 10:00:00,2021-09-19 11:55:00,fhi:web
+Fly,DY1935,Norwegian,Tirana,Oslo,2021-09-18 20:30:00,2021-09-18 23:50:00,fhi:web
 Fly,SK4038,SAS,Stavanger,Oslo,2021-09-18 17:50:00,2021-09-18 18:40:00,fhi:web
+Fly,SK4106,SAS,Oslo,Bodø,2021-09-18 10:45:00,2021-09-18 12:10:00,fhi:web
 Fly,WF622,Widerøe,Bergen,Oslo,2021-09-18 08:45:00,2021-09-18 11:05:00,fhi:web
+Fly,FR8793,Ryanair,Zagreb,Oslo,2021-09-18 07:00:00,2021-09-18 09:35:00,fhi:web
 Fly,WF141,Widerøe,Ørsta Volda,Sogndal,2021-09-18 06:15:00,2021-09-18 07:40:00,fhi:web
+Fly,DY355,Norwegian,Bodø,Oslo,2021-09-17 19:45:00,2021-09-17 21:15:00,fhi:web
+Fly,SK4124,SAS,Oslo,Bodø,2021-09-17 19:35:00,2021-09-17 21:05:00,fhi:web
 Fly,WF155,Widerøe,Oslo,Sogndal,2021-09-17 17:30:00,2021-09-17 19:20:00,fhi:web
 Fly,WF756,Widerøe,Bodø,Mosjøen,2021-09-17 17:10:00,2021-09-17 17:50:00,fhi:web
 Fly,SK277,SAS,Oslo,Bergen,2021-09-17 17:00:00,2021-09-17 17:50:00,fhi:web
+Fly,WF874,Widerøe,Bodø,Andenes,2021-09-17 14:55:00,2021-09-17 16:30:00,fhi:web
 Fly,SK4417,SAS,Tromsø,Oslo,2021-09-17 13:50:00,2021-09-17 15:40:00,fhi:web
+Fly,WF869,Widerøe,Tromsø,Andenes,2021-09-17 11:20:00,2021-09-17 12:05:00,fhi:web
 Fly,SU2174,Aeroflot,Moskva,Oslo,2021-09-17 10:20:00,2021-09-17 12:10:00,fhi:web
 Fly,WF854,Widerøe,Bodø,Stokmarknes,2021-09-16 14:55:00,2021-09-16 16:25:00,fhi:web
 Fly,SK4112,SAS,Oslo,Bodø,2021-09-16 13:05:00,2021-05-16 14:30:00,fhi:web
