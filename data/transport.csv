@@ -1,10 +1,15 @@
 tr_type,route,company,tr_from,tr_to,departure,arrival,source
 Tog,41,Vy,Oslo S,Bergen S,NaT,2021-04-04 14:55:00,fhi:web
 Fly,KL1199,KLM,Amsterdam,Stavanger,2022-07-27 09:40:00,2021-07-27 11:10:00,fhi:web
+Fly,KL1151,KLM,Amsterdam,Oslo,2021-09-22 20:50:00,2021-09-22 22:35:00,fhi:web
+Fly,SK377,SAS,Trondheim,Oslo,2021-09-22 18:25:00,2021-09-22 19:20:00,fhi:web
 Fly,TK1751,Turkish Airlines,Istanbul,Oslo,2021-09-22 07:35:00,2021-09-22 10:25:00,fhi:web
+Fly,TK1753,Turkish Airlines,Istanbul,Oslo,2021-09-21 14:05:00,2021-09-21 17:00:00,fhi:web
 Fly,DY1261,Norwegian,Antalya,Oslo,2021-09-21 12:25:00,2021-09-21 15:45:00,fhi:web
 Fly,SK804,SAS,London,Oslo,2021-09-21 10:20:00,2021-09-21 13:30:00,fhi:web
+Fly,BT151,Air Baltic,Riga,Oslo,2021-09-21 07:55:00,2021-09-21 08:35:00,fhi:web
 Fly,W61749,Wizz Air,Gdansk,Haugesund,2021-09-20 06:40:00,2021-09-20 08:30:00,fhi:web
+Fly,JU450,Air Serbia,Belgrade,Oslo,2021-09-20 06:05:00,2021-09-20 09:00:00,fhi:web
 Buss,600,Vy Bus4You,København,Oslo,2021-09-19 21:30:00,2021-09-20 05:40:00,fhi:web
 Fly,DY356,Norwegian,Oslo,Bodø,2021-09-19 20:45:00,2021-09-19 22:15:00,fhi:web
 Fly,DY645,Norwegian,Bergen,Oslo,2021-09-19 19:55:00,2021-09-19 20:50:00,fhi:web
@@ -13,6 +18,7 @@ Fly,DY350,Norwegian,Oslo,Bodø,2021-09-19 17:45:00,2021-09-19 19:15:00,fhi:web
 Fly,SK4117,SAS,Bodø,Oslo,2021-09-19 17:30:00,2021-09-19 19:05:00,fhi:web
 Fly,SK280,SAS,Bergen,Oslo,2021-09-19 17:00:00,2021-09-19 17:50:00,fhi:web
 Fly,DY190,Norwegian,Oslo,Haugesund,2021-09-19 16:30:00,2021-09-19 17:25:00,fhi:web
+Fly,DY631,Norwegian,Bergen,Oslo,2021-09-19 16:20:00,2021-09-19 17:15:00,fhi:web
 Buss,157,NOR-WAY,Haugesund,Bergen,2021-09-19 13:45:00,2021-09-19 17:00:00,fhi:web
 Fly,LH860,Lufthansa,Frankfurt,Oslo,2021-09-19 10:00:00,2021-09-19 11:55:00,fhi:web
 Fly,DY1935,Norwegian,Tirana,Oslo,2021-09-18 20:30:00,2021-09-18 23:50:00,fhi:web
@@ -31,6 +37,7 @@ Fly,WF756,Widerøe,Bodø,Mosjøen,2021-09-17 17:10:00,2021-09-17 17:50:00,fhi:we
 Fly,SK316,SAS,Oslo,Haugesund,2021-09-17 17:05:00,2021-09-17 18:00:00,fhi:web
 Fly,DY622,Norwegian,Oslo,Bergen,2021-09-17 17:00:00,2021-09-17 17:55:00,fhi:web
 Fly,SK277,SAS,Oslo,Bergen,2021-09-17 17:00:00,2021-09-17 17:50:00,fhi:web
+Fly,DY8406,Norwegian,Oslo,Bergen,2021-09-17 16:00:00,2021-09-17 16:55:00,fhi:web
 Fly,WF874,Widerøe,Bodø,Andenes,2021-09-17 14:55:00,2021-09-17 16:30:00,fhi:web
 Fly,SK4417,SAS,Tromsø,Oslo,2021-09-17 13:50:00,2021-09-17 15:40:00,fhi:web
 Fly,WF869,Widerøe,Tromsø,Andenes,2021-09-17 11:20:00,2021-09-17 12:05:00,fhi:web
