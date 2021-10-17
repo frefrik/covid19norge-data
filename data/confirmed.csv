@@ -604,3 +604,4 @@ date,new,total,source
 2021-10-15,423,195808,msis:api
 2021-10-16,334,196142,msis:api
 2021-10-17,122,196264,msis:api
+2021-10-18,0,196264,local:cron
