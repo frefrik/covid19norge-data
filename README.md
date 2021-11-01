@@ -10,13 +10,13 @@ This repository contains datasets of daily time-series data related to COVID-19 
 <!-- table starts -->
 |Data|Source|Last updated|Download|Preview|
 | :--- | :--- | :--- | :--- | :--- |
-|[Confirmed](#confirmedcsv)|FHI / MSIS|2021-11-01 00:10:45+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/confirmed.csv)|[<center>preview</center>](data/confirmed.csv)|
-|[Dead](#deadcsv)|FHI|2021-10-29 13:20:52+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/dead.csv)|[<center>preview</center>](data/dead.csv)|
+|[Confirmed](#confirmedcsv)|FHI / MSIS|2021-11-01 13:20:48+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/confirmed.csv)|[<center>preview</center>](data/confirmed.csv)|
+|[Dead](#deadcsv)|FHI|2021-11-01 13:20:50+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/dead.csv)|[<center>preview</center>](data/dead.csv)|
 |[Hospitalized](#hospitalizedcsv)|Helsedirektoratet|2021-10-29 13:00:49+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/hospitalized.csv)|[<center>preview</center>](data/hospitalized.csv)|
-|[Tested](#testedcsv)|FHI|2021-10-29 13:10:50+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested.csv)|[<center>preview</center>](data/tested.csv)|
-|[Tested Lab](#tested_labcsv)|FHI|2021-10-29 13:20:49+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested_lab.csv)|[<center>preview</center>](data/tested_lab.csv)|
+|[Tested](#testedcsv)|FHI|2021-11-01 13:20:45+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested.csv)|[<center>preview</center>](data/tested.csv)|
+|[Tested Lab](#tested_labcsv)|FHI|2021-11-01 13:20:46+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested_lab.csv)|[<center>preview</center>](data/tested_lab.csv)|
 |[Transport](#transportcsv)|FHI|2021-09-24 23:10:46+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/transport.csv)|[<center>preview</center>](data/transport.csv)|
-|[Vaccine Doses](#vaccine_dosescsv)|FHI|2021-10-29 13:20:53+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/vaccine_doses.csv)|[<center>preview</center>](data/vaccine_doses.csv)|
+|[Vaccine Doses](#vaccine_dosescsv)|FHI|2021-11-01 13:20:50+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/vaccine_doses.csv)|[<center>preview</center>](data/vaccine_doses.csv)|
 |[Smittestopp](#smittestoppcsv)|FHI|2021-10-27 10:50:57+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/smittestopp.csv)|[<center>preview</center>](data/smittestopp.csv)|
 <!-- table ends -->
 
