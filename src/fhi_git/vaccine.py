@@ -27,20 +27,26 @@ def update():
             "location_name",
             "n_dose_1",
             "n_dose_2",
+            "n_dose_3_all",
             "cum_n_dose_1",
             "cum_n_dose_2",
+            "cum_n_dose_3_all",
             "cum_pr100_dose_1",
             "cum_pr100_dose_2",
+            "cum_pr100_dose_3_all",
         ],
     )
 
     mapping = {
         "n_dose_1": "new_dose_1",
         "n_dose_2": "new_dose_2",
+        "n_dose_3_all": "new_dose_3",
         "cum_n_dose_1": "total_dose_1",
         "cum_n_dose_2": "total_dose_2",
+        "cum_n_dose_3_all": "total_dose_3",
         "cum_pr100_dose_1": "total_pr100_dose_1",
         "cum_pr100_dose_2": "total_pr100_dose_2",
+        "cum_pr100_dose_3_all": "total_pr100_dose_3",
     }
 
     columns = [
@@ -49,10 +55,13 @@ def update():
         "date",
         "new_dose_1",
         "new_dose_2",
+        "new_dose_3",
         "total_dose_1",
         "total_dose_2",
+        "total_dose_3",
         "total_pr100_dose_1",
         "total_pr100_dose_2",
+        "total_pr100_dose_3",
         "new_doses",
         "total_doses",
         "source",
@@ -60,8 +69,12 @@ def update():
 
     df_new = df_new.rename(columns=mapping)
 
-    df_new["new_doses"] = df_new["new_dose_1"] + df_new["new_dose_2"]
-    df_new["total_doses"] = df_new["total_dose_1"] + df_new["total_dose_2"]
+    df_new["new_doses"] = (
+        df_new["new_dose_1"] + df_new["new_dose_2"] + df_new["new_dose_3"]
+    )
+    df_new["total_doses"] = (
+        df_new["total_dose_1"] + df_new["total_dose_2"] + df_new["total_dose_3"]
+    )
     df_new["source"] = "fhi:git"
 
     df_new = df_new[columns]

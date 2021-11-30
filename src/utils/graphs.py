@@ -397,14 +397,15 @@ def vaccine_doses():
 
     df = df.melt(
         id_vars=["date"],
-        value_vars=["total_dose_1", "total_dose_2"],
+        value_vars=["total_dose_1", "total_dose_2", "total_dose_3"],
         var_name="category",
         value_name="value",
     ).dropna()
 
     rename = {
-        "total_dose_1": "Vaccinated with first dose",
-        "total_dose_2": "Fully vaccinated",
+        "total_dose_1": "Dose 1",
+        "total_dose_2": "Dose 2",
+        "total_dose_3": "Dose 3",
     }
 
     df["category"] = df["category"].replace(rename)
@@ -412,7 +413,7 @@ def vaccine_doses():
     chart = (
         alt.Chart(
             df,
-            title="Number of people who received their first and second dose of a COVID-19 vaccine in Norway (Source: FHI)",
+            title="Number of people who received their first, second and third dose of a COVID-19 vaccine in Norway (Source: FHI)",
         )
         .mark_area(line={}, opacity=0.3)
         .encode(
@@ -426,10 +427,11 @@ def vaccine_doses():
                 "category:N",
                 scale=alt.Scale(
                     domain=[
-                        "Vaccinated with first dose",
-                        "Fully vaccinated",
+                        "Dose 1",
+                        "Dose 2",
+                        "Dose 3",
                     ],
-                    range=["#5dade2", " #2ecc71"],
+                    range=["#5dade2", " #2ecc71", "#006600"],
                 ),
                 legend=alt.Legend(title=None),
             ),
@@ -445,7 +447,7 @@ def vaccine_doses():
             cornerRadius=5,
             direction="horizontal",
             orient="none",
-            legendX=480,
+            legendX=380,
             legendY=660,
         )
     )
