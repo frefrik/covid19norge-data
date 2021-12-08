@@ -18,6 +18,7 @@ This repository contains datasets of daily time-series data related to COVID-19 
 |[Transport](#transportcsv)|FHI|2021-09-24 23:10:46+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/transport.csv)|[<center>preview</center>](data/transport.csv)|
 |[Vaccine Doses](#vaccine_dosescsv)|FHI|2021-12-08 13:20:54+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/vaccine_doses.csv)|[<center>preview</center>](data/vaccine_doses.csv)|
 |[Smittestopp](#smittestoppcsv)|FHI|2021-12-08 11:40:52+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/smittestopp.csv)|[<center>preview</center>](data/smittestopp.csv)|
+|[Omicron](#omicroncsv)|FHI|2021-12-08 15:54:55+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/omicron.csv)|[<center>preview</center>](data/omicron.csv)|
 <!-- table ends -->
 
 ## Datafiles
@@ -207,3 +208,31 @@ date,new_downloads,total_downloads,new_reported,total_reported,source
 ```
 
 ![Smittestopp](graphs/smittestopp.png)
+
+---
+
+### omicron.csv
+
+Overview of the number of cases of the omicron coronavirus variant in Norway.
+
+*The Norwegian Institute of Public Health will publish information about new cases confirmed by sequencing and update risk assessments if necessary. The time from testing to completion of the sequencing results may vary.*
+
+A confirmed case is a SARS-CoV-2 positive sample that has been found positive for omicron via genome sequencing.
+
+A probable case of omicron is a sample that is one or both of the following:
+
+- SARS-CoV-2 positive sample indicating a virus variant other than Delta
+- SARS-CoV-2 positive sample with specific result for one or more of the key mutations of omicron
+
+
+**Data source:**
+
+- https://www.fhi.no/sv/smittsomme-sykdommer/corona/meldte-tilfeller-av-ny-virusvariant/
+
+```
+year,week,new_probable,new_confirmed,total_probable,total_confirmed,source
+2021,47,1,4,1,4,fhi:web
+2021,48,178,29,179,33,fhi:web
+2021,49,3,0,182,33,fhi:web
+...
+```

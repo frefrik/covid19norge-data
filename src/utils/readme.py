@@ -21,6 +21,7 @@ def table_datasets():
         "transport.csv",
         "vaccine_doses.csv",
         "smittestopp.csv",
+        "omicron.csv",
     ]
 
     columns = len(dataset_table)

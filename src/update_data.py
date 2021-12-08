@@ -1,6 +1,6 @@
 from fhi_git import vaccine, dead, tested_lab
 from fhi_git import confirmed as confirmed_fhi
-from fhi_web import tested, smittestopp, transport
+from fhi_web import tested, smittestopp, transport, omicron
 from helsedir_api import hospitalized
 from msis_api import confirmed as confirmed_msis
 from utils import (
@@ -85,6 +85,14 @@ if __name__ == "__main__":
         error_msg = f"smittestopp.csv: {e.__class__.__name__}: {e}"
         print(error_msg)
         pushover_message("covid19norge-data: smittestopp.csv", error_msg)
+
+    print("Checking for update: omicron.csv")
+    try:
+        omicron.update()
+    except Exception as e:
+        error_msg = f"omicron.csv: {e.__class__.__name__}: {e}"
+        print(error_msg)
+        pushover_message("covid19norge-data: omicron.csv", error_msg)
 
     sources = load_sources()
     pending_update = [sources[category]["pending_update"] for category in sources]

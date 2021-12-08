@@ -86,5 +86,16 @@
     "link_preview": "data/smittestopp.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/smittestopp.csv",
     "pending_update": 0
+  },
+  "omicron.csv": {
+    "name": "Omicron",
+    "dataset": "omicron",
+    "dataset_detail": "#omicroncsv",
+    "data_source": "FHI",
+    "date_range": "2021-47 - Present",
+    "last_updated": "2021-12-08 15:54:55+01:00",
+    "link_preview": "data/omicron.csv",
+    "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/omicron.csv",
+    "pending_update": 0
   }
 }
