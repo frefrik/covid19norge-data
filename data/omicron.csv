@@ -1,4 +1,4 @@
 year,week,new_probable,new_confirmed,total_probable,total_confirmed,source
 2021,47,1,4,1,4,fhi:web
-2021,48,178,29,179,33,fhi:web
-2021,49,3,0,182,33,fhi:web
+2021,48,201,39,202,43,fhi:web
+2021,49,45,0,247,43,fhi:web
