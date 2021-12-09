@@ -17,6 +17,7 @@ def update():
 
     cols = [
         "week",
+        "new_probable_confirmed",
         "sum_probable_confirmed",
         "new_probable",
         "new_confirmed",
@@ -47,6 +48,7 @@ def update():
             to_append,
             index=[
                 "week",
+                "new_probable_confirmed",
                 "sum_probable_confirmed",
                 "new_probable",
                 "new_confirmed",
