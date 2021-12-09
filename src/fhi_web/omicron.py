@@ -15,23 +15,11 @@ def update():
     now = get_timestr()
     year = datetime.now().year
 
-    cols = [
-        "week",
-        "new_probable_confirmed",
-        "sum_probable_confirmed",
-        "new_probable",
-        "new_confirmed",
-        "cumulative",
-        "total_probable",
-        "total_confirmed",
-    ]
-    cols_int = [
-        "week",
-        "new_probable",
-        "new_confirmed",
-    ]
-
-    df_new = pd.DataFrame(columns=cols)
+    cols = {
+        "Uke": "week",
+        "Sannsynlige Omikron": "new_probable",
+        "Bekreftede Omikron": "new_confirmed",
+    }
 
     url = "https://www.fhi.no/sv/smittsomme-sykdommer/corona/meldte-tilfeller-av-ny-virusvariant/"
     html = requests.get(url).text
@@ -41,25 +29,11 @@ def update():
         text="Antall nye tilfeller siste døgn og totalt antall tilfeller"
     ).find_parent("table")
 
-    for row in table.find_all("tr")[1:][:-1]:
-        to_append = [cell.get_text(strip=True) for cell in row.find_all("td")]
+    df_new = pd.read_html(str(table))[0]
+    df_new = df_new[df_new["Uke"] != "Total"]
 
-        a_series = pd.Series(
-            to_append,
-            index=[
-                "week",
-                "new_probable_confirmed",
-                "sum_probable_confirmed",
-                "new_probable",
-                "new_confirmed",
-                "cumulative",
-            ],
-        )
-        df_new = df_new.append(a_series, ignore_index=True)
-
-    df_new = df_new[["week", "new_probable", "new_confirmed"]]
-
-    df_new[cols_int] = df_new[cols_int].astype(int)
+    df_new = df_new.rename(columns=cols)
+    df_new = df_new[["week", "new_probable", "new_confirmed"]].astype(int)
     df_new = df_new.sort_values(by="week").reset_index(drop=True)
 
     df_new["total_probable"] = df_new["new_probable"].cumsum()
