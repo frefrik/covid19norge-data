@@ -1,3 +1,4 @@
+import os
 import requests
 from datetime import datetime
 import pandas as pd
@@ -11,47 +12,69 @@ from utils import (
 )
 
 
+def get_data():
+    headers = {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 11.2; rv:86.0) Gecko/20100101 Firefox/86.0",
+        "X-Requested-With": "XMLHttpRequest",
+    }
+
+    base_url = "https://www.fhi.no"
+    url = f"{base_url}/sv/smittsomme-sykdommer/corona/meldte-tilfeller-av-ny-virusvariant/"
+    html = requests.get(url).text
+    soup = BeautifulSoup(html, "lxml")
+
+    for i in soup.find_all("div", class_="fhi-dynamic-table__download"):
+        a = i.find("a")
+        href = a.get("href")
+        filename = os.path.basename(href)
+
+        if "uke-week" in filename:
+            res = requests.get(
+                f"{base_url}{href}", allow_redirects=True, headers=headers
+            )
+            return res
+
+    return None
+
+
 def update():
     now = get_timestr()
     year = datetime.now().year
 
     cols = {
-        "Uke": "week",
-        "Sannsynlige Omikron": "new_probable",
-        "Bekreftede Omikron": "new_confirmed",
+        "Uke/ week": "week",
+        "Sannsynlig/ probable": "new_probable",
+        "Bekreftet/ confirmed": "new_confirmed",
     }
+    data = get_data()
 
-    url = "https://www.fhi.no/sv/smittsomme-sykdommer/corona/meldte-tilfeller-av-ny-virusvariant/"
-    html = requests.get(url).text
-    soup = BeautifulSoup(html, "lxml")
+    if data:
+        df_new = pd.read_excel(data.content, usecols=cols)
+        df_new = df_new.rename(columns=cols)
 
-    table = soup.find(
-        text="Antall nye tilfeller siste døgn og totalt antall tilfeller"
-    ).find_parent("table")
+        df_new = df_new[df_new["week"] != "Total"]
+        df_new = df_new[["week", "new_probable", "new_confirmed"]].astype(int)
+        df_new = df_new.sort_values(by="week").reset_index(drop=True)
 
-    df_new = pd.read_html(str(table))[0]
-    df_new = df_new[df_new["Uke"] != "Total"]
+        df_new["total_probable"] = df_new["new_probable"].cumsum()
+        df_new["total_confirmed"] = df_new["new_confirmed"].cumsum()
 
-    df_new = df_new.rename(columns=cols)
-    df_new = df_new[["week", "new_probable", "new_confirmed"]].astype(int)
-    df_new = df_new.sort_values(by="week").reset_index(drop=True)
+        df_new.insert(
+            loc=0,
+            column="year",
+            value=[2021 if x >= 47 else year for x in df_new["week"]],
+        )
+        df_new["source"] = "fhi:web"
 
-    df_new["total_probable"] = df_new["new_probable"].cumsum()
-    df_new["total_confirmed"] = df_new["new_confirmed"].cumsum()
+        df = load_datafile("omicron")
 
-    df_new.insert(
-        loc=0, column="year", value=[2021 if x >= 47 else year for x in df_new["week"]]
-    )
-    df_new["source"] = "fhi:web"
+        if not df_new.equals(df):
+            print(now, "omicron: New update")
 
-    df = load_datafile("omicron")
+            sourcefile = load_sources()
+            sourcefile["omicron.csv"]["last_updated"] = now
+            sourcefile["omicron.csv"]["pending_update"] = 1
 
-    if not df_new.equals(df):
-        print(now, "omicron: New update")
-
-        sourcefile = load_sources()
-        sourcefile["omicron.csv"]["last_updated"] = now
-        sourcefile["omicron.csv"]["pending_update"] = 1
-
-        write_sources(sourcefile)
-        write_datafile("omicron", df_new)
+            write_sources(sourcefile)
+            write_datafile("omicron", df_new)
