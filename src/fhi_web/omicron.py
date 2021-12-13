@@ -43,9 +43,8 @@ def update():
     year = datetime.now().year
 
     cols = {
-        "Uke/ week": "week",
-        "Sannsynlig/ probable": "new_probable",
-        "Bekreftet/ confirmed": "new_confirmed",
+        "Uke/week": "week",
+        "Tilfeller/ cases": "new_confirmed",
     }
     data = get_data()
 
@@ -54,10 +53,9 @@ def update():
         df_new = df_new.rename(columns=cols)
 
         df_new = df_new[df_new["week"] != "Total"]
-        df_new = df_new[["week", "new_probable", "new_confirmed"]].astype(int)
+        df_new = df_new[["week", "new_confirmed"]].astype(int)
         df_new = df_new.sort_values(by="week").reset_index(drop=True)
 
-        df_new["total_probable"] = df_new["new_probable"].cumsum()
         df_new["total_confirmed"] = df_new["new_confirmed"].cumsum()
 
         df_new.insert(

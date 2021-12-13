@@ -219,20 +219,14 @@ Overview of the number of cases of the omicron coronavirus variant in Norway.
 
 A confirmed case is a SARS-CoV-2 positive sample that has been found positive for omicron via genome sequencing.
 
-A probable case of omicron is a sample that is one or both of the following:
-
-- SARS-CoV-2 positive sample indicating a virus variant other than Delta
-- SARS-CoV-2 positive sample with specific result for one or more of the key mutations of omicron
-
-
 **Data source:**
 
 - https://www.fhi.no/sv/smittsomme-sykdommer/corona/meldte-tilfeller-av-ny-virusvariant/
 
 ```
-year,week,new_probable,new_confirmed,total_probable,total_confirmed,source
-2021,47,1,4,1,4,fhi:web
-2021,48,178,29,179,33,fhi:web
-2021,49,3,0,182,33,fhi:web
+year,week,new_confirmed,total_confirmed,source
+2021,47,5,5,fhi:web
+2021,48,293,298,fhi:web
+2021,49,660,958,fhi:web
 ...
 ```
