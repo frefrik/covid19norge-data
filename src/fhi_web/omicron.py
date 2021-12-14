@@ -43,7 +43,7 @@ def update():
     year = datetime.now().year
 
     cols = {
-        "Uke/week": "week",
+        "Uke/week*": "week",
         "Tilfeller/ cases": "new_confirmed",
     }
     data = get_data()
