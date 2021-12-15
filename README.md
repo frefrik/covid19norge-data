@@ -17,7 +17,7 @@ This repository contains datasets of daily time-series data related to COVID-19 
 |[Tested Lab](#tested_labcsv)|FHI|2021-12-14 13:20:48+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested_lab.csv)|[<center>preview</center>](data/tested_lab.csv)|
 |[Transport](#transportcsv)|FHI|2021-09-24 23:10:46+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/transport.csv)|[<center>preview</center>](data/transport.csv)|
 |[Vaccine Doses](#vaccine_dosescsv)|FHI|2021-12-14 13:20:53+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/vaccine_doses.csv)|[<center>preview</center>](data/vaccine_doses.csv)|
-|[Smittestopp](#smittestoppcsv)|FHI|2021-12-08 11:40:52+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/smittestopp.csv)|[<center>preview</center>](data/smittestopp.csv)|
+|[Smittestopp](#smittestoppcsv)|FHI|2021-12-15 11:31:01+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/smittestopp.csv)|[<center>preview</center>](data/smittestopp.csv)|
 |[Omicron](#omicroncsv)|FHI|2021-12-15 10:21:08+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/omicron.csv)|[<center>preview</center>](data/omicron.csv)|
 <!-- table ends -->
 
