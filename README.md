@@ -12,7 +12,7 @@ This repository contains datasets of daily time-series data related to COVID-19 
 | :--- | :--- | :--- | :--- | :--- |
 |[Confirmed](#confirmedcsv)|FHI / MSIS|2021-12-15 00:20:48+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/confirmed.csv)|[<center>preview</center>](data/confirmed.csv)|
 |[Dead](#deadcsv)|FHI|2021-12-14 13:20:53+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/dead.csv)|[<center>preview</center>](data/dead.csv)|
-|[Hospitalized](#hospitalizedcsv)|Helsedirektoratet|2021-12-14 12:50:45+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/hospitalized.csv)|[<center>preview</center>](data/hospitalized.csv)|
+|[Hospitalized](#hospitalizedcsv)|Helsedirektoratet|2021-12-15 09:21:41+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/hospitalized.csv)|[<center>preview</center>](data/hospitalized.csv)|
 |[Tested](#testedcsv)|FHI|2021-12-14 13:10:53+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested.csv)|[<center>preview</center>](data/tested.csv)|
 |[Tested Lab](#tested_labcsv)|FHI|2021-12-14 13:20:48+01:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/tested_lab.csv)|[<center>preview</center>](data/tested_lab.csv)|
 |[Transport](#transportcsv)|FHI|2021-09-24 23:10:46+02:00|[<center>csv</center>](https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/transport.csv)|[<center>preview</center>](data/transport.csv)|
@@ -71,19 +71,19 @@ date,new,total,source
 ### hospitalized.csv
 
 Number of hospitalized patients.  
-The hospitals register the daily number of patients who are admitted to hospital with proven covid-19 and the number of admitted patients who receive invasive respiratory treatment.
+The hospitals register the daily number of patients who are admitted to hospital with proven covid-19, how many of these are admitted to the intensive care unit and how many of these receive invasive respiratory treatment. 
 
 **Data source:**
 
 - https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19
 
 ```
-date,admissions,respiratory,source
-2020-11-13,109,13,helsedir:api
-2020-11-14,117,13,helsedir:api
-2020-11-15,127,13,helsedir:api
-2020-11-16,135,16,helsedir:api
-2020-11-17,139,15,helsedir:api
+date,admissions,icu,respiratory,source
+2021-12-10,314,108,52,helsedir:api
+2021-12-11,307,109,54,helsedir:api
+2021-12-12,331,106,58,helsedir:api
+2021-12-13,358,109,62,helsedir:api
+2021-12-14,363,118,63,helsedir:api
 ...
 ```
 

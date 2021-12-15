@@ -254,14 +254,21 @@ def hospitalized():
     df = df.reset_index(drop=True)
 
     df["admissions"] = df["admissions"].fillna(method="ffill").astype(int)
+    df["icu"] = df["icu"].fillna(method="ffill").astype(int)
     df["respiratory"] = df["respiratory"].fillna(method="ffill").astype(int)
 
     df_melt = pd.melt(
         df,
         id_vars=["date"],
-        value_vars=["admissions", "respiratory"],
+        value_vars=["admissions", "icu", "respiratory"],
         value_name="value",
-    ).replace({"admissions": "Hospitalized", "respiratory": "Respirator"})
+    ).replace(
+        {
+            "admissions": "Hospitalized",
+            "icu": "Intensive",
+            "respiratory": "Respirator",
+        }
+    )
 
     chart = (
         alt.Chart(
@@ -279,7 +286,8 @@ def hospitalized():
             color=alt.Color(
                 "variable:N",
                 scale=alt.Scale(
-                    domain=["Hospitalized", "Respirator"], range=["#5A9DFF", "#FF8B1B"]
+                    domain=["Hospitalized", "Intensive Care", "Respirator"],
+                    range=["#5A9DFF", "#FF8B1B", "#FF642B"],
                 ),
                 legend=alt.Legend(title=None),
             ),
