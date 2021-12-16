@@ -43,8 +43,8 @@ def update():
     year = datetime.now().year
 
     cols = {
-        "Uke/week*": "week",
-        "Tilfeller/ cases": "new_confirmed",
+        "Uke/week": "week",
+        "Tilfeller/cases": "new_confirmed",
     }
     data = get_data()
 
@@ -52,7 +52,7 @@ def update():
         df_new = pd.read_excel(data.content, usecols=cols)
         df_new = df_new.rename(columns=cols)
 
-        df_new = df_new[df_new["week"] != "Total"]
+        df_new = df_new[df_new["week"] != "Totalt"]
         df_new = df_new[["week", "new_confirmed"]].astype(int)
         df_new = df_new.sort_values(by="week").reset_index(drop=True)
 
