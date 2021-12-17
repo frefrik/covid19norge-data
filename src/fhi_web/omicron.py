@@ -1,6 +1,5 @@
 import os
 import requests
-from datetime import datetime
 import pandas as pd
 from bs4 import BeautifulSoup
 from utils import (
@@ -40,11 +39,11 @@ def get_data():
 
 def update():
     now = get_timestr()
-    year = datetime.now().year
 
     cols = {
+        "År": "year",
         "Uke/week": "week",
-        "Tilfeller/cases": "new_confirmed",
+        "Tilfeller/ cases": "new_confirmed",
     }
     data = get_data()
 
@@ -52,17 +51,12 @@ def update():
         df_new = pd.read_excel(data.content, usecols=cols)
         df_new = df_new.rename(columns=cols)
 
-        df_new = df_new[df_new["week"] != "Totalt"]
-        df_new = df_new[["week", "new_confirmed"]].astype(int)
+        df_new = df_new[df_new["year"] != "Total"]
+        df_new = df_new[["year", "week", "new_confirmed"]].astype(int)
         df_new = df_new.sort_values(by="week").reset_index(drop=True)
 
         df_new["total_confirmed"] = df_new["new_confirmed"].cumsum()
 
-        df_new.insert(
-            loc=0,
-            column="year",
-            value=[2021 if x >= 47 else year for x in df_new["week"]],
-        )
         df_new["source"] = "fhi:web"
 
         df = load_datafile("omicron")
