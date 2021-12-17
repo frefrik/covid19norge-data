@@ -51,7 +51,7 @@ def update():
         df_new = pd.read_excel(data.content, usecols=cols)
         df_new = df_new.rename(columns=cols)
 
-        df_new = df_new[df_new["year"] != "Total"]
+        df_new = df_new[df_new["year"].isin([2021, 2022])]
         df_new = df_new[["year", "week", "new_confirmed"]].astype(int)
         df_new = df_new.sort_values(by="week").reset_index(drop=True)
 
