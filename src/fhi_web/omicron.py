@@ -43,7 +43,7 @@ def update():
     cols = {
         "År": "year",
         "Uke/week": "week",
-        "Tilfeller/ cases": "new_confirmed",
+        "Tilfeller/cases": "new_confirmed",
     }
     data = get_data()
 
