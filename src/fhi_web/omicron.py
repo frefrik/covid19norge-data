@@ -52,7 +52,7 @@ def update():
         df_new = df_new.rename(columns=cols)
 
         df_new = df_new[df_new["year"].isin([2021, 2022])]
-        df_new = df_new[["year", "week", "new_confirmed"]].astype(int)
+        df_new = df_new[["year", "week", "new_confirmed"]].fillna(0).astype(int)
         df_new = df_new.sort_values(by="week").reset_index(drop=True)
 
         df_new["total_confirmed"] = df_new["new_confirmed"].cumsum()
