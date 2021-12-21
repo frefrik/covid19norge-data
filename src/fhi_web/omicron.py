@@ -41,7 +41,7 @@ def update():
     now = get_timestr()
 
     cols = {
-        "År": "year",
+        "År/Year": "year",
         "Uke/week": "week",
         "Tilfeller/cases": "new_confirmed",
     }
