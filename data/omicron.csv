@@ -1,6 +1,6 @@
 year,week,new_confirmed,total_confirmed,source
 2021,47,5,5,fhi:web
 2021,48,293,298,fhi:web
-2021,49,1355,1653,fhi:web
-2021,50,1741,3394,fhi:web
-2021,51,0,3394,fhi:web
+2021,49,1350,1648,fhi:web
+2021,50,2223,3871,fhi:web
+2021,51,0,3871,fhi:web
