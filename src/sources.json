@@ -93,7 +93,7 @@
     "dataset_detail": "#omicroncsv",
     "data_source": "FHI",
     "date_range": "2021-47 - Present",
-    "last_updated": "2021-12-21 16:01:43+01:00",
+    "last_updated": "2021-12-22 10:11:05+01:00",
     "link_preview": "data/omicron.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/omicron.csv",
     "pending_update": 0
