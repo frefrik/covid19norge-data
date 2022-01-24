@@ -29,16 +29,16 @@ def update():
         browser.get(url)
         time.sleep(1)
         new_downloads = browser.execute_script(
-            "return Highcharts.charts[0].series[0].options.data"
-        )
-        total_downloads = browser.execute_script(
-            "return Highcharts.charts[0].series[1].options.data"
-        )
-        new_reported = browser.execute_script(
             "return Highcharts.charts[1].series[0].options.data"
         )
-        total_reported = browser.execute_script(
+        total_downloads = browser.execute_script(
             "return Highcharts.charts[1].series[1].options.data"
+        )
+        new_reported = browser.execute_script(
+            "return Highcharts.charts[0].series[0].options.data"
+        )
+        total_reported = browser.execute_script(
+            "return Highcharts.charts[0].series[1].options.data"
         )
 
         browser.close()
