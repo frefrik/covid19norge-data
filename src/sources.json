@@ -82,7 +82,7 @@
     "dataset_detail": "#smittestoppcsv",
     "data_source": "FHI",
     "date_range": "2020-12-21 - Present",
-    "last_updated": "2022-02-14 10:11:04+01:00",
+    "last_updated": "2022-02-15 11:20:58+01:00",
     "link_preview": "data/smittestopp.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/smittestopp.csv",
     "pending_update": 0
