@@ -265,8 +265,8 @@ def hospitalized():
     ).replace(
         {
             "admissions": "Hospitalized",
-            "icu": "Intensive",
-            "respiratory": "Respirator",
+            "icu": "Intensive Care",
+            "respiratory": "Respiratory",
         }
     )
 
@@ -286,7 +286,7 @@ def hospitalized():
             color=alt.Color(
                 "variable:N",
                 scale=alt.Scale(
-                    domain=["Hospitalized", "Intensive Care", "Respirator"],
+                    domain=["Hospitalized", "Intensive Care", "Respiratory"],
                     range=["#5A9DFF", "#FF8B1B", "#FF642B"],
                 ),
                 legend=alt.Legend(title=None),
