@@ -11,4 +11,4 @@ python-dotenv==0.19.2
 python-pushover==0.4
 PyYAML==6.0
 requests==2.27.1
-selenium==4.1.0
+selenium==4.1.1
