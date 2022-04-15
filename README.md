@@ -70,6 +70,8 @@ date,new,total,source
 
 ### hospitalized.csv
 
+> ❗ From 23 March 2022, the reporting was terminated and the display will therefore no longer be updated after this date. ([source](https://www.helsedirektoratet.no/statistikk/antall-innlagte-pasienter-pa-sykehus-med-pavist-covid-19))
+
 Number of hospitalized patients.  
 The hospitals register the daily number of patients who are admitted to hospital with proven covid-19, how many of these are admitted to the intensive care unit and how many of these receive invasive respiratory treatment. 
 
@@ -134,6 +136,8 @@ date,new_neg,new_pos,pr100_pos,new_total,total_neg,total_pos,total,source
 ---
 
 ### transport.csv
+
+> ❗ The government has decided that Norway will move to a normal everyday life with increased preparedness on Saturday 25 September 2021 at 16.00. Routine infection tracing after possible exposure to public transport therefore ceases from 25 September 2021. The last lists of departures were published 2021-09-24.
 
 List of departures where persons infected with covid-19 have been on board aircraft, ships, trains and buses.
 
