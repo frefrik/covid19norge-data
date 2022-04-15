@@ -162,30 +162,21 @@ def dead():
 
     df = pd.read_csv(data)
 
-    today = date.today()
-    idx = pd.date_range("2020-03-07", df["date"].max())
-    df.index = pd.DatetimeIndex(df["date"])
-    df = df.reindex(idx)
-    df["date"] = df.index
-    df = df.reset_index(drop=True)
-    df = df[df.date <= str(today)]
-
     df["new"] = df["new"].fillna(0).astype(int)
     df["total"] = df["total"].fillna(method="bfill").astype(int)
-    df["new_sma7"] = df.new.rolling(window=7).mean()
 
     df = df.melt(
         id_vars=["date"],
-        value_vars=["new", "new_sma7", "total"],
+        value_vars=["new", "total"],
         var_name="category",
         value_name="value",
     ).dropna()
 
-    rename = {"new": "New", "new_sma7": "Avg 7 d.", "total": "Cumulative"}
+    rename = {"new": "New", "total": "Cumulative"}
     df["category"] = df["category"].replace(rename)
 
     base = alt.Chart(df, title="COVID-19 related deaths (Source: FHI)").encode(
-        alt.X("yearmonthdate(date):O", axis=alt.Axis(title=None, labelAngle=-40))
+        alt.X("yearweek(date):O", axis=alt.Axis(title=None, labelAngle=-40))
     )
 
     bar = (
@@ -202,22 +193,16 @@ def dead():
             color=alt.Color(
                 "category:N",
                 scale=alt.Scale(
-                    domain=["New", "Avg 7 d.", "Cumulative"],
-                    range=["#FFD1D1", "red", "#2E507B"],
+                    domain=["New", "Cumulative"],
+                    range=["#FFD1D1", "#2E507B"],
                 ),
                 legend=alt.Legend(title=None),
             ),
         )
     )
 
-    ma7 = (
-        base.transform_filter(alt.datum.category == "Avg 7 d.")
-        .mark_line(opacity=0.8)
-        .encode(y=alt.Y("value:Q"), color=alt.Color("category:N"))
-    )
-
     chart = (
-        alt.layer(bar + ma7, line)
+        alt.layer(bar, line)
         .resolve_scale(y="independent")
         .properties(width=1200, height=600)
         .configure_legend(
