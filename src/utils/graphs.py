@@ -161,6 +161,7 @@ def dead():
         os.remove(filename)
 
     df = pd.read_csv(data)
+    df["date"] = pd.to_datetime(df["date"])
 
     df["new"] = df["new"].fillna(0).astype(int)
     df["total"] = df["total"].fillna(method="bfill").astype(int)

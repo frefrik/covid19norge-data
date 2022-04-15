@@ -16,7 +16,7 @@
     "dataset_detail": "#deadcsv",
     "data_source": "FHI",
     "date_range": "2020-03-10 - Present",
-    "last_updated": "2022-04-15 14:57:25+02:00",
+    "last_updated": "2022-04-15 15:52:47+02:00",
     "link_preview": "data/dead.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/dead.csv",
     "pending_update": 0
