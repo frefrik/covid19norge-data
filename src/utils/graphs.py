@@ -177,7 +177,7 @@ def dead():
     df["category"] = df["category"].replace(rename)
 
     base = alt.Chart(df, title="COVID-19 related deaths (Source: FHI)").encode(
-        alt.X("yearweek(date):O", axis=alt.Axis(title=None, labelAngle=-40))
+        alt.X("yearmonthdate(date):O", axis=alt.Axis(title=None, labelAngle=-40))
     )
 
     bar = (
