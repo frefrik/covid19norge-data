@@ -71,7 +71,7 @@
     "dataset_detail": "#vaccine_dosescsv",
     "data_source": "FHI",
     "date_range": "2020-12-27 - Present",
-    "last_updated": "2022-06-17 13:20:54+02:00",
+    "last_updated": "2022-06-21 15:13:08+02:00",
     "link_preview": "data/vaccine_doses.csv",
     "link_csv": "https://raw.githubusercontent.com/frefrik/covid19norge-data/main/data/vaccine_doses.csv",
     "pending_update": 0

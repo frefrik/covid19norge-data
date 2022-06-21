@@ -391,7 +391,7 @@ def vaccine_doses():
 
     df = df.melt(
         id_vars=["date"],
-        value_vars=["total_dose_1", "total_dose_2", "total_dose_3"],
+        value_vars=["total_dose_1", "total_dose_2", "total_dose_3", "total_dose_4"],
         var_name="category",
         value_name="value",
     ).dropna()
@@ -400,6 +400,7 @@ def vaccine_doses():
         "total_dose_1": "Dose 1",
         "total_dose_2": "Dose 2",
         "total_dose_3": "Dose 3",
+        "total_dose_4": "Dose 4",
     }
 
     df["category"] = df["category"].replace(rename)
@@ -407,7 +408,7 @@ def vaccine_doses():
     chart = (
         alt.Chart(
             df,
-            title="Number of people who received their first, second and third dose of a COVID-19 vaccine in Norway (Source: FHI)",
+            title="Number of people who received their first, second, third and fourth dose of a COVID-19 vaccine in Norway (Source: FHI)",
         )
         .mark_area(line={}, opacity=0.3)
         .encode(
@@ -424,8 +425,9 @@ def vaccine_doses():
                         "Dose 1",
                         "Dose 2",
                         "Dose 3",
+                        "Dose 4",
                     ],
-                    range=["#5dade2", " #2ecc71", "#006600"],
+                    range=["#5dade2", " #2ecc71", "#006600", "#003200"],
                 ),
                 legend=alt.Legend(title=None),
             ),
