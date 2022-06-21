@@ -164,26 +164,29 @@ Number of people who have been vaccinated for COVID-19.
 
 - ```new_dose_1```: Number of people who received their first dose of a COVID-19 vaccine
 - ```new_dose_2```: Number of people who received their second dose of a COVID-19 vaccine
+- ```new_dose_3```: Number of people who received their third dose of a COVID-19 vaccine
+- ```new_dose_4```: Number of people who received their fourth dose of a COVID-19 vaccine
 - ```total_dose_1```: Cumulative number of people who received their first dose of a COVID-19 vaccine
 - ```total_dose_2```: Cumulative number of people who received their second dose of a COVID-19 vaccine
-- ```new_doses```: Number of total vaccine doses administered (new_dose_1 + new_dose_2)
-- ```total_doses```: Cumulative number of total vaccine doses administered (total_dose_1 + total_dose_2)
+- ```total_dose_3```: Cumulative number of people who received their third dose of a COVID-19 vaccine
+- ```total_dose_4```: Cumulative number of people who received their fourth dose of a COVID-19 vaccine
+- ```new_doses```: Number of total vaccine doses administered
+- ```total_doses```: Cumulative number of total vaccine doses administered
 
 **Data source:**
 
 - https://github.com/folkehelseinstituttet/surveillance_data
 
 ```
-granularity_geo,location_name,date,new_dose_1,new_dose_2,total_dose_1,total_dose_2,total_pr100_dose_1,total_pr100_dose_2,new_doses,total_doses,source
-county,Oslo,2020-12-27,5,0,5,0,0.00072098677133472,0.0,5,5,fhi:git
-county,Oslo,2020-12-28,264,0,269,0,0.0387890882978079,0.0,264,269,fhi:git
-county,Oslo,2020-12-29,118,0,387,0,0.0558043761013073,0.0,118,387,fhi:git
-county,Oslo,2020-12-30,58,0,445,0,0.06416782264879001,0.0,58,445,fhi:git
-county,Oslo,2020-12-31,5,0,450,0,0.0648888094201248,0.0,5,450,fhi:git
-county,Oslo,2021-01-01,6,0,456,0,0.0657539935457264,0.0,6,456,fhi:git
-county,Oslo,2021-01-02,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
-county,Oslo,2021-01-03,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
-county,Oslo,2021-01-04,0,0,456,0,0.0657539935457264,0.0,0,456,fhi:git
+granularity_geo,location_name,date,new_dose_1,new_dose_2,new_dose_3,new_dose_4,total_dose_1,total_dose_2,total_dose_3,total_dose_4,total_pr100_dose_1,total_pr100_dose_2,total_pr100_dose_3,total_pr100_dose_4,new_doses,total_doses,source
+county,Oslo,2022-06-13,30,96,216,0,549610,511977,354023,0,78.5,73.2,50.6,0,342,1415610,fhi:git
+county,Oslo,2022-06-14,32,51,130,0,549642,512028,354153,0,78.5,73.2,50.6,0,213,1415823,fhi:git
+county,Oslo,2022-06-15,15,72,189,0,549657,512100,354342,0,78.5,73.2,50.6,0,276,1416099,fhi:git
+county,Oslo,2022-06-16,31,78,239,0,549688,512178,354581,0,78.5,73.2,50.7,0,348,1416447,fhi:git
+county,Oslo,2022-06-17,18,51,179,0,549706,512229,354760,0,78.5,73.2,50.7,0,248,1416695,fhi:git
+county,Oslo,2022-06-18,0,0,0,0,549706,512230,354760,0,78.5,73.2,50.7,0,0,1416696,fhi:git
+county,Oslo,2022-06-19,0,0,0,0,549708,512230,354761,0,78.5,73.2,50.7,0,0,1416699,fhi:git
+county,Oslo,2022-06-20,36,90,261,0,549744,512320,355022,0,78.6,73.2,50.7,0,387,1417086,fhi:git
 ...
 ```
 
