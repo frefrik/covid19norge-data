@@ -25,12 +25,16 @@ This repository contains datasets of daily time-series data related to COVID-19 
 
 ### confirmed.csv
 
+> ⚠️ FHI has closed its source of data on testing, deaths and demographics for confirmed infected. As of 15 November 2022, these figures will no longer be updated. ([source](https://github.com/folkehelseinstituttet/surveillance_data#2022-11-14--goodbye))
+> 
+> Registered infections are still being updated, but do not give a good picture of the infection situation, because very few people now test themselves when they get sick. 
+
 Number of cases reported daily in Norway since the start of the epidemic.
 
 **Data source:**
 
 - https://statistikk.fhi.no/msis
-- https://github.com/folkehelseinstituttet/surveillance_data
+- https://github.com/folkehelseinstituttet/surveillance_data (deprecated)
 
 ```
 date,new,total,source
@@ -47,6 +51,8 @@ date,new,total,source
 ---
 
 ### dead.csv
+
+> ❗ FHI has closed its source of data on testing, deaths and demographics for confirmed infected. As of 15 November 2022, these figures will no longer be updated. ([source](https://github.com/folkehelseinstituttet/surveillance_data#2022-11-14--goodbye))
 
 Number of COVID-19 associated deaths notified to the Norwegian Institute of Public Health.
 
@@ -95,6 +101,8 @@ date,admissions,icu,respiratory,source
 
 ### tested.csv
 
+> ❗ FHI has closed its source of data on testing, deaths and demographics for confirmed infected. As of 15 November 2022, these figures will no longer be updated. ([source](https://github.com/folkehelseinstituttet/surveillance_data#2022-11-14--goodbye))
+
 Number of COVID-19 tests performed.
 **Data source:**
 
@@ -113,6 +121,8 @@ date,new,total,source
 ---
 
 ### tested_lab.csv
+
+> ❗ FHI has closed its source of data on testing, deaths and demographics for confirmed infected. As of 15 November 2022, these figures will no longer be updated. ([source](https://github.com/folkehelseinstituttet/surveillance_data#2022-11-14--goodbye))
 
 Number of tested persons per specimen collection date and number of positive results.  
 The laboratory results are collected in the MSIS Laboratory Database.
@@ -160,6 +170,8 @@ Fly,WF568,Widerøe,Bergen,Kristiansund,2020-11-13 11:00:00,2020-11-13 11:55:00,f
 
 ### vaccine_doses.csv
 
+> ❗ FHI has closed its source of data on testing, deaths and demographics for confirmed infected. As of 15 November 2022, these figures will no longer be updated. ([source](https://github.com/folkehelseinstituttet/surveillance_data#2022-11-14--goodbye))
+
 Number of people who have been vaccinated for COVID-19.
 
 - ```new_dose_1```: Number of people who received their first dose of a COVID-19 vaccine
@@ -196,6 +208,8 @@ county,Oslo,2022-06-20,36,90,261,0,549744,512320,355022,0,78.6,73.2,50.7,0,387,1
 
 ### smittestopp.csv
 
+> ❗ FHI has closed its source of data on Smittestopp. ([source](https://www.fhi.no/historisk-arkiv/covid-19/smittestopp/nokkeltall-fra-smittestopp/))
+
 *Smittestopp is an app from the Norwegian Institute of Public Health ("Folkehelsesinstituttet (FHI)" in Norwegian). The app is intended to help prevent coronavirus from spreading among the population.*
 
 Number of downloads of Smittestopp and the number who have reported through the app that they are infected.
@@ -219,6 +233,8 @@ date,new_downloads,total_downloads,new_reported,total_reported,source
 ---
 
 ### omicron.csv
+
+> ❗ FHI 11.01.2022: Share of omikron nationally approaches 90% and daily updates will therefore not be continued after week 2, 2022. ([source](https://www.fhi.no/sv/smittsomme-sykdommer/corona/meldte-tilfeller-av-ny-virusvariant/))
 
 Overview of the number of cases of the omicron coronavirus variant in Norway.
 
